@@ -5,7 +5,7 @@ An end-to-end analysis of [N] job postings: API data collection, SQL database, s
 
 **[Live dashboard →](https://skillcompass-india.streamlit.app/)**
 
-![Dashboard screenshot](screenshots/skill_demand.png)
+![Dashboard screenshot](screenshots/dashboard-snippet.png)
 
 ## Key findings
 
