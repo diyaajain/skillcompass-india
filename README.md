@@ -3,7 +3,7 @@
 **What skills do Indian data analyst jobs ask for, and which should you learn first?**
 An end-to-end analysis of [N] job postings: API data collection, SQL database, skill extraction, analysis, and an interactive dashboard.
 
-**[Live dashboard →] skillcompass-india.streamlit.app**
+**[Live dashboard →](https://skillcompass-india.streamlit.app/)**
 
 ![Dashboard screenshot](screenshots/skill_demand.png)
 
