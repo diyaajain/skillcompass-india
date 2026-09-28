@@ -1,16 +1,16 @@
 skill_1,skill_2,together
-SQL,Power BI,94
-SQL,Python,71
-Power BI,Communication,60
-Power BI,Tableau,55
-SQL,Communication,54
-SQL,Tableau,54
-SQL,Excel,46
+SQL,Power BI,99
+SQL,Tableau,86
+SQL,Python,79
+SQL,Communication,65
+Power BI,Communication,64
+Power BI,Tableau,59
+SQL,Excel,49
+Tableau,Communication,43
+Python,Tableau,40
 Excel,Power BI,39
-Python,Tableau,32
-Python,Power BI,31
-Excel,Tableau,28
-Tableau,Communication,23
-Python,Excel,20
-SQL,Azure,20
-SQL,ETL,20
+Python,Power BI,32
+Excel,Tableau,31
+SQL,ETL,26
+SQL,Azure,25
+Excel,Communication,21

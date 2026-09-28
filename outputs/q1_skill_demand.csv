@@ -1,22 +1,22 @@
 skill_name,postings,pct_of_postings
-Communication,269,23.1
-Power BI,221,19.0
-SQL,217,18.7
-Tableau,87,7.5
-Excel,83,7.1
-Python,81,7.0
-Statistics,43,3.7
-ETL,39,3.4
-Azure,30,2.6
-R,29,2.5
-Spark,18,1.5
-GCP,14,1.2
-Snowflake,13,1.1
+Communication,291,23.3
+SQL,251,20.1
+Power BI,227,18.2
+Tableau,167,13.4
+Python,90,7.2
+Excel,86,6.9
+ETL,49,3.9
+Statistics,45,3.6
+Azure,35,2.8
+R,25,2.0
+Spark,21,1.7
+Snowflake,20,1.6
+GCP,17,1.4
 SAS,11,0.9
-Machine Learning,9,0.8
-Pandas,8,0.7
-Looker,8,0.7
+Machine Learning,9,0.7
+Pandas,8,0.6
+Looker,8,0.6
+AWS,8,0.6
 Google Sheets,6,0.5
 VBA,5,0.4
-AWS,5,0.4
 NumPy,2,0.2
