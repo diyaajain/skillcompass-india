@@ -1,0 +1,6 @@
+jobs.db
+outputs/
+__pycache__/
+.pytest_cache/
+validation/
+.env

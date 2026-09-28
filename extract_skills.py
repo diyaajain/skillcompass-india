@@ -1,7 +1,8 @@
-"""STEP 2: Tag each posting with skills found in its title + description.
+"""Tag each posting with skills found in its title + description.
 
 Run after collect.py:
     python3 extract_skills.py
+Re-running rebuilds all tags from scratch, so regex changes take effect.
 """
 import re
 import sqlite3
@@ -12,7 +13,8 @@ DB_PATH = "jobs.db"
 SKILLS = [
     ("SQL", "database", r"\bsql\b|\bmysql\b|\bpostgres(ql)?\b|\bt-sql\b"),
     ("Python", "language", r"\bpython\b"),
-    ("R", "language", r"\bR\b"),  # matched case-sensitively, see below
+    # R is matched case-sensitively; lookarounds avoid hits like "R&D"
+    ("R", "language", r"(?<![\w&])R(?![\w&])"),
     ("Excel", "spreadsheet", r"\bexcel\b|\badvanced excel\b|\bvlookup\b|\bpivot tables?\b"),
     ("Power BI", "bi_tool", r"\bpower\s?bi\b"),
     ("Tableau", "bi_tool", r"\btableau\b"),
@@ -34,30 +36,34 @@ SKILLS = [
 ]
 CASE_SENSITIVE = {"R", "SAS"}
 
+PATTERNS = {
+    name: re.compile(pat, 0 if name in CASE_SENSITIVE else re.IGNORECASE)
+    for name, _, pat in SKILLS
+}
+
+
+def find_skills(text: str | None) -> set[str]:
+    """Return the set of skill names mentioned in text."""
+    text = text or ""
+    return {name for name, rx in PATTERNS.items() if rx.search(text)}
+
 
 def main() -> None:
     conn = sqlite3.connect(DB_PATH)
     cur = conn.cursor()
 
-    # seed skills table and map name -> id
     for name, cat, _ in SKILLS:
         cur.execute("INSERT OR IGNORE INTO skills (skill_name, category) VALUES (?,?)", (name, cat))
     conn.commit()
     skill_ids = dict(cur.execute("SELECT skill_name, skill_id FROM skills"))
 
-    compiled = [
-        (name, re.compile(pat, 0 if name in CASE_SENSITIVE else re.IGNORECASE))
-        for name, _, pat in SKILLS
-    ]
-
+    cur.execute("DELETE FROM posting_skills")  # rebuild so regex fixes apply
     rows = cur.execute("SELECT id, COALESCE(title,''), COALESCE(description,'') FROM postings").fetchall()
-    pairs = []
-    for pid, title, desc in rows:
-        text = f"{title} {desc}"
-        for name, rx in compiled:
-            if rx.search(text):
-                pairs.append((pid, skill_ids[name]))
-
+    pairs = [
+        (pid, skill_ids[name])
+        for pid, title, desc in rows
+        for name in find_skills(f"{title} {desc}")
+    ]
     cur.executemany("INSERT OR IGNORE INTO posting_skills (posting_id, skill_id) VALUES (?,?)", pairs)
     conn.commit()
     print(f"Processed {len(rows)} postings, {len(pairs)} skill tags.")

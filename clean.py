@@ -1,4 +1,4 @@
-"""STEP 3: Clean postings in jobs.db: normalize city, add seniority, clean salary, flag duplicates.
+"""Clean postings in jobs.db: normalize city, add seniority/role/salary, flag duplicates.
 
 Run after collect.py and extract_skills.py:
     python3 clean.py
@@ -46,8 +46,18 @@ def norm_city(raw: str | None) -> str:
             return city
     parts = [p.strip() for p in text.split(",")]
     if not text or text == "india" or (len(parts) == 2 and parts[-1] == "india"):
-        return "Unspecified"   # country or state only
+        return "Unspecified"  # country or state only
     return "Other"
+
+
+def seniority(title: str | None) -> str:
+    t = (title or "").lower()
+    if re.search(SENIOR, t):
+        return "senior"
+    if re.search(JUNIOR, t):
+        return "junior"
+    return "mid"
+
 
 def role_family(title: str | None) -> str:
     t = (title or "").lower()
@@ -60,15 +70,6 @@ def role_family(title: str | None) -> str:
     if re.search(r"tableau|power\s?bi|business intelligence|\bbi\b", t):
         return "bi"
     return "other"
-
-
-def seniority(title: str | None) -> str:
-    t = (title or "").lower()
-    if re.search(SENIOR, t):
-        return "senior"
-    if re.search(JUNIOR, t):
-        return "junior"
-    return "mid"
 
 
 def salary_mid(lo, hi):
