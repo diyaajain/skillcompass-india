@@ -92,4 +92,4 @@ streamlit run app.py
 
 Python (pandas, requests, matplotlib, plotly), SQLite, Streamlit.
 
-*Data from Adzuna. Built by [Your Name] · [LinkedIn] · [Email]*
+*Data from Adzuna. Built by Diya*
