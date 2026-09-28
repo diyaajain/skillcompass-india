@@ -1,60 +1,60 @@
 posting_id,skill_name,category
-5876869978,Looker,bi_tool
 5876869978,SQL,database
+5876869978,Looker,bi_tool
 5876869978,Azure,cloud
-5876869978,ETL,concept
+5876869978,R,language
 5876869978,Power BI,bi_tool
 5876869978,Tableau,bi_tool
-5876869978,R,language
 5876869978,Python,language
+5876869978,ETL,concept
 5868794225,Statistics,concept
 5898126179,Communication,soft_skill
 5867036037,Machine Learning,concept
 5898129792,SQL,database
 5898129608,SQL,database
+5871991896,Communication,soft_skill
+5871991896,ETL,concept
 5871991896,GCP,cloud
 5871991896,Spark,big_data
-5871991896,ETL,concept
-5871991896,Communication,soft_skill
 5883562726,SQL,database
-5880953033,Azure,cloud
 5880953033,Communication,soft_skill
 5880953033,SQL,database
+5880953033,Azure,cloud
 5889219254,ETL,concept
-5898128499,Communication,soft_skill
 5898128499,Power BI,bi_tool
+5898128499,Communication,soft_skill
 5870527563,ETL,concept
 5870527563,SQL,database
 5893930269,Communication,soft_skill
 5898128593,SQL,database
 5884588405,Power BI,bi_tool
+5884588405,SQL,database
 5884588405,Python,language
 5884588405,Tableau,bi_tool
-5884588405,SQL,database
 5867036118,Communication,soft_skill
 5889220796,SQL,database
 5889220796,Spark,big_data
-5889220796,Communication,soft_skill
+5889220796,R,language
 5889220796,Power BI,bi_tool
 5889220796,Tableau,bi_tool
-5889220796,R,language
 5889220796,Python,language
-5868789197,Excel,spreadsheet
+5889220796,Communication,soft_skill
 5868789197,SQL,database
 5868789197,Statistics,concept
-5868789197,Communication,soft_skill
 5868789197,Power BI,bi_tool
 5868789197,Tableau,bi_tool
+5868789197,Communication,soft_skill
+5868789197,Excel,spreadsheet
 5876013496,SQL,database
-5891694581,Snowflake,cloud
 5891694581,SQL,database
+5891694581,Snowflake,cloud
 5837139892,Spark,big_data
 5837139892,Python,language
 5867037378,Communication,soft_skill
-5898533446,Communication,soft_skill
 5898533446,Power BI,bi_tool
-5871992907,GCP,cloud
+5898533446,Communication,soft_skill
 5871992907,SQL,database
+5871992907,GCP,cloud
 5886097875,Statistics,concept
 5879663063,Excel,spreadsheet
 5899509974,Statistics,concept
@@ -62,391 +62,391 @@ posting_id,skill_name,category
 5889220778,Communication,soft_skill
 5900616370,Excel,spreadsheet
 5879664973,Power BI,bi_tool
-5900616313,Python,language
 5900616313,SQL,database
+5900616313,Python,language
+5899510152,SQL,database
 5899510152,Excel,spreadsheet
 5899510152,Google Sheets,spreadsheet
-5899510152,SQL,database
 5879657384,Communication,soft_skill
 5879657384,SQL,database
 5869559140,Communication,soft_skill
 5899510891,Excel,spreadsheet
 5899510891,Google Sheets,spreadsheet
-5879667961,R,language
 5879667961,Communication,soft_skill
-5879667961,Python,language
 5879667961,SQL,database
+5879667961,Python,language
+5879667961,R,language
 5897296073,ETL,concept
-5894225252,Azure,cloud
 5894225252,SQL,database
+5894225252,Azure,cloud
 5871992153,Power BI,bi_tool
 5871992153,SQL,database
 5901133932,Communication,soft_skill
 5876871774,Communication,soft_skill
-5876871774,Python,language
 5876871774,SQL,database
+5876871774,Python,language
 5881763217,Statistics,concept
-5898131307,Python,language
-5898131307,SAS,language
 5898131307,Tableau,bi_tool
 5898131307,SQL,database
-5864437348,Python,language
+5898131307,SAS,language
+5898131307,Python,language
 5864437348,SQL,database
-5870527967,Excel,spreadsheet
-5870527967,Communication,soft_skill
-5870527967,VBA,language
+5864437348,Python,language
 5870527967,Power BI,bi_tool
+5870527967,Communication,soft_skill
+5870527967,Excel,spreadsheet
+5870527967,VBA,language
 5891691076,ETL,concept
 5891690070,ETL,concept
 5891690335,ETL,concept
 5880070268,SQL,database
 5896612639,Power BI,bi_tool
+5896612639,SQL,database
 5896612639,Communication,soft_skill
 5896612639,Snowflake,cloud
-5896612639,SQL,database
-5900876540,Machine Learning,concept
 5900876540,ETL,concept
 5900876540,SQL,database
-5871993046,Spark,big_data
+5900876540,Machine Learning,concept
 5871993046,ETL,concept
 5871993046,SQL,database
+5871993046,Spark,big_data
 5898262333,Communication,soft_skill
 5867263507,SQL,database
-5867263507,Statistics,concept
 5867263507,Spark,big_data
+5867263507,Statistics,concept
 5867263507,Power BI,bi_tool
-5867263507,AWS,cloud
 5867263507,Python,language
+5867263507,AWS,cloud
 5898533140,Communication,soft_skill
-5867036131,Azure,cloud
 5867036131,ETL,concept
 5867036131,SQL,database
-5897296089,Machine Learning,concept
+5867036131,Azure,cloud
 5897296089,ETL,concept
+5897296089,Machine Learning,concept
 5889211709,ETL,concept
 5889211709,SQL,database
 5893930268,ETL,concept
 5893930268,SQL,database
 5893922605,ETL,concept
 5895030957,Azure,cloud
+5890612426,ETL,concept
 5890612426,GCP,cloud
 5890612426,Python,language
-5890612426,ETL,concept
+5901137667,SQL,database
 5901137667,Azure,cloud
 5901137667,Python,language
 5901137667,Snowflake,cloud
-5901137667,SQL,database
 5870527464,ETL,concept
-5870527464,AWS,cloud
 5870527464,SQL,database
+5870527464,AWS,cloud
 5901134284,SQL,database
 5875602757,Excel,spreadsheet
 5875419680,ETL,concept
-5898126393,Python,language
 5898126393,ETL,concept
-5896613632,Spark,big_data
-5896613632,Python,language
+5898126393,Python,language
 5896613632,ETL,concept
 5896613632,SQL,database
+5896613632,Spark,big_data
+5896613632,Python,language
 5899975699,Communication,soft_skill
 5900875768,Communication,soft_skill
-5889684901,Azure,cloud
 5889684901,SQL,database
+5889684901,Azure,cloud
 5864424975,SQL,database
 5864424975,Azure,cloud
+5864424975,Snowflake,cloud
 5864424975,Communication,soft_skill
 5864424975,ETL,concept
-5864424975,Snowflake,cloud
-5900875783,Azure,cloud
-5900875783,Spark,big_data
-5900875783,ETL,concept
 5900875783,Communication,soft_skill
+5900875783,ETL,concept
+5900875783,Spark,big_data
+5900875783,Azure,cloud
 5846723609,Communication,soft_skill
 5864439916,ETL,concept
 5819873638,Excel,spreadsheet
 5901136961,GCP,cloud
 5886092306,Machine Learning,concept
 5898533963,SQL,database
-5898533963,GCP,cloud
 5898533963,Azure,cloud
-5898533963,Machine Learning,concept
-5898533963,AWS,cloud
 5898533963,R,language
+5898533963,Machine Learning,concept
 5898533963,Python,language
+5898533963,GCP,cloud
+5898533963,AWS,cloud
 1993882092,Statistics,concept
 5868120206,Communication,soft_skill
 5868120206,SQL,database
-5850375334,Looker,bi_tool
 5850375334,SQL,database
+5850375334,Looker,bi_tool
 5850375334,Statistics,concept
-5850375334,ETL,concept
 5850375334,Tableau,bi_tool
 5850375334,Python,language
+5850375334,ETL,concept
 5728436260,Communication,soft_skill
 5848337096,Communication,soft_skill
-5503836577,Python,language
 5503836577,SQL,database
-5831395731,Statistics,concept
+5503836577,Python,language
 5831395731,Tableau,bi_tool
 5831395731,SQL,database
+5831395731,Statistics,concept
 2500155500,Power BI,bi_tool
+2500155500,SQL,database
 2500155500,Python,language
 2500155500,Tableau,bi_tool
-2500155500,SQL,database
 4993547435,Python,language
 5893825602,SQL,database
-2247134476,Python,language
 2247134476,SQL,database
-5336689191,Tableau,bi_tool
+2247134476,Python,language
 5336689191,Power BI,bi_tool
+5336689191,Tableau,bi_tool
 4855397054,Communication,soft_skill
-5727143467,Python,language
 5727143467,SQL,database
-5832798180,Excel,spreadsheet
+5727143467,Python,language
 5832798180,SQL,database
-5832798180,Pandas,library
 5832798180,Power BI,bi_tool
 5832798180,Tableau,bi_tool
 5832798180,Python,language
-5832798159,Excel,spreadsheet
+5832798180,Pandas,library
+5832798180,Excel,spreadsheet
 5832798159,SQL,database
-5832798159,Pandas,library
 5832798159,Power BI,bi_tool
 5832798159,Tableau,bi_tool
 5832798159,Python,language
-5832798167,Excel,spreadsheet
+5832798159,Pandas,library
+5832798159,Excel,spreadsheet
 5832798167,SQL,database
-5832798167,Pandas,library
 5832798167,Power BI,bi_tool
 5832798167,Tableau,bi_tool
 5832798167,Python,language
-5832798187,Excel,spreadsheet
+5832798167,Pandas,library
+5832798167,Excel,spreadsheet
 5832798187,SQL,database
-5832798187,Pandas,library
 5832798187,Power BI,bi_tool
 5832798187,Tableau,bi_tool
 5832798187,Python,language
-5832798181,Excel,spreadsheet
+5832798187,Pandas,library
+5832798187,Excel,spreadsheet
 5832798181,SQL,database
-5832798181,Pandas,library
 5832798181,Power BI,bi_tool
 5832798181,Tableau,bi_tool
 5832798181,Python,language
-5832798158,Excel,spreadsheet
+5832798181,Pandas,library
+5832798181,Excel,spreadsheet
 5832798158,SQL,database
-5832798158,Pandas,library
 5832798158,Power BI,bi_tool
 5832798158,Tableau,bi_tool
 5832798158,Python,language
+5832798158,Pandas,library
+5832798158,Excel,spreadsheet
 2449398766,SQL,database
-5728445327,Excel,spreadsheet
 5728445327,Power BI,bi_tool
-5728445327,Communication,soft_skill
 5728445327,SQL,database
-2890608757,Azure,cloud
-2890608757,Spark,big_data
+5728445327,Excel,spreadsheet
+5728445327,Communication,soft_skill
 2890608757,SQL,database
-4686704927,R,language
+2890608757,Spark,big_data
+2890608757,Azure,cloud
 4686704927,Communication,soft_skill
-5877842241,Excel,spreadsheet
-5877842241,R,language
-5877842241,Python,language
+4686704927,R,language
 5877842241,SQL,database
+5877842241,Excel,spreadsheet
+5877842241,Python,language
+5877842241,R,language
+4715697356,SQL,database
 4715697356,Excel,spreadsheet
 4715697356,Spark,big_data
 4715697356,Python,language
-4715697356,SQL,database
+5800765376,Power BI,bi_tool
+5800765376,Tableau,bi_tool
 5800765376,Excel,spreadsheet
 5800765376,Statistics,concept
-5800765376,Tableau,bi_tool
-5800765376,Power BI,bi_tool
-2403881225,Machine Learning,concept
 2403881225,Communication,soft_skill
+2403881225,Machine Learning,concept
 5681009000,SQL,database
-5681009000,GCP,cloud
-5681009000,Pandas,library
-5681009000,NumPy,library
 5681009000,Python,language
-5857746715,Tableau,bi_tool
+5681009000,NumPy,library
+5681009000,Pandas,library
+5681009000,GCP,cloud
 5857746715,Power BI,bi_tool
+5857746715,Tableau,bi_tool
+5814494533,SQL,database
 5814494533,Spark,big_data
 5814494533,Python,language
-5814494533,SQL,database
 5768623778,ETL,concept
 5768623778,SQL,database
 5899555543,Communication,soft_skill
 3337906172,Communication,soft_skill
 5900348948,Communication,soft_skill
-5762286343,Excel,spreadsheet
 5762286343,Power BI,bi_tool
-5762286343,Python,language
 5762286343,SQL,database
+5762286343,Excel,spreadsheet
+5762286343,Python,language
 1762829126,Google Sheets,spreadsheet
 5842590109,Machine Learning,concept
 2572832371,Statistics,concept
 5831397285,Communication,soft_skill
 5574398026,ETL,concept
-2853928118,Statistics,concept
-2853928118,Python,language
 2853928118,SQL,database
+2853928118,Python,language
+2853928118,Statistics,concept
 5727163751,SQL,database
 5727163751,Spark,big_data
 5727163751,Power BI,bi_tool
 5727163751,Tableau,bi_tool
 5727163751,Snowflake,cloud
-5850376089,Communication,soft_skill
 5850376089,Power BI,bi_tool
+5850376089,Communication,soft_skill
 5522126592,Spark,big_data
 5728267279,Excel,spreadsheet
 5728267279,Google Sheets,spreadsheet
-5859122688,Statistics,concept
 5859122688,SQL,database
-5859122647,Statistics,concept
+5859122688,Statistics,concept
 5859122647,SQL,database
+5859122647,Statistics,concept
 5889085236,Power BI,bi_tool
 5891404249,ETL,concept
 5897176848,Statistics,concept
-2830210287,Python,language
 2830210287,SQL,database
+2830210287,Python,language
 5861219353,Power BI,bi_tool
 5861965986,Power BI,bi_tool
 5732584180,ETL,concept
-2953661450,Excel,spreadsheet
-2953661450,Google Sheets,spreadsheet
 2953661450,SQL,database
-2953661450,Communication,soft_skill
+2953661450,Google Sheets,spreadsheet
 2953661450,Power BI,bi_tool
 2953661450,Tableau,bi_tool
-2177266370,Excel,spreadsheet
-2177266370,Tableau,bi_tool
+2953661450,Communication,soft_skill
+2953661450,Excel,spreadsheet
 2177266370,Power BI,bi_tool
+2177266370,Tableau,bi_tool
+2177266370,Excel,spreadsheet
 5607196899,Power BI,bi_tool
-5607196899,Spark,big_data
-5607196899,ETL,concept
 5607196899,SQL,database
+5607196899,ETL,concept
+5607196899,Spark,big_data
 5520630121,SQL,database
-5111436575,Statistics,concept
 5111436575,ETL,concept
+5111436575,Statistics,concept
 3679469504,SQL,database
-3679469504,Statistics,concept
-3679469504,Communication,soft_skill
-3679469504,SAS,language
 3679469504,R,language
+3679469504,Statistics,concept
+3679469504,SAS,language
 3679469504,Python,language
+3679469504,Communication,soft_skill
 4988851226,SQL,database
-4988851226,GCP,cloud
 4988851226,Azure,cloud
-4988851226,AWS,cloud
 4988851226,Python,language
+4988851226,GCP,cloud
+4988851226,AWS,cloud
 4547502405,Statistics,concept
 2398472037,Excel,spreadsheet
 2346068207,Communication,soft_skill
 2776008869,Communication,soft_skill
 3025811339,ETL,concept
-2631733820,R,language
 2631733820,Communication,soft_skill
+2631733820,R,language
 2631733820,Python,language
-1171507526,Excel,spreadsheet
-1171507526,R,language
-1171507526,Python,language
 1171507526,SQL,database
+1171507526,Excel,spreadsheet
+1171507526,Python,language
+1171507526,R,language
 1186010488,Communication,soft_skill
-1186010488,Python,language
 1186010488,SQL,database
+1186010488,Python,language
 4665943640,Google Sheets,spreadsheet
 2577819167,Communication,soft_skill
 2577819167,SQL,database
 2653476396,Communication,soft_skill
 2653476396,SQL,database
-3189580389,Excel,spreadsheet
 3189580389,SQL,database
-3189580389,Communication,soft_skill
 3189580389,Power BI,bi_tool
-3189580389,AWS,cloud
 3189580389,Python,language
-1422966819,Pandas,library
+3189580389,Communication,soft_skill
+3189580389,Excel,spreadsheet
+3189580389,AWS,cloud
 1422966819,NumPy,library
-1422966819,Python,language
+1422966819,Pandas,library
 1422966819,SQL,database
+1422966819,Python,language
 2821621318,Communication,soft_skill
-5604419908,Excel,spreadsheet
 5604419908,Communication,soft_skill
 5604419908,SQL,database
+5604419908,Excel,spreadsheet
 5211779275,Power BI,bi_tool
+5211779275,SQL,database
 5211779275,Python,language
 5211779275,Tableau,bi_tool
-5211779275,SQL,database
-5531896486,Excel,spreadsheet
 5531896486,Communication,soft_skill
 5531896486,SQL,database
-5294954886,Excel,spreadsheet
+5531896486,Excel,spreadsheet
 5294954886,Communication,soft_skill
 5294954886,SQL,database
+5294954886,Excel,spreadsheet
 4282822424,Communication,soft_skill
-4282822424,Python,language
 4282822424,SQL,database
+4282822424,Python,language
+5819884300,SQL,database
 5819884300,GCP,cloud
 5819884300,Python,language
-5819884300,SQL,database
 5831401994,Statistics,concept
-5822435697,Statistics,concept
 5822435697,Communication,soft_skill
+5822435697,Statistics,concept
 5849135077,Communication,soft_skill
-5850376549,Python,language
 5850376549,Tableau,bi_tool
 5850376549,SQL,database
+5850376549,Python,language
 5782538634,Power BI,bi_tool
 5782538634,SQL,database
-5839221139,Excel,spreadsheet
 5839221139,Tableau,bi_tool
-5860541729,Excel,spreadsheet
-5860541729,Python,language
+5839221139,Excel,spreadsheet
 5860541729,Tableau,bi_tool
 5860541729,SQL,database
+5860541729,Excel,spreadsheet
+5860541729,Python,language
+5879144086,SQL,database
 5879144086,Excel,spreadsheet
 5879144086,Python,language
-5879144086,SQL,database
 5876480361,Communication,soft_skill
 5876480303,Communication,soft_skill
-5894639200,Excel,spreadsheet
 5894639200,SQL,database
-5894639200,Communication,soft_skill
 5894639200,Power BI,bi_tool
 5894639200,Tableau,bi_tool
+5894639200,Communication,soft_skill
+5894639200,Excel,spreadsheet
 5787185965,Communication,soft_skill
 5727264729,SQL,database
 5727264729,Statistics,concept
-5727264729,SAS,language
 5727264729,Power BI,bi_tool
 5727264729,Tableau,bi_tool
 5727264729,Python,language
-4686707833,Python,language
+5727264729,SAS,language
 4686707833,SQL,database
-4686707835,Excel,spreadsheet
+4686707833,Python,language
 4686707835,SQL,database
+4686707835,Excel,spreadsheet
 4686706169,ETL,concept
 4686706356,ETL,concept
 4686707449,Excel,spreadsheet
+5728422548,Tableau,bi_tool
 5728422548,Excel,spreadsheet
 5728422548,VBA,language
-5728422548,Tableau,bi_tool
 5890717796,GCP,cloud
 5870527502,GCP,cloud
 5870527502,Snowflake,cloud
 5859054156,SQL,database
 5876870209,Azure,cloud
+5884641256,SQL,database
 5884641256,GCP,cloud
 5884641256,Python,language
-5884641256,SQL,database
-5898126519,Azure,cloud
-5898126519,Spark,big_data
 5898126519,ETL,concept
 5898126519,SQL,database
-5876869964,GCP,cloud
+5898126519,Spark,big_data
+5898126519,Azure,cloud
 5876869964,ETL,concept
+5876869964,GCP,cloud
 5880064440,Communication,soft_skill
-5880064440,Spark,big_data
 5880064440,ETL,concept
+5880064440,Spark,big_data
 5880064440,AWS,cloud
 5892808458,Communication,soft_skill
 5892808458,SQL,database
@@ -454,18 +454,18 @@ posting_id,skill_name,category
 4739597153,Excel,spreadsheet
 5727816928,Statistics,concept
 5886096552,SQL,database
-5886096552,Azure,cloud
 5886096552,Spark,big_data
-5886096552,ETL,concept
+5886096552,Azure,cloud
 5886096552,Python,language
+5886096552,ETL,concept
 5879658434,SQL,database
-5879658434,Azure,cloud
 5879658434,Spark,big_data
-5879658434,ETL,concept
+5879658434,Azure,cloud
 5879658434,Python,language
+5879658434,ETL,concept
 5850375378,Statistics,concept
-5761791107,Azure,cloud
 5761791107,Communication,soft_skill
+5761791107,Azure,cloud
 5257287584,SQL,database
 5877283849,Spark,big_data
 5877283849,Python,language
@@ -475,55 +475,55 @@ posting_id,skill_name,category
 4386563730,SQL,database
 5803805785,Communication,soft_skill
 5759043518,Power BI,bi_tool
+5759043518,SQL,database
 5759043518,Communication,soft_skill
 5759043518,Tableau,bi_tool
-5759043518,SQL,database
 5861221729,Power BI,bi_tool
+5861221729,SQL,database
 5861221729,Looker,bi_tool
 5861221729,Python,language
-5861221729,SQL,database
 5804445148,Communication,soft_skill
 4928060322,Power BI,bi_tool
 4928060322,SQL,database
 5775399105,Power BI,bi_tool
+5775399105,SQL,database
 5775399105,Communication,soft_skill
 5775399105,Tableau,bi_tool
-5775399105,SQL,database
-5830641274,Excel,spreadsheet
 5830641274,Power BI,bi_tool
+5830641274,Excel,spreadsheet
 5114699182,Communication,soft_skill
 3529447917,Excel,spreadsheet
-5859122619,Python,language
 5859122619,SQL,database
-5859122606,Python,language
+5859122619,Python,language
 5859122606,SQL,database
+5859122606,Python,language
 5700497169,Communication,soft_skill
 4801449881,Communication,soft_skill
 5866927385,Communication,soft_skill
 5594451979,Communication,soft_skill
-5594451979,Snowflake,cloud
 5594451979,SQL,database
+5594451979,Snowflake,cloud
 5664713683,Communication,soft_skill
 5796209691,Communication,soft_skill
-5796209691,Snowflake,cloud
 5796209691,SQL,database
-5854877634,Spark,big_data
+5796209691,Snowflake,cloud
 5854877634,Communication,soft_skill
 5854877634,SQL,database
+5854877634,Spark,big_data
 5857745620,Power BI,bi_tool
+5857745620,SQL,database
 5857745620,Communication,soft_skill
 5857745620,Python,language
-5857745620,SQL,database
 5867249928,Communication,soft_skill
-5867249928,Snowflake,cloud
 5867249928,SQL,database
+5867249928,Snowflake,cloud
 4441560027,Communication,soft_skill
 5634174711,SQL,database
 2398472113,SQL,database
-5859122691,Statistics,concept
 5859122691,SQL,database
-5859122632,Statistics,concept
+5859122691,Statistics,concept
 5859122632,SQL,database
+5859122632,Statistics,concept
 5833585588,Communication,soft_skill
 5710497456,ETL,concept
 5727252233,Communication,soft_skill
@@ -540,82 +540,82 @@ posting_id,skill_name,category
 5875602815,Communication,soft_skill
 5873073968,Machine Learning,concept
 5889679182,SQL,database
-5889221059,Communication,soft_skill
 5889221059,Tableau,bi_tool
 5889221059,SQL,database
+5889221059,Communication,soft_skill
 5883564043,Communication,soft_skill
 5887061515,Machine Learning,concept
-5898127468,Excel,spreadsheet
 5898127468,Tableau,bi_tool
-5876872332,Communication,soft_skill
+5898127468,Excel,spreadsheet
 5876872332,Power BI,bi_tool
+5876872332,Communication,soft_skill
 5876872322,Communication,soft_skill
 5895240199,Communication,soft_skill
 5886098783,Communication,soft_skill
-5882866389,GCP,cloud
-5882866389,Azure,cloud
-5882866389,Python,language
 5882866389,AWS,cloud
+5882866389,Azure,cloud
+5882866389,GCP,cloud
+5882866389,Python,language
 5881760260,Python,language
 5891978216,SQL,database
-5889214883,Spark,big_data
 5889214883,ETL,concept
+5889214883,Spark,big_data
 5898129320,Communication,soft_skill
 5865286259,Communication,soft_skill
 5865286259,ETL,concept
 5879671139,SQL,database
-5879671139,Azure,cloud
 5879671139,Spark,big_data
-5879671139,ETL,concept
+5879671139,Azure,cloud
 5879671139,Python,language
+5879671139,ETL,concept
 5898533170,ETL,concept
 5884159178,Communication,soft_skill
 5890612181,Communication,soft_skill
 5889684584,Communication,soft_skill
 5890613486,ETL,concept
 5890613486,SQL,database
-5900875756,Azure,cloud
 5900875756,SQL,database
-5881763446,Azure,cloud
+5900875756,Azure,cloud
 5881763446,ETL,concept
 5881763446,SQL,database
+5881763446,Azure,cloud
 5870527089,ETL,concept
 5868789143,ETL,concept
 5868789143,SQL,database
 5889683602,Communication,soft_skill
 5886097732,ETL,concept
-5891690201,Python,language
-5891690201,ETL,concept
 5891690201,AWS,cloud
+5891690201,ETL,concept
+5891690201,Python,language
 5896612569,Communication,soft_skill
 5877457586,AWS,cloud
 5895240319,SQL,database
 5898128947,SQL,database
-5898128947,Azure,cloud
 5898128947,Spark,big_data
-5898128947,ETL,concept
+5898128947,Azure,cloud
 5898128947,Python,language
+5898128947,ETL,concept
 5867263614,Communication,soft_skill
-5896614104,Spark,big_data
 5896614104,ETL,concept
+5896614104,Spark,big_data
 5896614104,AWS,cloud
-5889219840,Spark,big_data
 5889219840,ETL,concept
+5889219840,Spark,big_data
 5889219840,AWS,cloud
 5889223712,Communication,soft_skill
-5889223712,Spark,big_data
 5889223712,ETL,concept
+5889223712,Spark,big_data
 5889223712,AWS,cloud
-5891690064,Statistics,concept
-5891690064,VBA,language
 5891690064,ETL,concept
+5891690064,VBA,language
 5891690064,SAS,language
+5891690064,Statistics,concept
 5879657779,Communication,soft_skill
 5869558894,Python,language
 5879659464,SQL,database
 5896612832,Communication,soft_skill
-5896612832,Spark,big_data
 5896612832,ETL,concept
+5896612832,Spark,big_data
 5896612832,AWS,cloud
 5897308785,Communication,soft_skill
 5898069170,Communication,soft_skill
@@ -623,8 +623,8 @@ posting_id,skill_name,category
 5758364393,Communication,soft_skill
 4725867393,Communication,soft_skill
 5864435922,Communication,soft_skill
-5891690316,Python,language
 5891690316,AWS,cloud
+5891690316,Python,language
 5893922561,Python,language
 5899975936,Communication,soft_skill
 5889222255,Communication,soft_skill
@@ -637,19 +637,19 @@ posting_id,skill_name,category
 5859124842,Communication,soft_skill
 2609531597,Communication,soft_skill
 5719182260,Communication,soft_skill
-5832798246,R,language
 5832798246,Communication,soft_skill
+5832798246,R,language
 5255506980,Communication,soft_skill
 5849525633,Communication,soft_skill
 2583051695,Communication,soft_skill
 5629158866,Communication,soft_skill
-5120355680,Excel,spreadsheet
 5120355680,Communication,soft_skill
+5120355680,Excel,spreadsheet
 5850378534,Communication,soft_skill
 5728332881,Communication,soft_skill
+5329708622,Power BI,bi_tool
 5329708622,Excel,spreadsheet
 5329708622,Communication,soft_skill
-5329708622,Power BI,bi_tool
 5832798190,Communication,soft_skill
 5832798160,Communication,soft_skill
 5832798189,Communication,soft_skill
@@ -660,9 +660,9 @@ posting_id,skill_name,category
 5861792577,Communication,soft_skill
 4686706474,Communication,soft_skill
 5727143893,Communication,soft_skill
-5336689187,Excel,spreadsheet
 5336689187,Power BI,bi_tool
 5336689187,SQL,database
+5336689187,Excel,spreadsheet
 3911379858,Communication,soft_skill
 3592404194,Communication,soft_skill
 3592404194,SQL,database
@@ -677,8 +677,8 @@ posting_id,skill_name,category
 5854880420,Communication,soft_skill
 5854880417,Communication,soft_skill
 5860533598,Machine Learning,concept
-5846911659,R,language
 5846911659,Communication,soft_skill
+5846911659,R,language
 4386562594,Communication,soft_skill
 4686706698,Communication,soft_skill
 5551011286,Communication,soft_skill
@@ -690,35 +690,35 @@ posting_id,skill_name,category
 4964034326,Communication,soft_skill
 2468164053,Communication,soft_skill
 5879144121,Communication,soft_skill
-5042641487,Excel,spreadsheet
-5042641487,Statistics,concept
 5042641487,Tableau,bi_tool
 5042641487,SQL,database
+5042641487,Excel,spreadsheet
+5042641487,Statistics,concept
 2330850843,Communication,soft_skill
 5211779262,Communication,soft_skill
 5211779262,SQL,database
 5859117805,SQL,database
 5861793633,Power BI,bi_tool
-5861793633,Tableau,bi_tool
 5861793633,SQL,database
+5861793633,Tableau,bi_tool
 3632177861,Communication,soft_skill
 2853928094,Communication,soft_skill
-5851865180,Communication,soft_skill
-5851865180,Tableau,bi_tool
 5851865180,Power BI,bi_tool
+5851865180,Tableau,bi_tool
+5851865180,Communication,soft_skill
 5266460273,Communication,soft_skill
 4596884484,Communication,soft_skill
 5842589806,Communication,soft_skill
 5899550146,Communication,soft_skill
 2050583377,Communication,soft_skill
+5889511359,Power BI,bi_tool
 5889511359,Excel,spreadsheet
 5889511359,VBA,language
-5889511359,Power BI,bi_tool
-4514376922,Excel,spreadsheet
 4514376922,SQL,database
-4514376922,Communication,soft_skill
 4514376922,R,language
 4514376922,Python,language
+4514376922,Communication,soft_skill
+4514376922,Excel,spreadsheet
 5487693704,Communication,soft_skill
 5804688818,Communication,soft_skill
 5842590099,Communication,soft_skill
@@ -740,9 +740,9 @@ posting_id,skill_name,category
 5891895070,Communication,soft_skill
 5850370950,Communication,soft_skill
 5727134296,Communication,soft_skill
-1364038142,R,language
 1364038142,Communication,soft_skill
 1364038142,SQL,database
+1364038142,R,language
 5868702111,Communication,soft_skill
 2635526375,Communication,soft_skill
 5871530579,Communication,soft_skill
@@ -760,8 +760,8 @@ posting_id,skill_name,category
 2985082785,Communication,soft_skill
 3916200841,Communication,soft_skill
 4836571542,Communication,soft_skill
-4514375999,Statistics,concept
 4514375999,Communication,soft_skill
+4514375999,Statistics,concept
 4476844070,Communication,soft_skill
 4590721777,Communication,soft_skill
 4514376112,Excel,spreadsheet
@@ -775,8 +775,8 @@ posting_id,skill_name,category
 1352025256,Communication,soft_skill
 3269975169,Communication,soft_skill
 2304187880,Communication,soft_skill
-2667255768,Azure,cloud
 2667255768,SQL,database
+2667255768,Azure,cloud
 2572832386,Statistics,concept
 1301202531,Communication,soft_skill
 3949356907,Communication,soft_skill
@@ -785,11 +785,11 @@ posting_id,skill_name,category
 5324109247,Communication,soft_skill
 5731156344,Communication,soft_skill
 5820996358,Communication,soft_skill
-5831402619,Excel,spreadsheet
 5831402619,Communication,soft_skill
+5831402619,Excel,spreadsheet
+5832799305,SQL,database
 5832799305,Excel,spreadsheet
 5832799305,Statistics,concept
-5832799305,SQL,database
 5839225641,Communication,soft_skill
 5829200282,Power BI,bi_tool
 5841130770,Communication,soft_skill
@@ -804,65 +804,65 @@ posting_id,skill_name,category
 2817863121,SQL,database
 5854846837,SQL,database
 5899326437,SQL,database
+5492762351,SQL,database
 5492762351,Excel,spreadsheet
 5492762351,Spark,big_data
-5492762351,SQL,database
-5897949485,Python,language
 5897949485,SQL,database
+5897949485,Python,language
 5887521034,Power BI,bi_tool
+5887521034,SQL,database
 5887521034,Communication,soft_skill
 5887521034,Tableau,bi_tool
-5887521034,SQL,database
 5887521051,Power BI,bi_tool
+5887521051,SQL,database
 5887521051,Communication,soft_skill
 5887521051,Tableau,bi_tool
-5887521051,SQL,database
 5861792671,Communication,soft_skill
-5861792671,SAS,language
 5861792671,SQL,database
-5861956149,Python,language
+5861792671,SAS,language
 5861956149,SQL,database
+5861956149,Python,language
+5876717781,SQL,database
 5876717781,Machine Learning,concept
 5876717781,Python,language
-5876717781,SQL,database
 5850370916,SQL,database
-2635526475,Excel,spreadsheet
 2635526475,SQL,database
+2635526475,Excel,spreadsheet
 5859124355,SQL,database
 1307374340,SQL,database
-5851860870,Python,language
 5851860870,SQL,database
+5851860870,Python,language
 5893831377,Power BI,bi_tool
 5893831377,SQL,database
 4751737597,Tableau,bi_tool
 4751737597,SQL,database
-5893057354,Python,language
 5893057354,SQL,database
+5893057354,Python,language
 3949357015,SQL,database
-5859121617,Azure,cloud
 5859121617,SQL,database
+5859121617,Azure,cloud
 5519396283,SQL,database
 5881148812,SQL,database
 4734233591,Communication,soft_skill
 4734233591,SQL,database
 5893995758,Power BI,bi_tool
+5893995758,SQL,database
 5893995758,Communication,soft_skill
 5893995758,Python,language
-5893995758,SQL,database
 5861792575,Excel,spreadsheet
 5854469116,Power BI,bi_tool
-5854469116,Python,language
 5854469116,SQL,database
+5854469116,Python,language
 5453609209,ETL,concept
-5453609209,AWS,cloud
 5453609209,SQL,database
+5453609209,AWS,cloud
 4052660747,SQL,database
 5879144848,Communication,soft_skill
 5879144848,SQL,database
-5351820571,Python,language
 5351820571,ETL,concept
-5351820571,Snowflake,cloud
 5351820571,SQL,database
+5351820571,Python,language
+5351820571,Snowflake,cloud
 5808699272,SQL,database
 5808699272,Statistics,concept
 5808699272,Power BI,bi_tool
@@ -871,374 +871,374 @@ posting_id,skill_name,category
 5831395955,Excel,spreadsheet
 5831395929,Excel,spreadsheet
 5862954194,Power BI,bi_tool
-5862954194,Tableau,bi_tool
 5862954194,SQL,database
+5862954194,Tableau,bi_tool
 5859124622,Communication,soft_skill
 4898422330,ETL,concept
 4898422330,SQL,database
-5834758220,Looker,bi_tool
 5834758220,SQL,database
-5834758220,GCP,cloud
-5834758220,Power BI,bi_tool
+5834758220,Looker,bi_tool
 5834758220,R,language
+5834758220,Power BI,bi_tool
 5834758220,Python,language
-5504383531,Looker,bi_tool
+5834758220,GCP,cloud
 5504383531,SQL,database
-5504383531,GCP,cloud
-5504383531,Power BI,bi_tool
+5504383531,Looker,bi_tool
 5504383531,R,language
+5504383531,Power BI,bi_tool
 5504383531,Python,language
-5504383516,Looker,bi_tool
+5504383531,GCP,cloud
 5504383516,SQL,database
-5504383516,GCP,cloud
-5504383516,Power BI,bi_tool
+5504383516,Looker,bi_tool
 5504383516,R,language
+5504383516,Power BI,bi_tool
 5504383516,Python,language
+5504383516,GCP,cloud
 5120362348,Azure,cloud
-5831401223,Python,language
 5831401223,ETL,concept
 5831401223,AWS,cloud
 5831401223,SQL,database
-5801700591,VBA,language
+5831401223,Python,language
 5801700591,SQL,database
+5801700591,VBA,language
 5831406237,ETL,concept
 5831406237,SQL,database
 5537465428,Communication,soft_skill
 5860806898,Power BI,bi_tool
-5672223893,Excel,spreadsheet
 5672223893,SQL,database
-5672223893,ETL,concept
 5672223893,Power BI,bi_tool
 5672223893,Tableau,bi_tool
+5672223893,ETL,concept
+5672223893,Excel,spreadsheet
 5839224653,Communication,soft_skill
 5839224653,SQL,database
 5897044568,SQL,database
 5453607889,SQL,database
 5893011567,Spark,big_data
 5761756427,Communication,soft_skill
-5866922336,Python,language
 5866922336,ETL,concept
-5866922336,Snowflake,cloud
 5866922336,SQL,database
-5879141424,Excel,spreadsheet
+5866922336,Python,language
+5866922336,Snowflake,cloud
 5879141424,Power BI,bi_tool
 5879141424,SQL,database
+5879141424,Excel,spreadsheet
 5901134587,ETL,concept
 5901134587,SQL,database
-5897946119,Azure,cloud
 5897946119,ETL,concept
-5879360360,Azure,cloud
+5897946119,Azure,cloud
 5879360360,ETL,concept
+5879360360,Azure,cloud
 5895599833,Power BI,bi_tool
 5864439178,Power BI,bi_tool
 5889213063,Power BI,bi_tool
 5898127080,Power BI,bi_tool
-5870857129,Communication,soft_skill
 5870857129,Power BI,bi_tool
+5870857129,Communication,soft_skill
 5837138756,Power BI,bi_tool
 5887061019,Power BI,bi_tool
 5837138934,Power BI,bi_tool
 5879658123,SQL,database
-5879658123,Statistics,concept
 5879658123,Spark,big_data
-5879658123,ETL,concept
+5879658123,Statistics,concept
 5879658123,Power BI,bi_tool
 5879658123,Tableau,bi_tool
+5879658123,ETL,concept
 5876871725,SQL,database
 5876871725,Spark,big_data
-5876871725,ETL,concept
 5876871725,Power BI,bi_tool
 5876871725,Python,language
+5876871725,ETL,concept
 5889213703,SQL,database
-5889213703,ETL,concept
 5889213703,Power BI,bi_tool
 5889213703,Python,language
 5889213703,Snowflake,cloud
+5889213703,ETL,concept
 5880062767,Snowflake,cloud
 5899512418,Power BI,bi_tool
+5876871735,Power BI,bi_tool
 5876871735,Excel,spreadsheet
 5876871735,VBA,language
-5876871735,Power BI,bi_tool
-5901133116,Excel,spreadsheet
 5901133116,Power BI,bi_tool
-5879670938,Azure,cloud
-5879670938,Spark,big_data
-5879670938,ETL,concept
+5901133116,Excel,spreadsheet
 5879670938,Power BI,bi_tool
+5879670938,ETL,concept
+5879670938,Spark,big_data
+5879670938,Azure,cloud
+5898127701,Power BI,bi_tool
 5898127701,ETL,concept
 5898127701,AWS,cloud
-5898127701,Power BI,bi_tool
 5854537760,Communication,soft_skill
 5889220779,SQL,database
 5889220779,Spark,big_data
-5889220779,ETL,concept
 5889220779,Python,language
 5889220779,Snowflake,cloud
-5891977264,Statistics,concept
-5891977264,Python,language
-5891977264,Tableau,bi_tool
+5889220779,ETL,concept
 5891977264,Power BI,bi_tool
+5891977264,Tableau,bi_tool
+5891977264,Python,language
+5891977264,Statistics,concept
 5891689742,Communication,soft_skill
 5891981423,Power BI,bi_tool
 5900875260,Power BI,bi_tool
+5900875260,SQL,database
 5900875260,Looker,bi_tool
 5900875260,Tableau,bi_tool
-5900875260,SQL,database
 5882857542,Power BI,bi_tool
+5882857542,SQL,database
 5882857542,Communication,soft_skill
 5882857542,Python,language
-5882857542,SQL,database
 5895239602,SQL,database
 5895239602,Spark,big_data
 5895239602,Power BI,bi_tool
 5895239602,Tableau,bi_tool
 5895239602,Snowflake,cloud
 5879668382,SAS,language
-5891691584,Azure,cloud
 5891691584,Power BI,bi_tool
-5895030114,Azure,cloud
+5891691584,Azure,cloud
 5895030114,Power BI,bi_tool
+5895030114,Azure,cloud
 5870860222,Power BI,bi_tool
 5879658722,SQL,database
-5879658722,Azure,cloud
 5879658722,Spark,big_data
-5879658722,ETL,concept
+5879658722,Azure,cloud
 5879658722,Power BI,bi_tool
 5879658722,Python,language
 5879658722,Snowflake,cloud
+5879658722,ETL,concept
 5874134642,Spark,big_data
 5874134642,Python,language
-5871992856,Azure,cloud
-5871992856,Communication,soft_skill
 5871992856,Power BI,bi_tool
+5871992856,Communication,soft_skill
+5871992856,Azure,cloud
 5890897256,Power BI,bi_tool
-5890897256,Communication,soft_skill
 5890897256,SQL,database
-5867222176,Statistics,concept
+5890897256,Communication,soft_skill
 5867222176,Machine Learning,concept
+5867222176,Statistics,concept
 5870527480,GCP,cloud
 5886610381,Power BI,bi_tool
-5896613510,Azure,cloud
-5896613510,Spark,big_data
 5896613510,SQL,database
+5896613510,Spark,big_data
+5896613510,Azure,cloud
 5879665018,Communication,soft_skill
+5899510265,SQL,database
 5899510265,Azure,cloud
 5899510265,Spark,big_data
 5899510265,Python,language
-5899510265,SQL,database
-5886093912,Excel,spreadsheet
 5886093912,Power BI,bi_tool
-5868153921,Excel,spreadsheet
+5886093912,Excel,spreadsheet
 5868153921,Power BI,bi_tool
-5864438981,Statistics,concept
-5864438981,Pandas,library
-5864438981,Machine Learning,concept
+5868153921,Excel,spreadsheet
 5864438981,R,language
+5864438981,Statistics,concept
+5864438981,Machine Learning,concept
 5864438981,Python,language
+5864438981,Pandas,library
 5895240378,SQL,database
 5895240378,Spark,big_data
-5895240378,ETL,concept
 5895240378,Power BI,bi_tool
 5895240378,Python,language
+5895240378,ETL,concept
 5873278265,Communication,soft_skill
 5893929986,Communication,soft_skill
+5895030961,Spark,big_data
 5895030961,SQL,database
 5895030961,Statistics,concept
-5895030961,Spark,big_data
 5895030961,Machine Learning,concept
 5895030961,Python,language
-5873277736,Statistics,concept
 5873277736,R,language
 5873277736,Machine Learning,concept
 5873277736,Python,language
+5873277736,Statistics,concept
 5886092373,Azure,cloud
-5900876667,Azure,cloud
 5900876667,ETL,concept
+5900876667,Azure,cloud
 5898128987,Azure,cloud
 5870527516,Statistics,concept
-5880062184,Azure,cloud
 5880062184,ETL,concept
+5880062184,Azure,cloud
+5879657805,SQL,database
 5879657805,Azure,cloud
 5879657805,Python,language
-5879657805,SQL,database
 5889682509,Communication,soft_skill
-5889682509,Snowflake,cloud
 5889682509,SQL,database
+5889682509,Snowflake,cloud
 5857982568,ETL,concept
 5895599594,Python,language
 5889223848,ETL,concept
 5889223848,SQL,database
+5889214468,SQL,database
 5889214468,Python,language
 5889214468,Snowflake,cloud
-5889214468,SQL,database
 5890612504,SQL,database
-5890612504,GCP,cloud
 5890612504,Spark,big_data
-5890612504,ETL,concept
 5890612504,Power BI,bi_tool
+5890612504,ETL,concept
+5890612504,GCP,cloud
 5897296062,Communication,soft_skill
 5868793489,Communication,soft_skill
 1167086089,Power BI,bi_tool
 1167086089,SQL,database
-5856196456,Excel,spreadsheet
 5856196456,SQL,database
 5856196456,Azure,cloud
-5856196456,ETL,concept
-5856196456,Power BI,bi_tool
 5856196456,R,language
+5856196456,Power BI,bi_tool
+5856196456,ETL,concept
+5856196456,Excel,spreadsheet
 5860965380,Power BI,bi_tool
-5860965380,Communication,soft_skill
 5860965380,SQL,database
-5859117651,Excel,spreadsheet
+5860965380,Communication,soft_skill
 5859117651,Power BI,bi_tool
-5899328306,Communication,soft_skill
+5859117651,Excel,spreadsheet
 5899328306,Power BI,bi_tool
-5867717263,Statistics,concept
+5899328306,Communication,soft_skill
 5867717263,Machine Learning,concept
 5867717263,Python,language
+5867717263,Statistics,concept
 5890607422,Excel,spreadsheet
-5874134575,Python,language
-5874134575,Snowflake,cloud
 5874134575,AWS,cloud
 5874134575,SQL,database
-5880068121,Azure,cloud
+5874134575,Python,language
+5874134575,Snowflake,cloud
 5880068121,ETL,concept
-5895030965,Azure,cloud
+5880068121,Azure,cloud
 5895030965,ETL,concept
+5895030965,Azure,cloud
 5876872863,Communication,soft_skill
 5900875121,SQL,database
 5864423149,SQL,database
-5864423149,GCP,cloud
 5864423149,Azure,cloud
-5864423149,ETL,concept
-5864423149,AWS,cloud
 5864423149,Python,language
 5864423149,Snowflake,cloud
+5864423149,ETL,concept
+5864423149,GCP,cloud
+5864423149,AWS,cloud
 5879667537,Azure,cloud
 5867716138,Azure,cloud
 5893929927,SQL,database
-5893929927,Azure,cloud
 5893929927,Spark,big_data
+5893929927,Azure,cloud
 5893929927,Power BI,bi_tool
 5893929927,Python,language
 5884159218,Communication,soft_skill
-5884160520,GCP,cloud
 5884160520,SQL,database
+5884160520,GCP,cloud
 5884158916,Communication,soft_skill
-5877450605,Statistics,concept
 5877450605,Machine Learning,concept
 5877450605,Python,language
+5877450605,Statistics,concept
 5854472125,Power BI,bi_tool
 5856830118,Power BI,bi_tool
-5856830118,Communication,soft_skill
 5856830118,SQL,database
-5878716502,Communication,soft_skill
+5856830118,Communication,soft_skill
 5878716502,Power BI,bi_tool
+5878716502,Communication,soft_skill
 5644868402,Power BI,bi_tool
-5877488792,Communication,soft_skill
-5877488792,Tableau,bi_tool
 5877488792,Power BI,bi_tool
+5877488792,Tableau,bi_tool
+5877488792,Communication,soft_skill
 5890906522,Power BI,bi_tool
-5890906522,ETL,concept
 5890906522,SQL,database
-5898127586,Statistics,concept
-5898127586,Machine Learning,concept
+5890906522,ETL,concept
 5898127586,ETL,concept
+5898127586,Machine Learning,concept
+5898127586,Statistics,concept
 5231502684,Power BI,bi_tool
-5727268450,Azure,cloud
 5727268450,Power BI,bi_tool
-5851857358,ETL,concept
+5727268450,Azure,cloud
 5851857358,Power BI,bi_tool
-5656044143,Excel,spreadsheet
+5851857358,ETL,concept
 5656044143,Power BI,bi_tool
 5656044143,SQL,database
+5656044143,Excel,spreadsheet
 5866915431,Power BI,bi_tool
-5851857357,Communication,soft_skill
 5851857357,Power BI,bi_tool
+5851857357,Communication,soft_skill
 5894590299,Power BI,bi_tool
-5894590299,Azure,cloud
 5894590299,SQL,database
-4493479741,Communication,soft_skill
+5894590299,Azure,cloud
 4493479741,Power BI,bi_tool
+4493479741,Communication,soft_skill
 5856197736,Power BI,bi_tool
-5856197736,Azure,cloud
 5856197736,SQL,database
+5856197736,Azure,cloud
 5211779148,Power BI,bi_tool
 5850370943,Power BI,bi_tool
-5842569858,Communication,soft_skill
 5842569858,Power BI,bi_tool
+5842569858,Communication,soft_skill
 5727265062,Power BI,bi_tool
 3081709841,Power BI,bi_tool
+3081709841,SQL,database
 3081709841,Azure,cloud
 3081709841,Snowflake,cloud
-3081709841,SQL,database
 5831396191,Power BI,bi_tool
 2635526436,Power BI,bi_tool
+2635526436,SQL,database
 2635526436,Communication,soft_skill
 2635526436,Azure,cloud
-2635526436,SQL,database
-5042641459,Excel,spreadsheet
 5042641459,Power BI,bi_tool
 5042641459,SQL,database
+5042641459,Excel,spreadsheet
 5675800320,Power BI,bi_tool
 5850380253,Power BI,bi_tool
-5850380253,Communication,soft_skill
 5850380253,SQL,database
+5850380253,Communication,soft_skill
 1950335410,Power BI,bi_tool
 5886362862,Power BI,bi_tool
 5856197104,Power BI,bi_tool
 5856197653,Power BI,bi_tool
-5743192939,Excel,spreadsheet
 5743192939,Power BI,bi_tool
-5743192939,Communication,soft_skill
 5743192939,SQL,database
+5743192939,Excel,spreadsheet
+5743192939,Communication,soft_skill
 2921029463,Power BI,bi_tool
-2921029463,Azure,cloud
 2921029463,SQL,database
-5854880431,Communication,soft_skill
+2921029463,Azure,cloud
 5854880431,Power BI,bi_tool
-5877943310,Communication,soft_skill
+5854880431,Communication,soft_skill
 5877943310,Power BI,bi_tool
+5877943310,Communication,soft_skill
 5832798140,Power BI,bi_tool
 5832798140,SQL,database
 5861795573,Power BI,bi_tool
-5856197172,Communication,soft_skill
 5856197172,Power BI,bi_tool
+5856197172,Communication,soft_skill
 2503351943,Power BI,bi_tool
 5877842293,Power BI,bi_tool
 5879148829,Power BI,bi_tool
-5879148829,Communication,soft_skill
 5879148829,SQL,database
-5857745891,Azure,cloud
-5857745891,Communication,soft_skill
-5857745891,ETL,concept
+5879148829,Communication,soft_skill
 5857745891,Power BI,bi_tool
+5857745891,ETL,concept
+5857745891,Communication,soft_skill
+5857745891,Azure,cloud
 5883489729,Power BI,bi_tool
 5897924782,Power BI,bi_tool
 5834761597,Power BI,bi_tool
 5300337913,Power BI,bi_tool
 5831395728,Power BI,bi_tool
 5831395728,SQL,database
-5885975067,Tableau,bi_tool
 5885975067,Power BI,bi_tool
+5885975067,Tableau,bi_tool
 5836575984,Power BI,bi_tool
-5836575984,ETL,concept
 5836575984,SQL,database
+5836575984,ETL,concept
 5871276026,Power BI,bi_tool
-5871276026,Python,language
 5871276026,SQL,database
+5871276026,Python,language
 5204266074,Power BI,bi_tool
-5211779168,Communication,soft_skill
 5211779168,Power BI,bi_tool
-4344578235,Azure,cloud
+5211779168,Communication,soft_skill
 4344578235,Power BI,bi_tool
-5818254513,ETL,concept
+4344578235,Azure,cloud
 5818254513,Power BI,bi_tool
+5818254513,ETL,concept
 5681611719,SQL,database
 5681611719,Azure,cloud
-5681611719,ETL,concept
 5681611719,Power BI,bi_tool
 5681611719,Python,language
+5681611719,ETL,concept
 5887230044,Power BI,bi_tool
 5887230062,Power BI,bi_tool
 5885975195,Power BI,bi_tool
@@ -1246,8 +1246,8 @@ posting_id,skill_name,category
 5879144824,Power BI,bi_tool
 5879144824,SQL,database
 4344577800,Power BI,bi_tool
-4344577800,ETL,concept
 4344577800,SQL,database
+4344577800,ETL,concept
 5811404272,Power BI,bi_tool
 2193404141,Power BI,bi_tool
 2193404141,SQL,database
@@ -1255,154 +1255,154 @@ posting_id,skill_name,category
 5171459160,SQL,database
 3433221802,Power BI,bi_tool
 4386562771,Power BI,bi_tool
-5827199900,Excel,spreadsheet
 5827199900,SQL,database
 5827199900,Azure,cloud
-5827199900,ETL,concept
 5827199900,Power BI,bi_tool
+5827199900,ETL,concept
+5827199900,Excel,spreadsheet
 5727088029,Power BI,bi_tool
-5369756037,Communication,soft_skill
-5369756037,Looker,bi_tool
 5369756037,Power BI,bi_tool
+5369756037,Looker,bi_tool
+5369756037,Communication,soft_skill
 5842589855,Power BI,bi_tool
+5842589855,SQL,database
 5842589855,Spark,big_data
 5842589855,Python,language
-5842589855,SQL,database
 5858380034,Power BI,bi_tool
 5856196506,Power BI,bi_tool
 4992020297,Power BI,bi_tool
 5839219834,Power BI,bi_tool
-5449950980,Azure,cloud
 5449950980,Power BI,bi_tool
+5449950980,Azure,cloud
 5842589956,Power BI,bi_tool
-5440456441,Excel,spreadsheet
 5440456441,SQL,database
-5440456441,GCP,cloud
 5440456441,Azure,cloud
-5440456441,Communication,soft_skill
+5440456441,GCP,cloud
 5440456441,Power BI,bi_tool
-5440456441,AWS,cloud
 5440456441,Tableau,bi_tool
+5440456441,Communication,soft_skill
+5440456441,Excel,spreadsheet
+5440456441,AWS,cloud
 5897023330,Power BI,bi_tool
 5795121714,Power BI,bi_tool
-5795121714,Communication,soft_skill
 5795121714,SQL,database
+5795121714,Communication,soft_skill
 5881157167,Power BI,bi_tool
-5895065783,Communication,soft_skill
 5895065783,Power BI,bi_tool
-4512976447,Statistics,concept
+5895065783,Communication,soft_skill
 4512976447,Power BI,bi_tool
+4512976447,Statistics,concept
 4344578063,Power BI,bi_tool
-4344578063,ETL,concept
 4344578063,SQL,database
+4344578063,ETL,concept
 5850376646,Power BI,bi_tool
 5897874026,ETL,concept
 5895030941,Power BI,bi_tool
-5868794611,GCP,cloud
 5868794611,Spark,big_data
+5868794611,GCP,cloud
 5870859327,SQL,database
+5870859327,R,language
 5870859327,Statistics,concept
 5870859327,Power BI,bi_tool
-5870859327,Machine Learning,concept
 5870859327,Tableau,bi_tool
-5870859327,R,language
+5870859327,Machine Learning,concept
 5870859327,Python,language
 5879665861,Communication,soft_skill
 5898127308,Communication,soft_skill
 5898127308,Snowflake,cloud
 5895030916,ETL,concept
-5868794333,Spark,big_data
 5868794333,SQL,database
+5868794333,Spark,big_data
 5887061000,Machine Learning,concept
-5870528313,Azure,cloud
-5870528313,Spark,big_data
 5870528313,ETL,concept
+5870528313,Spark,big_data
+5870528313,Azure,cloud
 5880069908,Communication,soft_skill
 5895240057,Communication,soft_skill
 5895535347,Power BI,bi_tool
-5712964138,Communication,soft_skill
 5712964138,Power BI,bi_tool
+5712964138,Communication,soft_skill
 4686702861,Power BI,bi_tool
 5891977121,SQL,database
 5891977121,Azure,cloud
-5891977121,ETL,concept
 5891977121,Machine Learning,concept
 5891977121,Python,language
+5891977121,ETL,concept
 5824124603,Power BI,bi_tool
 5860548520,Power BI,bi_tool
-5274165878,Excel,spreadsheet
 5274165878,Power BI,bi_tool
 5274165878,SQL,database
-5314053907,Excel,spreadsheet
+5274165878,Excel,spreadsheet
 5314053907,Power BI,bi_tool
 5314053907,SQL,database
+5314053907,Excel,spreadsheet
 5887520990,Power BI,bi_tool
-5727195170,Communication,soft_skill
 5727195170,Power BI,bi_tool
-5860983532,Communication,soft_skill
+5727195170,Communication,soft_skill
 5860983532,Power BI,bi_tool
-5879141762,Excel,spreadsheet
+5860983532,Communication,soft_skill
 5879141762,Power BI,bi_tool
 5879141762,SQL,database
-5871273516,Communication,soft_skill
+5879141762,Excel,spreadsheet
 5871273516,Power BI,bi_tool
+5871273516,Communication,soft_skill
 5784272156,Power BI,bi_tool
 5784272156,SQL,database
 5831849417,Power BI,bi_tool
 1714383026,Power BI,bi_tool
 5656020264,Power BI,bi_tool
 5842589859,Power BI,bi_tool
-5842589859,Communication,soft_skill
 5842589859,SQL,database
+5842589859,Communication,soft_skill
 2635526470,Power BI,bi_tool
-2635526470,Azure,cloud
 2635526470,SQL,database
+2635526470,Azure,cloud
 5841942211,Power BI,bi_tool
 5312882547,Power BI,bi_tool
 5312882547,SQL,database
 5879145963,Power BI,bi_tool
 5860548471,SQL,database
 5860548471,Azure,cloud
-5860548471,Communication,soft_skill
 5860548471,Power BI,bi_tool
 5860548471,Snowflake,cloud
+5860548471,Communication,soft_skill
 5839225587,Power BI,bi_tool
-5839225587,ETL,concept
 5839225587,SQL,database
-5816832719,Excel,spreadsheet
+5839225587,ETL,concept
 5816832719,Power BI,bi_tool
+5816832719,Excel,spreadsheet
 5856197165,Power BI,bi_tool
-5874263414,Communication,soft_skill
 5874263414,Power BI,bi_tool
+5874263414,Communication,soft_skill
 5872624570,Power BI,bi_tool
 3750622509,Power BI,bi_tool
 3750622509,SQL,database
 5877292513,Power BI,bi_tool
 5877292513,SQL,database
 5879942988,Power BI,bi_tool
-5879942988,Communication,soft_skill
 5879942988,SQL,database
-5873987936,GCP,cloud
+5879942988,Communication,soft_skill
 5873987936,Power BI,bi_tool
+5873987936,GCP,cloud
 5869817113,Power BI,bi_tool
 2383302198,Power BI,bi_tool
-5727092020,Excel,spreadsheet
-5727092020,Communication,soft_skill
+5727092020,VBA,language
 5727092020,Power BI,bi_tool
 5727092020,Tableau,bi_tool
-5727092020,VBA,language
+5727092020,Communication,soft_skill
+5727092020,Excel,spreadsheet
 3248723834,Power BI,bi_tool
-4344578049,Communication,soft_skill
-4344578049,ETL,concept
 4344578049,Power BI,bi_tool
+4344578049,ETL,concept
+4344578049,Communication,soft_skill
 5369756058,Power BI,bi_tool
 5369756058,SQL,database
 5862635702,Machine Learning,concept
+5846723322,SQL,database
 5846723322,Excel,spreadsheet
 5846723322,Python,language
-5846723322,SQL,database
-5879667957,Azure,cloud
 5879667957,ETL,concept
+5879667957,Azure,cloud
 5879667957,AWS,cloud
 5886093751,R,language
 5886099298,Azure,cloud
@@ -1417,23 +1417,23 @@ posting_id,skill_name,category
 5890611930,Communication,soft_skill
 5889682556,Azure,cloud
 5655005586,Power BI,bi_tool
-5898655910,Communication,soft_skill
 5898655910,Power BI,bi_tool
+5898655910,Communication,soft_skill
 5896964322,Python,language
-5867037796,Azure,cloud
 5867037796,ETL,concept
+5867037796,Azure,cloud
 5897038773,Power BI,bi_tool
-5728314973,Excel,spreadsheet
 5728314973,Power BI,bi_tool
+5728314973,Excel,spreadsheet
 5890897448,Machine Learning,concept
 5891976220,R,language
 5891976220,Machine Learning,concept
 5838750286,SQL,database
 5808699274,SQL,database
-5808699274,Communication,soft_skill
 5808699274,Power BI,bi_tool
 5808699274,Machine Learning,concept
 5808699274,Python,language
+5808699274,Communication,soft_skill
 5893913372,Azure,cloud
 5695270137,Machine Learning,concept
 5895065973,Azure,cloud
@@ -1447,10 +1447,10 @@ posting_id,skill_name,category
 5898533966,Machine Learning,concept
 5868154123,Machine Learning,concept
 5898533129,Machine Learning,concept
+5880070118,SQL,database
 5880070118,GCP,cloud
 5880070118,Machine Learning,concept
 5880070118,Python,language
-5880070118,SQL,database
 5880062262,Machine Learning,concept
 5886611196,Machine Learning,concept
 5856695853,Machine Learning,concept
@@ -1480,52 +1480,52 @@ posting_id,skill_name,category
 5898131359,Machine Learning,concept
 5898535018,Machine Learning,concept
 5876014583,Machine Learning,concept
-5877457599,Machine Learning,concept
 5877457599,Communication,soft_skill
+5877457599,Machine Learning,concept
 5822403303,Machine Learning,concept
 5876016009,Azure,cloud
 5876016009,Spark,big_data
 5876016009,Python,language
-5889681831,Statistics,concept
 5889681831,Machine Learning,concept
+5889681831,Statistics,concept
 5897294998,SQL,database
 5897294998,Statistics,concept
-5897294998,Communication,soft_skill
 5897294998,Machine Learning,concept
 5897294998,Python,language
+5897294998,Communication,soft_skill
 5898128426,Machine Learning,concept
-5890896676,Statistics,concept
 5890896676,Machine Learning,concept
 5890896676,Python,language
-5901133813,Statistics,concept
+5890896676,Statistics,concept
 5901133813,Machine Learning,concept
+5901133813,Statistics,concept
 5877452336,Machine Learning,concept
-5872266120,Statistics,concept
 5872266120,Machine Learning,concept
+5872266120,Statistics,concept
 5901133742,Machine Learning,concept
 5901133742,Python,language
 5846723668,Tableau,bi_tool
 5846723274,Tableau,bi_tool
-5895240382,Snowflake,cloud
 5895240382,Tableau,bi_tool
-5898533440,Statistics,concept
-5898533440,Python,language
+5895240382,Snowflake,cloud
 5898533440,SQL,database
+5898533440,Python,language
+5898533440,Statistics,concept
 5896614024,SQL,database
-5880950675,Excel,spreadsheet
 5880950675,Tableau,bi_tool
+5880950675,Excel,spreadsheet
 5881766958,ETL,concept
 5881766958,SQL,database
 5895239145,AWS,cloud
+5895238862,SQL,database
 5895238862,Azure,cloud
 5895238862,Spark,big_data
 5895238862,Python,language
-5895238862,SQL,database
 5893929802,SQL,database
 5893929802,Spark,big_data
+5893929802,Python,language
 5893929802,ETL,concept
 5893929802,AWS,cloud
-5893929802,Python,language
 5895030207,Statistics,concept
 5856196429,Tableau,bi_tool
 5895239530,Azure,cloud
@@ -1538,12 +1538,12 @@ posting_id,skill_name,category
 5781970743,SQL,database
 5856197663,Tableau,bi_tool
 5856197663,SQL,database
-5871280565,Excel,spreadsheet
 5871280565,SQL,database
 5871280565,Azure,cloud
-5871280565,Communication,soft_skill
 5871280565,Tableau,bi_tool
 5871280565,Snowflake,cloud
+5871280565,Communication,soft_skill
+5871280565,Excel,spreadsheet
 2915539579,Tableau,bi_tool
 2915539579,SQL,database
 5869814801,Communication,soft_skill
@@ -1554,9 +1554,9 @@ posting_id,skill_name,category
 5856197124,Tableau,bi_tool
 5754024237,Tableau,bi_tool
 2383302584,Tableau,bi_tool
-3172818791,Statistics,concept
 3172818791,Communication,soft_skill
 3172818791,Tableau,bi_tool
+3172818791,Statistics,concept
 5856197488,Communication,soft_skill
 5856197488,Tableau,bi_tool
 5831395730,Tableau,bi_tool
@@ -1571,23 +1571,23 @@ posting_id,skill_name,category
 5879148807,Tableau,bi_tool
 1714384840,Communication,soft_skill
 1714384840,Tableau,bi_tool
-5850380223,Excel,spreadsheet
-5850380223,Communication,soft_skill
 5850380223,Tableau,bi_tool
 5850380223,SQL,database
+5850380223,Excel,spreadsheet
+5850380223,Communication,soft_skill
 5030876075,Tableau,bi_tool
 5030876075,SQL,database
-5871280553,Communication,soft_skill
 5871280553,Tableau,bi_tool
 5871280553,SQL,database
+5871280553,Communication,soft_skill
 5877842294,Tableau,bi_tool
 5877842294,SQL,database
 5382247653,Tableau,bi_tool
-4713079026,Snowflake,cloud
 4713079026,Tableau,bi_tool
-3204031565,Python,language
+4713079026,Snowflake,cloud
 3204031565,Tableau,bi_tool
 3204031565,SQL,database
+3204031565,Python,language
 2999974680,Tableau,bi_tool
 5823130868,Tableau,bi_tool
 4431301784,Communication,soft_skill
@@ -1601,13 +1601,13 @@ posting_id,skill_name,category
 2406633646,Tableau,bi_tool
 1388910029,Tableau,bi_tool
 5856196625,Tableau,bi_tool
-5892383958,Python,language
-5892383958,ETL,concept
 5892383958,Tableau,bi_tool
 5892383958,SQL,database
-2924157754,Spark,big_data
+5892383958,ETL,concept
+5892383958,Python,language
 2924157754,ETL,concept
 2924157754,Tableau,bi_tool
+2924157754,Spark,big_data
 5898568253,Tableau,bi_tool
 5895161688,Tableau,bi_tool
 5846299657,Communication,soft_skill
@@ -1615,57 +1615,57 @@ posting_id,skill_name,category
 5850371308,Tableau,bi_tool
 5900717839,Tableau,bi_tool
 5314053905,SQL,database
-5314053905,GCP,cloud
 5314053905,Azure,cloud
-5314053905,AWS,cloud
 5314053905,Tableau,bi_tool
 5314053905,Python,language
 5314053905,Snowflake,cloud
+5314053905,GCP,cloud
+5314053905,AWS,cloud
 5741057911,SQL,database
 5741057911,Azure,cloud
-5741057911,Communication,soft_skill
 5741057911,Power BI,bi_tool
 5741057911,Tableau,bi_tool
+5741057911,Communication,soft_skill
 5742044572,SQL,database
 5742044572,Azure,cloud
-5742044572,Communication,soft_skill
 5742044572,Power BI,bi_tool
 5742044572,Tableau,bi_tool
-5333342039,Snowflake,cloud
+5742044572,Communication,soft_skill
 5333342039,Tableau,bi_tool
 5333342039,SQL,database
+5333342039,Snowflake,cloud
 5859124426,ETL,concept
 5859124426,Tableau,bi_tool
-5522026731,Communication,soft_skill
-5522026731,Python,language
 5522026731,ETL,concept
 5522026731,Tableau,bi_tool
+5522026731,Communication,soft_skill
+5522026731,Python,language
 5864338097,Tableau,bi_tool
-5255506973,Looker,bi_tool
 5255506973,SQL,database
-5255506973,GCP,cloud
-5255506973,ETL,concept
+5255506973,Looker,bi_tool
 5255506973,Power BI,bi_tool
 5255506973,Tableau,bi_tool
 5255506973,Snowflake,cloud
+5255506973,ETL,concept
+5255506973,GCP,cloud
 5886487262,Statistics,concept
 5880951673,Communication,soft_skill
 5880951518,GCP,cloud
 5860980995,Communication,soft_skill
-5899512278,Python,language
 5899512278,ETL,concept
+5899512278,Python,language
 5899512278,Snowflake,cloud
 5901137200,Communication,soft_skill
 5729731802,Communication,soft_skill
 5729731802,Tableau,bi_tool
 5889562096,Tableau,bi_tool
-5777234588,Communication,soft_skill
-5777234588,Snowflake,cloud
 5777234588,Tableau,bi_tool
 5777234588,SQL,database
-5411469512,ETL,concept
+5777234588,Communication,soft_skill
+5777234588,Snowflake,cloud
 5411469512,Tableau,bi_tool
 5411469512,SQL,database
+5411469512,ETL,concept
 5900348960,Tableau,bi_tool
 3468843603,ETL,concept
 3468843603,Tableau,bi_tool
@@ -1678,71 +1678,71 @@ posting_id,skill_name,category
 5430608944,Tableau,bi_tool
 5430608944,SQL,database
 5882728875,Tableau,bi_tool
-5762900938,Excel,spreadsheet
-5762900938,Tableau,bi_tool
 5762900938,Power BI,bi_tool
+5762900938,Tableau,bi_tool
+5762900938,Excel,spreadsheet
 5715292606,Tableau,bi_tool
 5762945765,Power BI,bi_tool
-5762945765,Tableau,bi_tool
 5762945765,SQL,database
+5762945765,Tableau,bi_tool
 5875250318,Tableau,bi_tool
 5875250318,SQL,database
 5864354000,Power BI,bi_tool
-5864354000,Tableau,bi_tool
 5864354000,SQL,database
-5807501218,Snowflake,cloud
+5864354000,Tableau,bi_tool
 5807501218,Tableau,bi_tool
+5807501218,Snowflake,cloud
 5851155832,SQL,database
-5851155832,Communication,soft_skill
 5851155832,Power BI,bi_tool
 5851155832,Tableau,bi_tool
 5851155832,Snowflake,cloud
-5899843917,Tableau,bi_tool
+5851155832,Communication,soft_skill
 5899843917,Power BI,bi_tool
+5899843917,Tableau,bi_tool
 4801530477,SQL,database
-4801530477,Communication,soft_skill
-4801530477,AWS,cloud
 4801530477,Tableau,bi_tool
 4801530477,Python,language
+4801530477,Communication,soft_skill
+4801530477,AWS,cloud
 5878058410,Tableau,bi_tool
 5894829166,Tableau,bi_tool
 5894829166,SQL,database
 5886396320,Power BI,bi_tool
-5886396320,Tableau,bi_tool
 5886396320,SQL,database
-5752151805,Spark,big_data
-5752151805,Python,language
+5886396320,Tableau,bi_tool
 5752151805,Tableau,bi_tool
 5752151805,SQL,database
+5752151805,Spark,big_data
+5752151805,Python,language
 5889605680,SQL,database
-5889605680,ETL,concept
 5889605680,Tableau,bi_tool
 5889605680,Python,language
 5889605680,Snowflake,cloud
-5860533594,SAS,language
-5860533594,Tableau,bi_tool
+5889605680,ETL,concept
 5860533594,Power BI,bi_tool
-5860533633,SAS,language
-5860533633,Tableau,bi_tool
+5860533594,Tableau,bi_tool
+5860533594,SAS,language
 5860533633,Power BI,bi_tool
-4762780079,Python,language
+5860533633,Tableau,bi_tool
+5860533633,SAS,language
 4762780079,Tableau,bi_tool
-5812894652,Spark,big_data
-5812894652,Python,language
+4762780079,Python,language
 5812894652,Tableau,bi_tool
 5812894652,SQL,database
-5724446654,GCP,cloud
+5812894652,Spark,big_data
+5812894652,Python,language
 5724446654,ETL,concept
 5724446654,Tableau,bi_tool
+5724446654,GCP,cloud
 5778251496,Tableau,bi_tool
-5850376719,Communication,soft_skill
-5850376719,Tableau,bi_tool
 5850376719,Power BI,bi_tool
+5850376719,Tableau,bi_tool
+5850376719,Communication,soft_skill
 5870745395,Tableau,bi_tool
-5889529954,Communication,soft_skill
-5889529954,ETL,concept
 5889529954,Tableau,bi_tool
+5889529954,Communication,soft_skill
 5889529954,SQL,database
+5889529954,ETL,concept
 5807461396,SQL,database
 5807461396,Power BI,bi_tool
 5807461396,Tableau,bi_tool
@@ -1754,367 +1754,367 @@ posting_id,skill_name,category
 5895470053,Python,language
 5895470053,Snowflake,cloud
 5846726125,SQL,database
+5846726125,VBA,language
 5846726125,Tableau,bi_tool
 5846726125,Python,language
-5846726125,VBA,language
 5846726125,Snowflake,cloud
 5831406298,SQL,database
-5831406298,Communication,soft_skill
-5831406298,ETL,concept
 5831406298,Tableau,bi_tool
 5831406298,Python,language
 5831406298,Snowflake,cloud
+5831406298,Communication,soft_skill
+5831406298,ETL,concept
 4839916056,Tableau,bi_tool
 4839916056,SQL,database
-5898315170,Python,language
 5898315170,Tableau,bi_tool
 5898315170,SQL,database
+5898315170,Python,language
 5832795442,Tableau,bi_tool
 5832795442,SQL,database
-5412310663,Excel,spreadsheet
 5412310663,SQL,database
-5412310663,Communication,soft_skill
-5412310663,Machine Learning,concept
 5412310663,Tableau,bi_tool
+5412310663,Machine Learning,concept
 5412310663,Python,language
-5529544964,Tableau,bi_tool
+5412310663,Communication,soft_skill
+5412310663,Excel,spreadsheet
 5529544964,Power BI,bi_tool
+5529544964,Tableau,bi_tool
 5894230997,SQL,database
-5894230997,Communication,soft_skill
-5894230997,ETL,concept
 5894230997,Power BI,bi_tool
 5894230997,Tableau,bi_tool
+5894230997,Communication,soft_skill
+5894230997,ETL,concept
 5537945832,Tableau,bi_tool
 5537945832,SQL,database
 5896786066,ETL,concept
 5896786066,Tableau,bi_tool
 5877842311,Tableau,bi_tool
 5877842311,SQL,database
-5516316494,GCP,cloud
-5516316494,Azure,cloud
 5516316494,Tableau,bi_tool
 5516316494,SQL,database
-2458411575,ETL,concept
+5516316494,GCP,cloud
+5516316494,Azure,cloud
 2458411575,Tableau,bi_tool
 2458411575,SQL,database
-5872785654,Python,language
+2458411575,ETL,concept
 5872785654,ETL,concept
 5872785654,Tableau,bi_tool
+5872785654,Python,language
 3968805473,SQL,database
 3968805473,Azure,cloud
 3968805473,Power BI,bi_tool
 3968805473,Tableau,bi_tool
 3968805473,Python,language
 3968805473,Snowflake,cloud
-5875611398,R,language
-5875611398,Python,language
 5875611398,Tableau,bi_tool
 5875611398,SQL,database
+5875611398,Python,language
+5875611398,R,language
 5891870805,Communication,soft_skill
 5838426858,Power BI,bi_tool
+5838426858,SQL,database
 5838426858,Communication,soft_skill
 5838426858,Tableau,bi_tool
-5838426858,SQL,database
 5500658712,Power BI,bi_tool
-5500658712,Tableau,bi_tool
 5500658712,SQL,database
-5879140934,Snowflake,cloud
+5500658712,Tableau,bi_tool
 5879140934,ETL,concept
 5879140934,Tableau,bi_tool
-5879140932,Snowflake,cloud
+5879140934,Snowflake,cloud
 5879140932,ETL,concept
 5879140932,Tableau,bi_tool
-4666100036,Excel,spreadsheet
+5879140932,Snowflake,cloud
 4666100036,SQL,database
-4666100036,Statistics,concept
-4666100036,Communication,soft_skill
-4666100036,Power BI,bi_tool
-4666100036,Machine Learning,concept
-4666100036,Tableau,bi_tool
 4666100036,R,language
+4666100036,Statistics,concept
+4666100036,Power BI,bi_tool
+4666100036,Tableau,bi_tool
+4666100036,Machine Learning,concept
 4666100036,Python,language
-5832798136,Excel,spreadsheet
+4666100036,Communication,soft_skill
+4666100036,Excel,spreadsheet
 5832798136,SQL,database
-5832798136,Statistics,concept
-5832798136,SAS,language
-5832798136,Tableau,bi_tool
 5832798136,R,language
+5832798136,Statistics,concept
+5832798136,Tableau,bi_tool
 5832798136,Python,language
-5832798138,Excel,spreadsheet
+5832798136,SAS,language
+5832798136,Excel,spreadsheet
 5832798138,SQL,database
-5832798138,Statistics,concept
-5832798138,SAS,language
-5832798138,Tableau,bi_tool
 5832798138,R,language
+5832798138,Statistics,concept
+5832798138,Tableau,bi_tool
 5832798138,Python,language
-5832798151,Excel,spreadsheet
+5832798138,SAS,language
+5832798138,Excel,spreadsheet
 5832798151,SQL,database
-5832798151,Statistics,concept
-5832798151,SAS,language
-5832798151,Tableau,bi_tool
 5832798151,R,language
+5832798151,Statistics,concept
+5832798151,Tableau,bi_tool
 5832798151,Python,language
-5519432972,Communication,soft_skill
+5832798151,SAS,language
+5832798151,Excel,spreadsheet
 5519432972,Tableau,bi_tool
 5519432972,SQL,database
-5875287022,Tableau,bi_tool
+5519432972,Communication,soft_skill
 5875287022,Power BI,bi_tool
+5875287022,Tableau,bi_tool
 5503404497,Tableau,bi_tool
 5742519108,Power BI,bi_tool
 2458411535,Tableau,bi_tool
 2458411535,SQL,database
 5877486811,SQL,database
 5877486811,Statistics,concept
-5877486811,ETL,concept
 5877486811,Tableau,bi_tool
 5877486811,Python,language
-4514376281,Excel,spreadsheet
-4514376281,Communication,soft_skill
+5877486811,ETL,concept
+4514376281,R,language
 4514376281,Power BI,bi_tool
 4514376281,Tableau,bi_tool
-4514376281,R,language
 4514376281,Python,language
-2809247230,Machine Learning,concept
-2809247230,Python,language
+4514376281,Communication,soft_skill
+4514376281,Excel,spreadsheet
 2809247230,Tableau,bi_tool
 2809247230,SQL,database
-5796116512,Python,language
-5796116512,Snowflake,cloud
+2809247230,Machine Learning,concept
+2809247230,Python,language
 5796116512,Tableau,bi_tool
 5796116512,SQL,database
+5796116512,Python,language
+5796116512,Snowflake,cloud
 5897680859,ETL,concept
 5898178653,ETL,concept
 5898178653,Tableau,bi_tool
-5878656952,VBA,language
-5878656952,Tableau,bi_tool
 5878656952,Power BI,bi_tool
+5878656952,Tableau,bi_tool
+5878656952,VBA,language
 5869200256,Tableau,bi_tool
 3487898123,Tableau,bi_tool
-5832798139,ETL,concept
 5832798139,Tableau,bi_tool
 5832798139,SQL,database
+5832798139,ETL,concept
 5867129553,Power BI,bi_tool
-5867129553,Tableau,bi_tool
 5867129553,SQL,database
+5867129553,Tableau,bi_tool
+1171507819,SQL,database
 1171507819,Spark,big_data
 1171507819,Python,language
-1171507819,SQL,database
 5873156716,Tableau,bi_tool
-4727380970,Tableau,bi_tool
 4727380970,Power BI,bi_tool
-5543247193,Communication,soft_skill
+4727380970,Tableau,bi_tool
 5543247193,Tableau,bi_tool
 5543247193,SQL,database
+5543247193,Communication,soft_skill
 5773093386,Communication,soft_skill
-5773093386,VBA,language
 5773093386,ETL,concept
+5773093386,VBA,language
 5854881363,Power BI,bi_tool
+5854881363,SQL,database
 5854881363,Communication,soft_skill
 5854881363,Tableau,bi_tool
-5854881363,SQL,database
 5829886511,Power BI,bi_tool
-5829886511,Tableau,bi_tool
 5829886511,SQL,database
+5829886511,Tableau,bi_tool
 5171459144,SQL,database
 5171459144,Spark,big_data
-5171459144,ETL,concept
 5171459144,Tableau,bi_tool
 5171459144,Python,language
-5882499433,Excel,spreadsheet
+5171459144,ETL,concept
 5882499433,SQL,database
 5882499433,Power BI,bi_tool
 5882499433,Tableau,bi_tool
 5882499433,Python,language
+5882499433,Excel,spreadsheet
 5804445331,Tableau,bi_tool
 5877174693,Communication,soft_skill
 5897042436,SQL,database
-5897042436,Communication,soft_skill
-5897042436,AWS,cloud
 5897042436,Tableau,bi_tool
 5897042436,Python,language
+5897042436,Communication,soft_skill
+5897042436,AWS,cloud
 5829189149,Communication,soft_skill
 5829189149,Tableau,bi_tool
-4514376909,Excel,spreadsheet
-4514376909,Statistics,concept
 4514376909,Tableau,bi_tool
 4514376909,SQL,database
-5891242069,Snowflake,cloud
+4514376909,Excel,spreadsheet
+4514376909,Statistics,concept
 5891242069,ETL,concept
 5891242069,Tableau,bi_tool
 5891242069,AWS,cloud
-5796205769,Communication,soft_skill
-5796205769,Tableau,bi_tool
+5891242069,Snowflake,cloud
 5796205769,Power BI,bi_tool
-3013476469,Statistics,concept
+5796205769,Tableau,bi_tool
+5796205769,Communication,soft_skill
 3013476469,Communication,soft_skill
-5877845466,Excel,spreadsheet
-5877845466,Tableau,bi_tool
+3013476469,Statistics,concept
 5877845466,Power BI,bi_tool
+5877845466,Tableau,bi_tool
+5877845466,Excel,spreadsheet
+5504438046,Power BI,bi_tool
+5504438046,Tableau,bi_tool
 5504438046,Machine Learning,concept
 5504438046,Python,language
-5504438046,Tableau,bi_tool
-5504438046,Power BI,bi_tool
-3433222294,GCP,cloud
-3433222294,R,language
-3433222294,Python,language
 3433222294,Tableau,bi_tool
+3433222294,R,language
+3433222294,GCP,cloud
+3433222294,Python,language
 1966607885,SQL,database
-1966607885,GCP,cloud
+1966607885,Python,language
 1966607885,Pandas,library
 1966607885,ETL,concept
-1966607885,Python,language
-2539490047,Python,language
+1966607885,GCP,cloud
 2539490047,ETL,concept
 2539490047,AWS,cloud
 2539490047,SQL,database
+2539490047,Python,language
 5682435804,Power BI,bi_tool
+5682435804,SQL,database
 5682435804,Python,language
 5682435804,Tableau,bi_tool
-5682435804,SQL,database
-5859122842,Excel,spreadsheet
 5859122842,SQL,database
+5859122842,Excel,spreadsheet
 5861792875,Power BI,bi_tool
+5861792875,SQL,database
 5861792875,Python,language
 5861792875,Tableau,bi_tool
-5861792875,SQL,database
-5869826008,Communication,soft_skill
-5869826008,Tableau,bi_tool
 5869826008,Power BI,bi_tool
-5869825971,Communication,soft_skill
-5869825971,Tableau,bi_tool
+5869826008,Tableau,bi_tool
+5869826008,Communication,soft_skill
 5869825971,Power BI,bi_tool
-5869814821,Excel,spreadsheet
+5869825971,Tableau,bi_tool
+5869825971,Communication,soft_skill
 5869814821,SQL,database
+5869814821,R,language
 5869814821,Statistics,concept
-5869814821,SAS,language
 5869814821,Power BI,bi_tool
 5869814821,Tableau,bi_tool
-5869814821,R,language
 5869814821,Python,language
+5869814821,SAS,language
+5869814821,Excel,spreadsheet
 5877847628,Communication,soft_skill
 5877847628,Tableau,bi_tool
-5899549573,Azure,cloud
 5899549573,Tableau,bi_tool
+5899549573,Azure,cloud
 5700472299,Power BI,bi_tool
+5700472299,SQL,database
 5700472299,Communication,soft_skill
 5700472299,Tableau,bi_tool
-5700472299,SQL,database
-4992020393,Excel,spreadsheet
 4992020393,Tableau,bi_tool
 4992020393,SQL,database
+4992020393,Excel,spreadsheet
 5496729203,SQL,database
-5496729203,Statistics,concept
-5496729203,Pandas,library
-5496729203,NumPy,library
-5496729203,Machine Learning,concept
 5496729203,R,language
+5496729203,Statistics,concept
+5496729203,Machine Learning,concept
 5496729203,Python,language
-5857750993,Communication,soft_skill
-5857750993,Tableau,bi_tool
+5496729203,NumPy,library
+5496729203,Pandas,library
 5857750993,Power BI,bi_tool
+5857750993,Tableau,bi_tool
+5857750993,Communication,soft_skill
+5868113617,Communication,soft_skill
 5868113617,Spark,big_data
 5868113617,Python,language
-5868113617,Communication,soft_skill
+5217936465,Power BI,bi_tool
+5217936465,Tableau,bi_tool
 5217936465,GCP,cloud
 5217936465,AWS,cloud
-5217936465,Tableau,bi_tool
-5217936465,Power BI,bi_tool
 5843191378,Power BI,bi_tool
+5843191378,SQL,database
 5843191378,Communication,soft_skill
 5843191378,Tableau,bi_tool
-5843191378,SQL,database
-5869826017,Communication,soft_skill
-5869826017,Tableau,bi_tool
 5869826017,Power BI,bi_tool
+5869826017,Tableau,bi_tool
+5869826017,Communication,soft_skill
 5465034728,Tableau,bi_tool
 5465034728,SQL,database
 5877845375,Communication,soft_skill
 5875737607,Tableau,bi_tool
-5863110087,Spark,big_data
-5863110087,Python,language
 5863110087,Tableau,bi_tool
 5863110087,SQL,database
-5859121471,Excel,spreadsheet
+5863110087,Spark,big_data
+5863110087,Python,language
 5859121471,SQL,database
 5859121471,Statistics,concept
-5859121471,SAS,language
 5859121471,Tableau,bi_tool
-2509165173,ETL,concept
-2509165173,Machine Learning,concept
-2509165173,AWS,cloud
+5859121471,SAS,language
+5859121471,Excel,spreadsheet
 2509165173,R,language
+2509165173,Machine Learning,concept
 2509165173,Python,language
-5854880230,Excel,spreadsheet
+2509165173,ETL,concept
+2509165173,AWS,cloud
 5854880230,Communication,soft_skill
+5854880230,Excel,spreadsheet
 5879948416,Communication,soft_skill
-5727240801,Python,language
 5727240801,Power BI,bi_tool
+5727240801,Python,language
 5895535156,SQL,database
 5895535156,Azure,cloud
-5895535156,Communication,soft_skill
-5895535156,ETL,concept
 5895535156,Power BI,bi_tool
 5895535156,Python,language
-4097420839,Statistics,concept
-4097420839,Python,language
+5895535156,Communication,soft_skill
+5895535156,ETL,concept
 4097420839,ETL,concept
+4097420839,Python,language
+4097420839,Statistics,concept
 5689085709,SQL,database
-5689085709,Communication,soft_skill
 5689085709,Power BI,bi_tool
 5689085709,Tableau,bi_tool
 5689085709,Python,language
+5689085709,Communication,soft_skill
 5890890594,Communication,soft_skill
 5876010793,Machine Learning,concept
-5897873954,Machine Learning,concept
 5897873954,Communication,soft_skill
+5897873954,Machine Learning,concept
 5901133839,Machine Learning,concept
 5898535012,Machine Learning,concept
 5870860105,Statistics,concept
 5876016078,SQL,database
 5876016078,Statistics,concept
-5876016078,Communication,soft_skill
 5876016078,Machine Learning,concept
 5876016078,Python,language
+5876016078,Communication,soft_skill
 5865291446,Machine Learning,concept
 5870863099,SQL,database
-5870863099,Pandas,library
-5870863099,NumPy,library
 5870863099,Machine Learning,concept
 5870863099,Python,language
-5880062427,GCP,cloud
+5870863099,NumPy,library
+5870863099,Pandas,library
 5880062427,Machine Learning,concept
-5877457569,Statistics,concept
-5877457569,SAS,language
-5877457569,Machine Learning,concept
+5880062427,GCP,cloud
 5877457569,R,language
+5877457569,Statistics,concept
+5877457569,Machine Learning,concept
+5877457569,SAS,language
 5877457569,Python,language
-5881758282,Python,language
 5881758282,AWS,cloud
 5881758282,SQL,database
+5881758282,Python,language
 5889684634,Machine Learning,concept
-5880064279,Statistics,concept
 5880064279,Machine Learning,concept
 5880064279,Python,language
-5891981529,Statistics,concept
+5880064279,Statistics,concept
 5891981529,Machine Learning,concept
-5890613477,Statistics,concept
+5891981529,Statistics,concept
 5890613477,Machine Learning,concept
-5897873668,Statistics,concept
+5890613477,Statistics,concept
 5897873668,Communication,soft_skill
+5897873668,Statistics,concept
 5864425220,Machine Learning,concept
 5900875377,Statistics,concept
 5890893908,SQL,database
-5890893908,Pandas,library
-5890893908,Azure,cloud
-5890893908,NumPy,library
 5890893908,Spark,big_data
+5890893908,Azure,cloud
 5890893908,Machine Learning,concept
 5890893908,Python,language
+5890893908,NumPy,library
+5890893908,Pandas,library
 5897294724,Machine Learning,concept
-5867263491,Statistics,concept
+5867263491,SQL,database
 5867263491,Machine Learning,concept
 5867263491,Python,language
-5867263491,SQL,database
+5867263491,Statistics,concept
 5880064281,Communication,soft_skill
 5901133099,Python,language
 5901132906,Machine Learning,concept
@@ -2125,25 +2125,25 @@ posting_id,skill_name,category
 5837139433,R,language
 5842114970,Communication,soft_skill
 5871227856,Machine Learning,concept
-5870527931,Statistics,concept
 5870527931,Python,language
+5870527931,Statistics,concept
 5883858661,ETL,concept
 5883858661,Snowflake,cloud
-5893961410,Statistics,concept
 5893961410,Machine Learning,concept
+5893961410,Statistics,concept
 5894222466,SQL,database
 5867263676,Python,language
-5895599861,Statistics,concept
 5895599861,Communication,soft_skill
-5895599861,Python,language
 5895599861,SQL,database
+5895599861,Python,language
+5895599861,Statistics,concept
 5882863894,Statistics,concept
 5871846075,Statistics,concept
-5901137087,Azure,cloud
 5901137087,Machine Learning,concept
 5901137087,Spark,big_data
-5880950446,Machine Learning,concept
+5901137087,Azure,cloud
 5880950446,ETL,concept
+5880950446,Machine Learning,concept
 5880950446,Spark,big_data
 5876021987,Machine Learning,concept
 5898129420,Communication,soft_skill
@@ -2155,88 +2155,88 @@ posting_id,skill_name,category
 5890896664,Python,language
 5864423067,Machine Learning,concept
 5881877312,Python,language
-5889222402,Statistics,concept
 5889222402,Machine Learning,concept
+5889222402,Statistics,concept
 5899510237,Machine Learning,concept
 5886986225,Machine Learning,concept
 5898126207,ETL,concept
 5841509271,Communication,soft_skill
 5880951633,R,language
-5901134392,GCP,cloud
 5901134392,ETL,concept
-5889220960,GCP,cloud
-5889220960,Spark,big_data
+5901134392,GCP,cloud
 5889220960,ETL,concept
 5889220960,SQL,database
+5889220960,GCP,cloud
+5889220960,Spark,big_data
 5894979895,AWS,cloud
-5871992107,Spark,big_data
 5871992107,ETL,concept
-5900875298,Python,language
+5871992107,Spark,big_data
 5900875298,ETL,concept
+5900875298,Python,language
 5879671084,ETL,concept
 5879671084,AWS,cloud
 5897873622,ETL,concept
-5645288318,Statistics,concept
 5645288318,Communication,soft_skill
+5645288318,Statistics,concept
 5874134587,SQL,database
 5901134453,SQL,database
-5901134453,GCP,cloud
 5901134453,Azure,cloud
-5901134453,AWS,cloud
 5901134453,Python,language
+5901134453,GCP,cloud
+5901134453,AWS,cloud
 5891352671,Azure,cloud
 5891352671,Spark,big_data
 5891352671,Python,language
 5897296003,Communication,soft_skill
-5898126256,GCP,cloud
 5898126256,ETL,concept
+5898126256,GCP,cloud
 5879658421,Azure,cloud
 5837138953,Azure,cloud
 5886486675,Python,language
-5899258980,GCP,cloud
-5899258980,Python,language
 5899258980,ETL,concept
 5899258980,SQL,database
-5867037963,Python,language
+5899258980,GCP,cloud
+5899258980,Python,language
 5867037963,SQL,database
-5898128493,GCP,cloud
-5898128493,Python,language
+5867037963,Python,language
 5898128493,ETL,concept
 5898128493,SQL,database
-5898126771,GCP,cloud
-5898126771,Python,language
+5898128493,GCP,cloud
+5898128493,Python,language
 5898126771,ETL,concept
 5898126771,SQL,database
-5886098813,GCP,cloud
+5898126771,GCP,cloud
+5898126771,Python,language
 5886098813,Communication,soft_skill
 5886098813,ETL,concept
-5882593348,GCP,cloud
+5886098813,GCP,cloud
 5882593348,Communication,soft_skill
 5882593348,ETL,concept
+5882593348,GCP,cloud
 5837139772,GCP,cloud
 5867037771,SQL,database
-5867037771,Pandas,library
-5867037771,NumPy,library
-5867037771,ETL,concept
 5867037771,Machine Learning,concept
 5867037771,Python,language
+5867037771,NumPy,library
+5867037771,Pandas,library
+5867037771,ETL,concept
 5870527890,ETL,concept
 5870527890,Snowflake,cloud
 5847959758,Communication,soft_skill
-5877184039,Python,language
 5877184039,AWS,cloud
+5877184039,Python,language
 5881761904,Machine Learning,concept
 5899512265,Machine Learning,concept
 5899512265,Python,language
 5870527102,Statistics,concept
 5845820435,Machine Learning,concept
 5845820435,Python,language
-5859122223,Statistics,concept
 5859122223,R,language
-5859122222,Statistics,concept
+5859122223,Statistics,concept
 5859122222,R,language
-5859122250,Statistics,concept
+5859122222,Statistics,concept
 5859122250,R,language
+5859122250,Statistics,concept
 5838433187,Communication,soft_skill
 5896553355,Azure,cloud
 5896553355,Python,language
@@ -2250,44 +2250,44 @@ posting_id,skill_name,category
 5702235807,Machine Learning,concept
 5702235807,Python,language
 5705560469,Machine Learning,concept
-5894231002,Statistics,concept
+5894231002,Communication,soft_skill
 5894231002,Machine Learning,concept
 5894231002,Python,language
-5894231002,Communication,soft_skill
+5894231002,Statistics,concept
 5801068336,Communication,soft_skill
-5856198015,Machine Learning,concept
 5856198015,Communication,soft_skill
+5856198015,Machine Learning,concept
 4723896617,Statistics,concept
 4493479600,Statistics,concept
 5120471599,Machine Learning,concept
 2318122072,Statistics,concept
 2461074337,Statistics,concept
-2927156051,R,language
-2927156051,Python,language
-2927156051,SAS,language
 2927156051,SQL,database
+2927156051,SAS,language
+2927156051,Python,language
+2927156051,R,language
 2349832292,Machine Learning,concept
 2536790415,Machine Learning,concept
 5890494566,Machine Learning,concept
 2992079462,Machine Learning,concept
 5255506987,Machine Learning,concept
-5879546648,Statistics,concept
 5879546648,Machine Learning,concept
 5879546648,Python,language
+5879546648,Statistics,concept
 5868707164,SQL,database
-5868707164,GCP,cloud
-5868707164,Statistics,concept
 5868707164,Azure,cloud
+5868707164,Statistics,concept
 5868707164,Machine Learning,concept
-5868707164,AWS,cloud
 5868707164,Python,language
-5501144903,Statistics,concept
+5868707164,GCP,cloud
+5868707164,AWS,cloud
 5501144903,Machine Learning,concept
+5501144903,Statistics,concept
 2773784069,Communication,soft_skill
 2773784069,Python,language
 5404307320,Machine Learning,concept
-5447797233,Machine Learning,concept
 5447797233,Communication,soft_skill
+5447797233,Machine Learning,concept
 4454322642,Machine Learning,concept
 5245553971,Machine Learning,concept
 5245553971,Python,language
@@ -2301,41 +2301,41 @@ posting_id,skill_name,category
 2635526469,Machine Learning,concept
 2635526469,Python,language
 5780509195,Machine Learning,concept
+3115911635,SQL,database
 3115911635,Machine Learning,concept
 3115911635,Python,language
-3115911635,SQL,database
 4521451905,Machine Learning,concept
 5503838209,Machine Learning,concept
-5897176729,Azure,cloud
 5897176729,Machine Learning,concept
-5897176729,Python,language
+5897176729,Azure,cloud
 5897176729,Spark,big_data
+5897176729,Python,language
 2563331072,Machine Learning,concept
 1161626852,Spark,big_data
 1161626852,Python,language
 5832798242,Machine Learning,concept
-5871275635,Azure,cloud
 5871275635,Machine Learning,concept
+5871275635,Azure,cloud
 5871275635,Python,language
-5871275574,Azure,cloud
 5871275574,Machine Learning,concept
+5871275574,Azure,cloud
 5871275574,Python,language
 5851151245,Machine Learning,concept
 2077170837,Statistics,concept
-3468848513,Statistics,concept
 3468848513,Machine Learning,concept
-3468848513,Python,language
 3468848513,Spark,big_data
-4514376308,Statistics,concept
+3468848513,Python,language
+3468848513,Statistics,concept
 4514376308,Machine Learning,concept
+4514376308,Statistics,concept
 2853928406,Statistics,concept
+5868119639,SQL,database
 5868119639,GCP,cloud
 5868119639,Machine Learning,concept
-5868119639,SQL,database
-4885249969,Machine Learning,concept
 4885249969,Communication,soft_skill
-1229891739,Statistics,concept
+4885249969,Machine Learning,concept
 1229891739,Machine Learning,concept
+1229891739,Statistics,concept
 3345106502,Machine Learning,concept
 1171506865,GCP,cloud
 4514376170,Statistics,concept
@@ -2344,42 +2344,42 @@ posting_id,skill_name,category
 5889085245,Machine Learning,concept
 5834756784,Machine Learning,concept
 2123886640,SQL,database
-2123886640,GCP,cloud
 2123886640,Spark,big_data
-2123886640,Tableau,bi_tool
 2123886640,R,language
+2123886640,Tableau,bi_tool
 2123886640,Python,language
-1577157209,R,language
-1577157209,Python,language
+2123886640,GCP,cloud
 1577157209,SQL,database
-5879561979,Statistics,concept
-5879561979,Machine Learning,concept
+1577157209,Python,language
+1577157209,R,language
 5879561979,Communication,soft_skill
+5879561979,Machine Learning,concept
+5879561979,Statistics,concept
 5851859962,Communication,soft_skill
 5895239242,Machine Learning,concept
 5879663089,Machine Learning,concept
 5899924447,Azure,cloud
-5889220273,GCP,cloud
 5889220273,ETL,concept
-5881760240,GCP,cloud
+5889220273,GCP,cloud
 5881760240,ETL,concept
+5881760240,GCP,cloud
 5876872655,Azure,cloud
 5876872655,Snowflake,cloud
 5876872396,GCP,cloud
-5882861191,Machine Learning,concept
 5882861191,ETL,concept
+5882861191,Machine Learning,concept
 5881765395,Machine Learning,concept
 5876872629,Machine Learning,concept
-4299529092,Statistics,concept
 4299529092,Machine Learning,concept
+4299529092,Statistics,concept
+1171508809,NumPy,library
 1171508809,Machine Learning,concept
 1171508809,Python,language
-1171508809,NumPy,library
 1161627821,Machine Learning,concept
 5453280857,Machine Learning,concept
 5453280857,Python,language
-3793256965,GCP,cloud
 3793256965,Machine Learning,concept
+3793256965,GCP,cloud
 5879665355,GCP,cloud
 5895157707,Machine Learning,concept
 5895257300,Machine Learning,concept
@@ -2387,49 +2387,49 @@ posting_id,skill_name,category
 5899510776,Machine Learning,concept
 5846723212,Machine Learning,concept
 5864433525,SQL,database
-5864433525,Azure,cloud
 5864433525,Spark,big_data
-5864433525,ETL,concept
+5864433525,Azure,cloud
 5864433525,Python,language
-5890149141,GCP,cloud
+5864433525,ETL,concept
 5890149141,Azure,cloud
+5890149141,GCP,cloud
 5890149141,AWS,cloud
 5889544216,Machine Learning,concept
 5896658426,Machine Learning,concept
-5831365081,Statistics,concept
 5831365081,Machine Learning,concept
+5831365081,Statistics,concept
 5727121760,Machine Learning,concept
 5727121760,AWS,cloud
 4514376236,Machine Learning,concept
 1171507907,Machine Learning,concept
+5363133330,NumPy,library
 5363133330,Pandas,library
 5363133330,Machine Learning,concept
 5363133330,Python,language
-5363133330,NumPy,library
 5894620844,Machine Learning,concept
 4596884479,Machine Learning,concept
 5503837634,Machine Learning,concept
 5635046286,Machine Learning,concept
 5869814201,Machine Learning,concept
 1171507528,Machine Learning,concept
-5727114445,Statistics,concept
 5727114445,Machine Learning,concept
+5727114445,Statistics,concept
 5117034498,Machine Learning,concept
 1398819281,Machine Learning,concept
 3332673255,Machine Learning,concept
 2383302553,Machine Learning,concept
 1171507734,Machine Learning,concept
 2833106061,Machine Learning,concept
-3175702626,Statistics,concept
 3175702626,Machine Learning,concept
 3175702626,AWS,cloud
+3175702626,Statistics,concept
 5803782486,Machine Learning,concept
 1864247245,Machine Learning,concept
-1368669287,Statistics,concept
 1368669287,Machine Learning,concept
-1844548865,Statistics,concept
-1844548865,Machine Learning,concept
+1368669287,Statistics,concept
 1844548865,Communication,soft_skill
+1844548865,Machine Learning,concept
+1844548865,Statistics,concept
 3038221909,Machine Learning,concept
 3038221909,Python,language
 1958165136,Pandas,library
@@ -2438,16 +2438,16 @@ posting_id,skill_name,category
 3894826256,Machine Learning,concept
 5717273191,Machine Learning,concept
 5718401844,Machine Learning,concept
-5788472875,Machine Learning,concept
 5788472875,SQL,database
-3949356918,Machine Learning,concept
-3949356918,Python,language
+5788472875,Machine Learning,concept
 3949356918,Spark,big_data
 3949356918,SQL,database
-2042125548,Statistics,concept
+3949356918,Machine Learning,concept
+3949356918,Python,language
 2042125548,Machine Learning,concept
-4250934989,Statistics,concept
+2042125548,Statistics,concept
 4250934989,Machine Learning,concept
+4250934989,Statistics,concept
 4514376976,Machine Learning,concept
 4514376976,Python,language
 1171508972,Machine Learning,concept
@@ -2461,65 +2461,65 @@ posting_id,skill_name,category
 4676936483,Machine Learning,concept
 5727804444,Machine Learning,concept
 5889571038,Machine Learning,concept
-5625766940,SQL,database
 5625766940,Spark,big_data
+5625766940,SQL,database
 5625766940,Machine Learning,concept
-5625766940,AWS,cloud
 5625766940,Python,language
+5625766940,AWS,cloud
 5896645965,Machine Learning,concept
-5861792861,Statistics,concept
 5861792861,R,language
 5861792861,Machine Learning,concept
 5861792861,Python,language
+5861792861,Statistics,concept
 5672787204,Machine Learning,concept
-5639356989,Azure,cloud
 5639356989,Machine Learning,concept
+5639356989,Azure,cloud
 5639356989,Python,language
 5774368786,Machine Learning,concept
-5859121193,Machine Learning,concept
 5859121193,Communication,soft_skill
+5859121193,Machine Learning,concept
 2475263628,Machine Learning,concept
 3297100672,Machine Learning,concept
+1858079808,AWS,cloud
 1858079808,Machine Learning,concept
 1858079808,Python,language
-1858079808,AWS,cloud
 2539490299,Machine Learning,concept
 1463797734,Machine Learning,concept
 5552722462,Machine Learning,concept
 4559411206,Machine Learning,concept
-3987216053,Machine Learning,concept
 3987216053,Communication,soft_skill
+3987216053,Machine Learning,concept
 5841937030,Machine Learning,concept
+1171506981,AWS,cloud
 1171506981,R,language
 1171506981,Machine Learning,concept
 1171506981,Python,language
-1171506981,AWS,cloud
-5774031512,Excel,spreadsheet
 5774031512,Machine Learning,concept
+5774031512,Excel,spreadsheet
 5754836299,Machine Learning,concept
 5766000536,Machine Learning,concept
 1233590624,Machine Learning,concept
 1155088318,Machine Learning,concept
 5796582780,R,language
 5796582780,Machine Learning,concept
-4493479601,Machine Learning,concept
 4493479601,Communication,soft_skill
+4493479601,Machine Learning,concept
 5878275252,Machine Learning,concept
 5878684368,Machine Learning,concept
-5737961799,Statistics,concept
 5737961799,Machine Learning,concept
-1155088444,Machine Learning,concept
+5737961799,Statistics,concept
 1155088444,Communication,soft_skill
+1155088444,Machine Learning,concept
 2177266537,Machine Learning,concept
 5899555683,Machine Learning,concept
 5855247320,Machine Learning,concept
 5897176790,Machine Learning,concept
 5809893257,Machine Learning,concept
 5833020604,Machine Learning,concept
-2658062217,Machine Learning,concept
-2658062217,Python,language
 2658062217,ETL,concept
 2658062217,SQL,database
+2658062217,Machine Learning,concept
+2658062217,Python,language
 5832093736,Machine Learning,concept
 5834364487,Machine Learning,concept
 4878673281,Machine Learning,concept
@@ -2530,21 +2530,21 @@ posting_id,skill_name,category
 5628316573,Machine Learning,concept
 5838496879,Machine Learning,concept
 5895401011,Machine Learning,concept
-5662018463,GCP,cloud
-5662018463,Pandas,library
 5662018463,Azure,cloud
-5662018463,NumPy,library
 5662018463,Machine Learning,concept
-5662018463,AWS,cloud
 5662018463,Python,language
+5662018463,NumPy,library
+5662018463,Pandas,library
+5662018463,GCP,cloud
+5662018463,AWS,cloud
 5661972493,Machine Learning,concept
 5889085520,Machine Learning,concept
 5893831605,Machine Learning,concept
 5889675320,Machine Learning,concept
 5890717754,Machine Learning,concept
 5882589342,GCP,cloud
-5895032066,Spark,big_data
 5895032066,SQL,database
+5895032066,Spark,big_data
 5893733505,Machine Learning,concept
 5888035707,Machine Learning,concept
 5888035707,Python,language
@@ -2554,18 +2554,18 @@ posting_id,skill_name,category
 5869816584,Machine Learning,concept
 5860534570,Machine Learning,concept
 5898599511,Machine Learning,concept
-1187972100,Statistics,concept
 1187972100,Machine Learning,concept
-2883808214,Machine Learning,concept
+1187972100,Statistics,concept
 2883808214,ETL,concept
+2883808214,Machine Learning,concept
 5634984343,Machine Learning,concept
 5860548445,Machine Learning,concept
 5083277798,Machine Learning,concept
 5083277798,AWS,cloud
 4439898019,Machine Learning,concept
 5802152645,Machine Learning,concept
-5889515903,GCP,cloud
 5889515903,Machine Learning,concept
+5889515903,GCP,cloud
 5731787559,Machine Learning,concept
 5856949004,Machine Learning,concept
 5898475708,Machine Learning,concept
@@ -2576,8 +2576,8 @@ posting_id,skill_name,category
 5841933094,Machine Learning,concept
 5897029482,Machine Learning,concept
 5895065968,Machine Learning,concept
-3452174066,Statistics,concept
 3452174066,Machine Learning,concept
+3452174066,Statistics,concept
 5859120786,Machine Learning,concept
 5859120752,Machine Learning,concept
 5789393695,Machine Learning,concept
@@ -2585,8 +2585,8 @@ posting_id,skill_name,category
 5898599522,Machine Learning,concept
 5557106595,Machine Learning,concept
 5778225260,Machine Learning,concept
-5841129951,Statistics,concept
 5841129951,Machine Learning,concept
+5841129951,Statistics,concept
 5010969047,Machine Learning,concept
 4286562177,Machine Learning,concept
 4286562177,Python,language
@@ -2594,17 +2594,17 @@ posting_id,skill_name,category
 2830210779,Machine Learning,concept
 2234827768,Machine Learning,concept
 1474079177,Machine Learning,concept
-5871276031,GCP,cloud
 5871276031,Azure,cloud
 5871276031,Machine Learning,concept
-5871276031,AWS,cloud
 5871276031,Python,language
-5859122446,Azure,cloud
+5871276031,GCP,cloud
+5871276031,AWS,cloud
 5859122446,Machine Learning,concept
+5859122446,Azure,cloud
 5859122446,Snowflake,cloud
+5854880186,SQL,database
 5854880186,Machine Learning,concept
 5854880186,Python,language
-5854880186,SQL,database
 5856197872,Machine Learning,concept
 5869821047,Machine Learning,concept
 3262154917,Machine Learning,concept
@@ -2613,8 +2613,8 @@ posting_id,skill_name,category
 5856985187,Machine Learning,concept
 5822420657,Machine Learning,concept
 5891895241,Machine Learning,concept
-5872112013,Excel,spreadsheet
 5872112013,Machine Learning,concept
+5872112013,Excel,spreadsheet
 5696882332,Machine Learning,concept
 5808699280,Machine Learning,concept
 4514376605,Machine Learning,concept
@@ -2625,11 +2625,11 @@ posting_id,skill_name,category
 5859122227,Machine Learning,concept
 5859122228,Machine Learning,concept
 5878277468,Machine Learning,concept
-5753566259,Excel,spreadsheet
 5753566259,Machine Learning,concept
+5753566259,Excel,spreadsheet
 5753566259,AWS,cloud
-5794761147,Excel,spreadsheet
 5794761147,Machine Learning,concept
+5794761147,Excel,spreadsheet
 5794761147,AWS,cloud
 5873203104,Machine Learning,concept
 5852604039,Machine Learning,concept
@@ -2642,9 +2642,9 @@ posting_id,skill_name,category
 5850636106,Machine Learning,concept
 5850636104,Machine Learning,concept
 5889579445,Machine Learning,concept
+5675502145,Machine Learning,concept
 5675502145,Excel,spreadsheet
 5675502145,Azure,cloud
-5675502145,Machine Learning,concept
 5870119149,Machine Learning,concept
 5895349738,Machine Learning,concept
 2308527096,Machine Learning,concept
@@ -2673,11 +2673,11 @@ posting_id,skill_name,category
 5832073724,Machine Learning,concept
 5878284608,Machine Learning,concept
 5853728955,Machine Learning,concept
-5739066231,SQL,database
 5739066231,Spark,big_data
+5739066231,SQL,database
 5739066231,Machine Learning,concept
-5739066231,AWS,cloud
 5739066231,Python,language
+5739066231,AWS,cloud
 5742653094,Machine Learning,concept
 5833020828,Machine Learning,concept
 5854880190,Machine Learning,concept
@@ -2712,37 +2712,37 @@ posting_id,skill_name,category
 5875071104,Machine Learning,concept
 5876480289,Machine Learning,concept
 5876480291,Machine Learning,concept
-5891899827,Statistics,concept
 5891899827,Machine Learning,concept
+5891899827,Statistics,concept
 5838454777,Machine Learning,concept
-5838454777,Snowflake,cloud
 5838454777,AWS,cloud
+5838454777,Snowflake,cloud
 5874134989,Machine Learning,concept
 5864425239,Machine Learning,concept
 5893923574,Communication,soft_skill
-5853620857,GCP,cloud
 5853620857,Machine Learning,concept
-5898126215,Statistics,concept
+5853620857,GCP,cloud
 5898126215,Machine Learning,concept
+5898126215,Statistics,concept
 5880953284,Machine Learning,concept
 5799592114,Machine Learning,concept
 5833078332,Machine Learning,concept
 5870526723,Machine Learning,concept
-5867036030,Azure,cloud
 5867036030,Spark,big_data
-5867036030,ETL,concept
+5867036030,Azure,cloud
 5867036030,Python,language
 5867036030,Snowflake,cloud
+5867036030,ETL,concept
 5891693621,SQL,database
 5891693621,Azure,cloud
-5891693621,ETL,concept
 5891693621,Python,language
 5891693621,Snowflake,cloud
+5891693621,ETL,concept
 5898129585,Communication,soft_skill
 5898129585,ETL,concept
-5879667663,Python,language
 5879667663,AWS,cloud
 5879667663,SQL,database
+5879667663,Python,language
 5879662652,ETL,concept
 5901132818,GCP,cloud
 5898126262,Spark,big_data
@@ -2750,135 +2750,135 @@ posting_id,skill_name,category
 5896612983,Azure,cloud
 5875419844,ETL,concept
 5898128063,SQL,database
-5898128063,Azure,cloud
 5898128063,Spark,big_data
+5898128063,Azure,cloud
 5898128063,Python,language
 5898128063,Snowflake,cloud
+5880953864,ETL,concept
 5880953864,Azure,cloud
 5880953864,Spark,big_data
 5880953864,Python,language
-5880953864,ETL,concept
 5897295034,SQL,database
-5897295034,GCP,cloud
-5897295034,Azure,cloud
 5897295034,Spark,big_data
-5897295034,ETL,concept
-5897295034,AWS,cloud
+5897295034,Azure,cloud
 5897295034,Python,language
-5889218269,Machine Learning,concept
+5897295034,ETL,concept
+5897295034,GCP,cloud
+5897295034,AWS,cloud
 5889218269,ETL,concept
+5889218269,Machine Learning,concept
 5889218269,AWS,cloud
 5869558895,ETL,concept
-5882595616,Looker,bi_tool
 5882595616,SQL,database
-5882595616,GCP,cloud
-5882595616,ETL,concept
+5882595616,Looker,bi_tool
 5882595616,Python,language
+5882595616,ETL,concept
+5882595616,GCP,cloud
 5898127826,ETL,concept
-5898127826,Snowflake,cloud
 5898127826,SQL,database
-5873073773,Azure,cloud
+5898127826,Snowflake,cloud
 5873073773,ETL,concept
-5897294979,Azure,cloud
+5873073773,Azure,cloud
 5897294979,ETL,concept
-5898129616,Azure,cloud
-5898129616,Spark,big_data
+5897294979,Azure,cloud
 5898129616,ETL,concept
+5898129616,Spark,big_data
+5898129616,Azure,cloud
+5898130015,AWS,cloud
 5898130015,Spark,big_data
 5898130015,Python,language
-5898130015,AWS,cloud
 5890608218,SQL,database
 5890608218,Spark,big_data
-5890608218,ETL,concept
 5890608218,Python,language
 5890608218,Snowflake,cloud
+5890608218,ETL,concept
+5896613821,ETL,concept
 5896613821,Spark,big_data
 5896613821,Python,language
-5896613821,ETL,concept
-5895240628,Azure,cloud
 5895240628,ETL,concept
-5895240628,Snowflake,cloud
 5895240628,SQL,database
+5895240628,Azure,cloud
+5895240628,Snowflake,cloud
 5897295196,Statistics,concept
 5880953359,ETL,concept
 5880953866,ETL,concept
 5893924939,GCP,cloud
-5876872620,Python,language
 5876872620,ETL,concept
-5876872620,Snowflake,cloud
 5876872620,SQL,database
+5876872620,Python,language
+5876872620,Snowflake,cloud
 5890610094,ETL,concept
 5880950911,Communication,soft_skill
 5891693330,Communication,soft_skill
-5864425339,Python,language
 5864425339,ETL,concept
-5864425339,Snowflake,cloud
 5864425339,SQL,database
+5864425339,Python,language
+5864425339,Snowflake,cloud
+5895032122,SQL,database
 5895032122,GCP,cloud
 5895032122,Spark,big_data
 5895032122,Python,language
-5895032122,SQL,database
-5890612016,GCP,cloud
 5890612016,ETL,concept
-5876870782,Azure,cloud
-5876870782,Spark,big_data
+5890612016,GCP,cloud
 5876870782,ETL,concept
+5876870782,Spark,big_data
+5876870782,Azure,cloud
 5889221661,Spark,big_data
-5886097734,Spark,big_data
 5886097734,ETL,concept
+5886097734,Spark,big_data
 5864441942,ETL,concept
 5879667233,AWS,cloud
-5879664799,Statistics,concept
 5879664799,Communication,soft_skill
 5879664799,SQL,database
+5879664799,Statistics,concept
 5864434261,ETL,concept
-5864434261,Snowflake,cloud
 5864434261,SQL,database
-5876870067,Pandas,library
+5864434261,Snowflake,cloud
 5876870067,Spark,big_data
+5876870067,Python,language
+5876870067,Pandas,library
 5876870067,ETL,concept
 5876870067,AWS,cloud
-5876870067,Python,language
 5879657782,Azure,cloud
 5876872869,ETL,concept
-5895239536,Azure,cloud
-5895239536,Spark,big_data
 5895239536,ETL,concept
 5895239536,SQL,database
+5895239536,Spark,big_data
+5895239536,Azure,cloud
 5879663148,ETL,concept
 5873074201,GCP,cloud
-5864439943,Azure,cloud
 5864439943,Spark,big_data
-5889215459,Azure,cloud
-5889215459,Spark,big_data
+5864439943,Azure,cloud
 5889215459,ETL,concept
+5889215459,Spark,big_data
+5889215459,Azure,cloud
+5880951459,ETL,concept
 5880951459,GCP,cloud
 5880951459,Python,language
-5880951459,ETL,concept
 5898127679,Snowflake,cloud
-5867037379,Spark,big_data
 5867037379,ETL,concept
+5867037379,Spark,big_data
 5867037379,AWS,cloud
 5867037519,GCP,cloud
 5867037519,Python,language
-5879667665,Python,language
 5879667665,AWS,cloud
 5879667665,SQL,database
+5879667665,Python,language
 5886092568,Azure,cloud
 5886092568,Spark,big_data
 5886092568,AWS,cloud
+5898129926,ETL,concept
 5898129926,GCP,cloud
 5898129926,Python,language
-5898129926,ETL,concept
 5896613644,ETL,concept
-5900616222,Python,language
 5900616222,ETL,concept
-5899510948,Spark,big_data
+5900616222,Python,language
 5899510948,ETL,concept
-5867036012,GCP,cloud
-5867036012,Python,language
+5899510948,Spark,big_data
 5867036012,ETL,concept
 5867036012,SQL,database
+5867036012,GCP,cloud
+5867036012,Python,language
 5864427702,Azure,cloud
 5864427702,AWS,cloud
 5900875607,ETL,concept
@@ -2886,40 +2886,40 @@ posting_id,skill_name,category
 5875602822,Spark,big_data
 5875602822,Python,language
 5899512321,SQL,database
-5899512321,Azure,cloud
 5899512321,Spark,big_data
-5899512321,ETL,concept
+5899512321,Azure,cloud
 5899512321,Python,language
+5899512321,ETL,concept
+5899975918,AWS,cloud
+5899975918,ETL,concept
 5899975918,Spark,big_data
 5899975918,Python,language
-5899975918,ETL,concept
-5899975918,AWS,cloud
-5868792995,Spark,big_data
-5868792995,Python,language
 5868792995,ETL,concept
 5868792995,SQL,database
+5868792995,Spark,big_data
+5868792995,Python,language
 5893929787,ETL,concept
-5889211726,Spark,big_data
-5889211726,Python,language
 5889211726,AWS,cloud
 5889211726,SQL,database
-5879664831,Spark,big_data
-5879664831,Python,language
+5889211726,Spark,big_data
+5889211726,Python,language
 5879664831,ETL,concept
 5879664831,SQL,database
-5879665605,Spark,big_data
-5879665605,Python,language
+5879664831,Spark,big_data
+5879664831,Python,language
 5879665605,ETL,concept
 5879665605,SQL,database
+5879665605,Spark,big_data
+5879665605,Python,language
 5879671265,ETL,concept
-5895239257,Spark,big_data
 5895239257,ETL,concept
-5895239257,AWS,cloud
 5895239257,SQL,database
+5895239257,Spark,big_data
+5895239257,AWS,cloud
+5901135592,SQL,database
 5901135592,Spark,big_data
 5901135592,Python,language
 5901135592,Snowflake,cloud
-5901135592,SQL,database
 5871992113,SQL,database
 5889219598,ETL,concept
 5889219598,SQL,database
@@ -2929,107 +2929,107 @@ posting_id,skill_name,category
 5880953506,ETL,concept
 5880953506,Snowflake,cloud
 5898129018,GCP,cloud
+5873074739,SQL,database
 5873074739,GCP,cloud
 5873074739,Spark,big_data
-5873074739,SQL,database
 5889223191,SQL,database
 5889223191,Spark,big_data
+5889223191,Python,language
 5889223191,ETL,concept
 5889223191,AWS,cloud
-5889223191,Python,language
 5900875192,ETL,concept
 5900875192,AWS,cloud
-5867035865,GCP,cloud
 5867035865,ETL,concept
-5897294744,Azure,cloud
-5897294744,Spark,big_data
+5867035865,GCP,cloud
 5897294744,ETL,concept
+5897294744,Spark,big_data
+5897294744,Azure,cloud
 5867037550,Azure,cloud
 5867037550,Spark,big_data
 5867037550,Python,language
-5891688980,Spark,big_data
-5891688980,Python,language
 5891688980,AWS,cloud
 5891688980,SQL,database
+5891688980,Spark,big_data
+5891688980,Python,language
+5880953377,ETL,concept
 5880953377,GCP,cloud
 5880953377,Python,language
-5880953377,ETL,concept
 5879670410,ETL,concept
 5879670410,Snowflake,cloud
 5893924846,ETL,concept
+5900875364,SQL,database
 5900875364,Azure,cloud
 5900875364,Spark,big_data
 5900875364,Python,language
-5900875364,SQL,database
-5901137751,Azure,cloud
 5901137751,ETL,concept
+5901137751,Azure,cloud
 5901137751,AWS,cloud
 5900616223,ETL,concept
-5871991908,GCP,cloud
 5871991908,ETL,concept
+5871991908,GCP,cloud
 5878873576,GCP,cloud
+5868794384,ETL,concept
 5868794384,GCP,cloud
 5868794384,Python,language
-5868794384,ETL,concept
 5900616394,ETL,concept
 5900875742,ETL,concept
 5900875742,AWS,cloud
 5865285482,SQL,database
-5865285482,Pandas,library
-5865285482,NumPy,library
-5865285482,ETL,concept
 5865285482,Python,language
+5865285482,NumPy,library
+5865285482,Pandas,library
+5865285482,ETL,concept
 5864429591,Azure,cloud
 5864429591,Spark,big_data
 5864429591,Python,language
 5865295416,SQL,database
-5865295416,GCP,cloud
 5865295416,Spark,big_data
-5865295416,ETL,concept
 5865295416,Python,language
+5865295416,ETL,concept
+5865295416,GCP,cloud
 5899510259,AWS,cloud
 5880951688,Azure,cloud
 5898126661,SQL,database
-5898126661,ETL,concept
-5898126661,AWS,cloud
 5898126661,Python,language
 5898126661,Snowflake,cloud
+5898126661,ETL,concept
+5898126661,AWS,cloud
 5867270204,ETL,concept
+5864434388,SQL,database
 5864434388,Azure,cloud
 5864434388,Spark,big_data
 5864434388,Python,language
-5864434388,SQL,database
-5880950451,R,language
 5880950451,ETL,concept
-5880950451,Snowflake,cloud
+5880950451,R,language
 5880950451,Azure,cloud
+5880950451,Snowflake,cloud
 5895030966,Azure,cloud
 5895030966,Spark,big_data
 5895030966,Python,language
 5886486778,ETL,concept
 5886486778,AWS,cloud
+5898126263,SQL,database
 5898126263,GCP,cloud
 5898126263,Spark,big_data
-5898126263,SQL,database
-5893922623,Spark,big_data
 5893922623,ETL,concept
+5893922623,Spark,big_data
 5893922623,AWS,cloud
 5900876095,ETL,concept
 5897294389,Communication,soft_skill
 5889220240,AWS,cloud
+5898127205,AWS,cloud
 5898127205,Spark,big_data
 5898127205,Python,language
-5898127205,AWS,cloud
-5870526740,Azure,cloud
-5870526740,Spark,big_data
 5870526740,ETL,concept
+5870526740,Spark,big_data
+5870526740,Azure,cloud
+5870527413,ETL,concept
 5870527413,Azure,cloud
 5870527413,Python,language
-5870527413,ETL,concept
+5895031493,SQL,database
 5895031493,Azure,cloud
 5895031493,Spark,big_data
 5895031493,Python,language
-5895031493,SQL,database
 5871992629,Pandas,library
 5871992629,Spark,big_data
 5871992629,Python,language
@@ -3038,10 +3038,10 @@ posting_id,skill_name,category
 5873074744,Spark,big_data
 5873074744,Python,language
 5873074744,AWS,cloud
+5895240348,SQL,database
 5895240348,Azure,cloud
 5895240348,Spark,big_data
 5895240348,Python,language
-5895240348,SQL,database
 5886487287,Azure,cloud
 5871991383,Pandas,library
 5871991383,Azure,cloud
@@ -3049,254 +3049,254 @@ posting_id,skill_name,category
 5871991383,Python,language
 5891356723,ETL,concept
 5891356723,AWS,cloud
+5868790537,SQL,database
 5868790537,GCP,cloud
 5868790537,Spark,big_data
-5868790537,SQL,database
-5879663756,Spark,big_data
 5879663756,SQL,database
+5879663756,Spark,big_data
 5870527374,ETL,concept
-5870527374,AWS,cloud
 5870527374,SQL,database
+5870527374,AWS,cloud
+5867038139,SQL,database
 5867038139,Azure,cloud
 5867038139,Spark,big_data
 5867038139,Python,language
-5867038139,SQL,database
 5900875302,AWS,cloud
 5880953309,ETL,concept
-5879668018,GCP,cloud
 5879668018,SQL,database
+5879668018,GCP,cloud
 5889221031,SQL,database
-5889221031,GCP,cloud
 5889221031,Spark,big_data
-5889221031,ETL,concept
 5889221031,Python,language
-5870528045,Azure,cloud
+5889221031,ETL,concept
+5889221031,GCP,cloud
 5870528045,ETL,concept
-5868789187,Spark,big_data
-5868789187,Python,language
+5870528045,Azure,cloud
 5868789187,ETL,concept
 5868789187,SQL,database
+5868789187,Spark,big_data
+5868789187,Python,language
 5879663975,SQL,database
-5879663975,Azure,cloud
 5879663975,Spark,big_data
-5879663975,ETL,concept
+5879663975,Azure,cloud
 5879663975,Python,language
+5879663975,ETL,concept
+5898126931,SQL,database
 5898126931,Azure,cloud
 5898126931,Spark,big_data
 5898126931,Python,language
-5898126931,SQL,database
+5898127555,ETL,concept
 5898127555,GCP,cloud
 5898127555,Spark,big_data
 5898127555,Python,language
-5898127555,ETL,concept
-5871993019,GCP,cloud
-5871993019,Communication,soft_skill
 5871993019,ETL,concept
 5871993019,SQL,database
+5871993019,GCP,cloud
+5871993019,Communication,soft_skill
 5879671119,ETL,concept
+5898126830,SQL,database
 5898126830,Azure,cloud
 5898126830,Spark,big_data
 5898126830,Python,language
-5898126830,SQL,database
-5864438685,Spark,big_data
 5864438685,ETL,concept
+5864438685,Spark,big_data
 5864438685,AWS,cloud
-5891690133,GCP,cloud
-5891690133,Python,language
 5891690133,ETL,concept
 5891690133,SQL,database
-5864436781,GCP,cloud
-5864436781,Python,language
+5891690133,GCP,cloud
+5891690133,Python,language
 5864436781,ETL,concept
 5864436781,SQL,database
-5891689154,Python,language
+5864436781,GCP,cloud
+5864436781,Python,language
 5891689154,AWS,cloud
 5891689154,SQL,database
-5867036047,Spark,big_data
+5891689154,Python,language
 5867036047,ETL,concept
-5898128439,Spark,big_data
-5898128439,Python,language
+5867036047,Spark,big_data
 5898128439,ETL,concept
 5898128439,SQL,database
+5898128439,Spark,big_data
+5898128439,Python,language
 5900875510,SQL,database
 5900876617,SQL,database
 5900876617,Spark,big_data
+5900876617,Python,language
 5900876617,ETL,concept
 5900876617,AWS,cloud
-5900876617,Python,language
-5870526787,Python,language
 5870526787,AWS,cloud
+5870526787,Python,language
 5898533175,Spark,big_data
 5898533175,Python,language
 5879667607,Azure,cloud
 5879667607,AWS,cloud
 5889211740,ETL,concept
-5864439264,Spark,big_data
 5864439264,ETL,concept
+5864439264,Spark,big_data
 5864439264,AWS,cloud
 5858537538,ETL,concept
-5880951687,GCP,cloud
 5880951687,ETL,concept
-5893929746,GCP,cloud
+5880951687,GCP,cloud
 5893929746,Spark,big_data
+5893929746,GCP,cloud
 5806276961,Communication,soft_skill
-5864425274,Spark,big_data
 5864425274,SQL,database
-5864434199,Spark,big_data
+5864425274,Spark,big_data
 5864434199,ETL,concept
+5864434199,Spark,big_data
 5868790278,GCP,cloud
+5900616302,SQL,database
 5900616302,Azure,cloud
 5900616302,Python,language
 5900616302,Snowflake,cloud
-5900616302,SQL,database
 5870527973,Azure,cloud
-5889223228,Spark,big_data
-5889223228,Python,language
 5889223228,AWS,cloud
 5889223228,SQL,database
+5889223228,Spark,big_data
+5889223228,Python,language
 5868790259,GCP,cloud
-5880951721,Azure,cloud
 5880951721,ETL,concept
-5880951721,SAS,language
 5880951721,SQL,database
+5880951721,SAS,language
+5880951721,Azure,cloud
 5822403362,ETL,concept
 5898128169,GCP,cloud
 5864428932,Azure,cloud
 5879671073,GCP,cloud
+5868792316,SQL,database
 5868792316,GCP,cloud
 5868792316,Spark,big_data
 5868792316,Python,language
-5868792316,SQL,database
-5875602881,Azure,cloud
-5875602881,Spark,big_data
 5875602881,ETL,concept
 5875602881,SQL,database
-5872266129,GCP,cloud
-5872266129,Azure,cloud
+5875602881,Spark,big_data
+5875602881,Azure,cloud
 5872266129,Communication,soft_skill
+5872266129,Azure,cloud
+5872266129,GCP,cloud
 5872266129,AWS,cloud
 5900876645,GCP,cloud
+5889219615,AWS,cloud
+5889219615,ETL,concept
 5889219615,Spark,big_data
 5889219615,Python,language
-5889219615,ETL,concept
-5889219615,AWS,cloud
 5891356710,AWS,cloud
 5880952520,AWS,cloud
 5875602779,AWS,cloud
 5864432541,SQL,database
-5880949798,Azure,cloud
-5880949798,Spark,big_data
 5880949798,SQL,database
+5880949798,Spark,big_data
+5880949798,Azure,cloud
 5880952069,ETL,concept
 5867717199,ETL,concept
 5886096712,ETL,concept
 5880953405,Machine Learning,concept
 5870527491,SQL,database
-5870527491,Azure,cloud
 5870527491,Spark,big_data
+5870527491,Azure,cloud
+5870527491,Python,language
 5870527491,Communication,soft_skill
 5870527491,ETL,concept
-5870527491,Python,language
-5880951682,Azure,cloud
-5880951682,Communication,soft_skill
 5880951682,ETL,concept
 5880951682,SQL,database
-5901137749,Spark,big_data
+5880951682,Communication,soft_skill
+5880951682,Azure,cloud
 5901137749,ETL,concept
-5901137749,AWS,cloud
 5901137749,SQL,database
-5867263557,Python,language
+5901137749,Spark,big_data
+5901137749,AWS,cloud
 5867263557,ETL,concept
 5867263557,AWS,cloud
 5867263557,SQL,database
+5867263557,Python,language
 5897295836,ETL,concept
 5897295836,AWS,cloud
-5897295352,GCP,cloud
-5897295352,Spark,big_data
 5897295352,ETL,concept
 5897295352,SQL,database
+5897295352,GCP,cloud
+5897295352,Spark,big_data
 5880953373,Spark,big_data
 5890717713,GCP,cloud
 5864439024,AWS,cloud
-5880950696,Spark,big_data
 5880950696,Communication,soft_skill
 5880950696,SQL,database
+5880950696,Spark,big_data
 5889219863,ETL,concept
 5879667715,Azure,cloud
-5870528683,Python,language
 5870528683,ETL,concept
 5870528683,SQL,database
+5870528683,Python,language
 5898127823,GCP,cloud
 5898127823,AWS,cloud
 5893007429,Spark,big_data
-5893007429,ETL,concept
-5893007429,AWS,cloud
 5893007429,Python,language
 5893007429,Snowflake,cloud
+5893007429,ETL,concept
+5893007429,AWS,cloud
 5901137507,ETL,concept
 5879662973,Communication,soft_skill
 5875419658,Azure,cloud
 5875419658,AWS,cloud
 5879665050,SQL,database
-5879665050,Azure,cloud
 5879665050,Spark,big_data
-5879665050,ETL,concept
+5879665050,Azure,cloud
 5879665050,Python,language
+5879665050,ETL,concept
 5899509959,Spark,big_data
-5873074121,Python,language
 5873074121,SQL,database
+5873074121,Python,language
 5900875379,Spark,big_data
+5895239235,SQL,database
 5895239235,GCP,cloud
 5895239235,SAS,language
-5895239235,SQL,database
+5873073656,SQL,database
 5873073656,Spark,big_data
 5873073656,AWS,cloud
-5873073656,SQL,database
 5882598302,Spark,big_data
 5882598302,AWS,cloud
+5867038188,SQL,database
 5867038188,Spark,big_data
 5867038188,Python,language
-5867038188,SQL,database
 5897295202,ETL,concept
 5881763237,Spark,big_data
 5881763237,Python,language
 5879662644,GCP,cloud
-5883562681,Azure,cloud
-5883562681,Spark,big_data
 5883562681,Communication,soft_skill
 5883562681,SQL,database
+5883562681,Spark,big_data
+5883562681,Azure,cloud
 5864437539,Spark,big_data
-5879657363,GCP,cloud
 5879657363,ETL,concept
+5879657363,GCP,cloud
+5898129703,SQL,database
 5898129703,GCP,cloud
 5898129703,Python,language
-5898129703,SQL,database
-5846723063,Python,language
 5846723063,ETL,concept
 5846723063,SQL,database
-5864439062,Azure,cloud
-5864439062,Spark,big_data
+5846723063,Python,language
 5864439062,ETL,concept
 5864439062,SQL,database
-5880953310,Spark,big_data
+5864439062,Spark,big_data
+5864439062,Azure,cloud
 5880953310,SQL,database
+5880953310,Spark,big_data
 5887706968,ETL,concept
 5896250489,GCP,cloud
 5898127090,Azure,cloud
 5898127924,Azure,cloud
 5877451944,AWS,cloud
-5901136950,Azure,cloud
 5901136950,Spark,big_data
+5901136950,Azure,cloud
+5901136950,Python,language
 5901136950,ETL,concept
 5901136950,AWS,cloud
-5901136950,Python,language
 5898126765,SQL,database
-5898126765,Azure,cloud
 5898126765,Spark,big_data
-5898126765,ETL,concept
+5898126765,Azure,cloud
 5898126765,Python,language
-5880951894,Azure,cloud
+5898126765,ETL,concept
 5880951894,ETL,concept
-5880951894,SAS,language
 5880951894,SQL,database
+5880951894,SAS,language
+5880951894,Azure,cloud
 5899510167,Communication,soft_skill

@@ -34,7 +34,7 @@ load_env()
 DB_PATH = "jobs.db"
 BASE_URL = "https://api.adzuna.com/v1/api/jobs/in/search/{page}"
 QUERIES = ["data analyst", "business analyst", "sql analyst", "power bi", "junior data analyst",
-           "tableau", "data scientist", "machine learning", "data engineer"]
+           "tableau", "data scientist", "machine learning", "data engineer", "sql developer", "data analytics", "software developer", "python developer", "data architect"]
 PAGES_PER_QUERY = 10          # 50 results per page
 RESULTS_PER_PAGE = 50
 
