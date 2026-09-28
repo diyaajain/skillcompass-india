@@ -113,6 +113,10 @@ python3 analysis.py         # tables and charts in outputs/
 python3 export_slim.py      # slim CSVs for the dashboard
 streamlit run app.py
 ```
+Shortcut 
+```bash
+python3 collect.py && python3 extract_skills.py && python3 clean.py && python3 export_slim.py
+```
 
 To reproduce the validation:
 
