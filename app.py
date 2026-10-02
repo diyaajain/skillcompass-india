@@ -13,18 +13,18 @@ def load():
 postings, ps = load()
 
 ROLE_GROUPS = {
+    "All roles": ["analyst", "bi", "data_science", "data_engineering", "other"],
     "Analyst / BI": ["analyst", "bi"],
     "Data science": ["data_science"],
     "Data engineering": ["data_engineering"],
-    "All roles": ["analyst", "bi", "data_science", "data_engineering", "other"],
 }
 
 # ---------- sidebar filters ----------
 st.sidebar.header("Filters")
 role = st.sidebar.selectbox("Role group", list(ROLE_GROUPS))
 real_cities = sorted(c for c in postings.city.dropna().unique() if c not in ("Other", "Unspecified"))
-cities = st.sidebar.multiselect("City (empty = all)", real_cities)
-levels = st.sidebar.multiselect("Seniority (empty = all)", ["junior", "mid", "senior"])
+cities = st.sidebar.multiselect("City", real_cities)
+levels = st.sidebar.multiselect("Seniority", ["junior", "mid", "senior"])
 hide_soft = st.sidebar.checkbox("Hide soft skills", value=True)
 
 f = postings[postings.role_family.isin(ROLE_GROUPS[role])]
