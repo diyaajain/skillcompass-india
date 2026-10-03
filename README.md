@@ -9,11 +9,11 @@ An end-to-end analysis of 10,000+ job postings: API data collection, SQL databas
 
 ## Key findings
 
-- **SQL appears in 16.9% of analyst postings, [X]x as often as Python.** [X]% of postings that ask for Python also ask for SQL.
-- **Power BI and Tableau** appear in [X]% and [X]% of postings.
+- **Python appears in 18% of the job postings.** [76]% of postings that ask for Python also ask for SQL.
+- **Power BI and Tableau** appear in 6.3% and 2.7% of postings.
 - **The most common skill pair is [Python + SQL]**, appearing together in 732 postings.
-- **[City] leads with [X] postings**, followed by [City] and [City].
-- **Salary:** the median advertised salary is ₹[X]L per year (based on [N] postings that state one). [One sentence on the skill comparison, if you have enough data.]
+- **Bengaluru leads with 2963 postings**, followed by Hyderabad and Pune.
+- **Salary:** the median advertised salary is ₹11.4L per year (based on 10,889 postings that state one).
 - **What to learn first:** Combination of Python and SQL.
 
 ## Questions I set out to answer
@@ -33,8 +33,6 @@ An end-to-end analysis of 10,000+ job postings: API data collection, SQL databas
 5. **Analysis** (`queries.sql`, `analysis.py`): SQL with joins, CTEs, and window functions for skill demand, co-occurrence, and median salary; pandas and matplotlib for charts.
 6. **Dashboard** (`app.py`): Streamlit app with filters for role group, city, and seniority.
 7. **Quality checks** (`tests/`, `evaluate_extraction.py`): unit tests for the cleaning and extraction logic, plus a hand-labeled validation of skill extraction (see below).
-
-**Dataset:** [N] unique postings after removing duplicates, collected [dates]. [N] analyst/BI postings, [N] with a stated salary.
 
 ## Validation
 
@@ -59,7 +57,7 @@ Every finding depends on the skill extraction, so I measured it instead of assum
 - "Power Bl", a typo with a lowercase L, was missed. The pattern now tolerates it.
 - Each fix has a regression test in `tests/test_extract.py`.
 
-**After the fixes**, I re-measured on a fresh random sample of [50] postings that I had not tuned on: overall precision [X], recall [X].
+**After the fixes**, I re-measured on a fresh random sample of [50] postings that I had not tuned on.
 
 **Reading these numbers honestly:**
 - Skills with fewer than about 10 true mentions (all except SQL and Power BI here) have unreliable percentages, so I report their counts instead.
@@ -75,7 +73,6 @@ Being upfront about these matters more than hiding them.
 - **Skills are found by keyword matching**, which can miss synonyms and occasionally mismatch (see Validation).
 - **Salary is missing for most postings** (about [X]% have one), so salary results are noisy and cover few skills.
 - **Skill and salary are confounded.** Skills overlap heavily, so the salary chart shows postings that mention a skill, not what the skill is worth.
-- **About [X]% of postings list only "India" or a state** and are excluded from city analysis.
 
 ## What went wrong (and what I did about it)
 
@@ -83,7 +80,6 @@ Being upfront about these matters more than hiding them.
 - My first "Other" city bucket held 30% of the data. Investigating showed most were country-only locations, so I split it into "Unspecified" and "Other" instead of forcing a wrong city.
 - Validating skill extraction on hand-labeled postings exposed false positives and a missed typo. I fixed them and added regression tests.
 - API keys must never live in code. They are loaded from a git-ignored `.env` file, and error handling never prints the request URL, which contains the key.
-- [Add your own: anything else that broke or surprised you.]
 
 ## Run it yourself
 
