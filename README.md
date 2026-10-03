@@ -1,7 +1,7 @@
 # SkillCompass India
 
 **What skills do Indian data analyst jobs ask for, and which should you learn first?**
-An end-to-end analysis of [N] job postings: API data collection, SQL database, validated skill extraction, analysis, and an interactive dashboard.
+An end-to-end analysis of 10,000+ job postings: API data collection, SQL database, validated skill extraction, analysis, and an interactive dashboard.
 
 **[Live dashboard →](https://skillcompass-india.streamlit.app/)**
 
@@ -9,14 +9,12 @@ An end-to-end analysis of [N] job postings: API data collection, SQL database, v
 
 ## Key findings
 
-> Replace the numbers below with your final results (re-run `analysis.py` after all fixes).
-
-- **SQL appears in [X]% of analyst postings, [X]x as often as Python.** [X]% of postings that ask for Python also ask for SQL.
-- **Power BI and Tableau** appear in [X]% and [X]% of postings. [One sentence on what this means, with the sampling caveat below.]
-- **The most common skill pair is [SQL + Power BI]**, appearing together in [X] postings.
+- **SQL appears in 16.9% of analyst postings, [X]x as often as Python.** [X]% of postings that ask for Python also ask for SQL.
+- **Power BI and Tableau** appear in [X]% and [X]% of postings.
+- **The most common skill pair is [Python + SQL]**, appearing together in 732 postings.
 - **[City] leads with [X] postings**, followed by [City] and [City].
 - **Salary:** the median advertised salary is ₹[X]L per year (based on [N] postings that state one). [One sentence on the skill comparison, if you have enough data.]
-- **What to learn first:** [One-sentence recommendation based on your numbers, e.g. SQL first, then a BI tool, then Python.]
+- **What to learn first:** Combination of Python and SQL.
 
 ## Questions I set out to answer
 
