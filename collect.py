@@ -34,9 +34,9 @@ load_env()
 DB_PATH = "jobs.db"
 BASE_URL = "https://api.adzuna.com/v1/api/jobs/in/search/{page}"
 QUERIES = ["data analyst", "business analyst", "sql analyst", "power bi", "junior data analyst", "data scientist", 
-           "machine learning", "data engineer", "sql developer", "data analytics", "software developer", "python developer"]
+           "sql developer", "software developer", "python developer"]
 PAGES_PER_QUERY = 20             
-RESULTS_PER_PAGE = 50               # 50 results per page
+RESULTS_PER_PAGE = 100               # 50 results per page
 
 
 def init_db() -> sqlite3.Connection:
