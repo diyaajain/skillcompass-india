@@ -5718,7 +5718,6 @@ id,title,company,city,salary_mid,seniority,role_family,posted_date
 3138985678,Data Scientist,wrackle,Bengaluru,1250000.0,mid,data_science,2022-05-16
 3595488254,Data Science,Jubilant HR Consultants,Mumbai,2000000.0,mid,data_science,2022-10-17
 5895059339,Data Scientist,Stripe,Unspecified,,mid,data_science,2026-09-23
-5887907000,Data Scientist,eBay,Bengaluru,,mid,data_science,2026-09-17
 5849326925,Data Scientist,Kyndryl,Mumbai,,mid,data_science,2026-08-20
 5849326918,Data Scientist,Kyndryl,Delhi NCR,,mid,data_science,2026-08-20
 5876718185,Data Scientist,Cummins Inc.,Pune,,mid,data_science,2026-09-09
@@ -5943,7 +5942,6 @@ id,title,company,city,salary_mid,seniority,role_family,posted_date
 5750962689,"Associate Data Scientist, Machine Learning",Trinity Life Sciences,Bengaluru,,junior,data_science,2026-06-04
 5856197019,Data Scientist/Machine Learning Consultant,Infosys Limited,Bengaluru,,mid,data_science,2026-08-26
 5616903522,Data Scientist - Machine Learning & AI,Ampera Technologies,Bengaluru,,mid,data_science,2026-02-06
-5896368986,Analyst - Data Scientist Machine Learning,United Airlines,Unspecified,,mid,data_science,2026-09-24
 4103847665,Lead AI / Machine Learning expert,Shiba Inu,Mumbai,3000000.0,senior,data_science,2023-05-17
 5808699285,Machine Learning Data Scientist NLP,Next Quarter,Hyderabad,,mid,data_science,2026-07-21
 1346641523,Consulting Staff Engineer - Machine Learning,Thinkdeeply,Hyderabad,2000000.0,mid,data_science,2019-11-21
@@ -7812,7 +7810,6 @@ id,title,company,city,salary_mid,seniority,role_family,posted_date
 5846562118,"Senior Business Analyst, FinOps",ADCI - Karnataka - A66,Bengaluru,,senior,analyst,2026-08-18
 5847672061,Business Analyst Core Banking,Orion India Systems Private Limited,Delhi NCR,,mid,analyst,2026-08-19
 5850377038,"Business Analyst - CRE , CMBS",Vichara Technologies,Delhi NCR,,mid,analyst,2026-08-21
-5850380874,Market Research/ Business Analyst,Hrd House,Mumbai,,mid,analyst,2026-08-21
 5899861890,Senior BI Analyst,dentsu,Unspecified,,senior,analyst,2026-09-26
 5851148649,Senior Test Engineer,Quality Engineering,Unspecified,,senior,other,2026-08-21
 5856966754,Technical Specialist - PBI Fabric,Datavail Infotech,Mumbai,,mid,other,2026-08-26
@@ -7897,7 +7894,6 @@ id,title,company,city,salary_mid,seniority,role_family,posted_date
 5828603233,Associate Manager,Lykora Consulting Services Private Limited,Bengaluru,,senior,other,2026-08-05
 5863638662,HR Analytics Fresher,Scouto,Bengaluru,540000.0,junior,analyst,2026-09-01
 5900714684,Data Engineer - PowerBI,Jobgether,Unspecified,,mid,data_engineering,2026-09-27
-5899073205,Data/ETL Engineer,ascendion,Bengaluru,,mid,data_engineering,2026-09-26
 5829177304,Senior Business Intelligence Developer,Supplier.io,Hyderabad,,senior,bi,2026-08-05
 4801649372,Associate,PricewaterhouseCoopers,Unspecified,,junior,other,2024-07-31
 5887963769,Associate FP&A,Revantage,Bengaluru,,junior,other,2026-09-17
@@ -8006,7 +8002,6 @@ id,title,company,city,salary_mid,seniority,role_family,posted_date
 5841918030,Finance Systems & Analytics Specialist,GlobalFoundries,Unspecified,,mid,analyst,2026-08-14
 5453643491,3726774-Lead Assistant Manager,EXL,Unspecified,,senior,other,2025-10-18
 5899838547,Azure Data Engineer,Arcadis,Bengaluru,,mid,data_engineering,2026-09-26
-5903326241,Application Architect-Microsoft Business Applications,IBM,Bengaluru,,senior,other,2026-09-30
 5905907993,I&F Decision Sci Practitioner Specialist,Accenture,Unspecified,,mid,other,2026-10-01
 5870738343,Consultant - R01570522,Brillio,Pune,,mid,other,2026-09-04
 5877235175,Senior Associate,PricewaterhouseCoopers,Unspecified,,senior,other,2026-09-09
@@ -8567,7 +8562,6 @@ id,title,company,city,salary_mid,seniority,role_family,posted_date
 5835340734,Enterprise Data Science Specialist,Mercor,Mumbai,,mid,data_science,2026-08-10
 5903295440,Jr./Sr. Data Scientist,Umanist Staffing LLC,Unspecified,2450000.0,senior,data_science,2026-09-30
 5875391046,[India] Senior Data Scientist,ProcDNA,Unspecified,,senior,data_science,2026-09-08
-5849346139,Data Scientist - AI Evaluation,Mercor,Mumbai,,mid,data_science,2026-08-20
 5728268050,Machine Learning / AI Engineer – Computer Vision Specialist,Acura Solution,Mumbai,,mid,data_science,2026-05-14
 5831405412,Staff Software Engineer Generative AI-Machine Learning,Extreme Networks,Bengaluru,,mid,data_science,2026-08-07
 5753504310,"Senior Machine Learning Engineer, Ad Tech Engineering",Roku,Bengaluru,,senior,data_science,2026-06-06
@@ -8763,7 +8757,6 @@ id,title,company,city,salary_mid,seniority,role_family,posted_date
 5859124971,Lead Software Engineer,Capital One,Bengaluru,,senior,other,2026-08-28
 5879140958,Software Engineer II - AI / ML,SE2,Delhi NCR,,mid,data_science,2026-09-11
 5837855096,ML Engineer - AI Coding Expert,Mercor,Mumbai,,mid,data_science,2026-08-12
-5824121298,AI / ML Engineer,Accenture,Unspecified,,mid,data_science,2026-08-01
 5882499669,AI/ML Engineer,HireFlexperts,Surat,,mid,data_science,2026-09-13
 5705456906,MLOps Engineer,Topcoder,Delhi NCR,,mid,other,2026-04-21
 5860534604,"ASIC Engineer, Architecture",Meta Platform,Bengaluru,,mid,other,2026-08-29
@@ -8778,7 +8771,6 @@ id,title,company,city,salary_mid,seniority,role_family,posted_date
 5886981855,AI/ML Engineer (WFO - Ahmedabad),SolGuruz Private Limited,Ahmedabad,480000.0,mid,data_science,2026-09-17
 5400948252,"Data Scientist (Data Mining) & Instructor, edtech company only",Talent Pro,Pune,4000000.0,mid,data_science,2025-09-16
 5623893825,L3 SDE (AI/ML),Timble Technologies,Unspecified,600000.0,mid,data_science,2026-02-11
-5891892122,Sr. Data Scientist 4B,Genpact,Unspecified,,senior,data_science,2026-09-20
 1171509133,Software Engineer,CONCERTO.AI,Bengaluru,1650000.0,mid,other,2019-06-05
 5728281154,Research Engineer – Computer Vision & Video Analytics,RECEX,Kolkata,520000.0,mid,analyst,2026-05-14
 5871275326,Tech Lead/ Associate Architect/ Architect- Artificial Intelligence,Calsoft,Pune,,senior,other,2026-09-05
@@ -8864,7 +8856,6 @@ id,title,company,city,salary_mid,seniority,role_family,posted_date
 5846909487,Lead Assistant Manager,EXL,Unspecified,,senior,other,2026-08-18
 5850376288,Senior GenAI Engineer - Java,Velotio Technologies,Pune,,senior,other,2026-08-21
 5878284870,Lead Data Scientist : 953,C5i,Hyderabad,,senior,data_science,2026-09-10
-5903326149,Package Consultant-Oracle EPM Cloud,IBM,Bengaluru,,mid,other,2026-09-30
 5868702385,AI/ML Engineer,Top Gen AI Jobs,Other,,mid,data_science,2026-09-03
 5895247735,Data Engineer / Junior Data Scientist,DigitalCube Consultancy,Mumbai,,junior,data_science,2026-09-23
 5827620881,Principal Software Engineer,Deltek,Unspecified,,senior,other,2026-08-04
@@ -9925,7 +9916,6 @@ id,title,company,city,salary_mid,seniority,role_family,posted_date
 5895353115,Senior Associate 1 - Canada D&A,BSR & Co,Bengaluru,,senior,other,2026-09-23
 5853419537,Senior AI Sales Specialist,Seisiunanalytics,Bengaluru,,senior,data_science,2026-08-23
 5858121083,CRM Marketing Analytics - BFSI,Hansa Cequity,Mumbai,1000000.0,mid,analyst,2026-08-27
-5832084701,Reporting and Analytics Manager,Amgen,Hyderabad,,senior,analyst,2026-08-07
 5834364460,Reporting and Analytics Manager,Amgen,Hyderabad,,senior,analyst,2026-08-09
 5831401556,Senior Manager - Inventory Planning,Flipkart,Bengaluru,,senior,other,2026-08-07
 5857747748,Lead Internal Auditor,Amneal Pharmaceuticals,Ahmedabad,,senior,other,2026-08-27
@@ -10898,3 +10888,1357 @@ id,title,company,city,salary_mid,seniority,role_family,posted_date
 5709155900,Backend developer- Python (Domain-Trading/Fintech),Tradelab Technologies,Bengaluru,1000000.0,mid,other,2026-04-24
 5781970861,"Senior Backend Developer (Python, GenAI ), Fin",Staffnixcom,Delhi NCR,1850000.0,senior,other,2026-06-30
 5871274974,"Senior Product Developer-Python, AI/ML",Epicor,Bengaluru,,senior,data_science,2026-09-05
+5912922283,Data Analyst,Mrsool,Unspecified,,mid,analyst,2026-10-06
+5910115026,Data Analyst,Weekday AI,Unspecified,,mid,analyst,2026-10-03
+5912750335,Data Analyst,Smiths Detection,Bengaluru,,mid,analyst,2026-10-05
+5909826687,Data analyst,R-Insights Research Company,Other,,mid,analyst,2026-10-03
+5913461493,Data Analyst,Albertsons Companies India,Bengaluru,,mid,analyst,2026-10-06
+5908393012,Data Analyst,Barclays,Unspecified,,mid,analyst,2026-10-02
+5912386667,Data Analyst-Data Governance,IDFC FIRST Bank,Mumbai,,mid,analyst,2026-10-05
+5910115032,Business Data Analyst,Weekday AI,Unspecified,,mid,analyst,2026-10-03
+5912846911,Senior Data Analyst,Acme Services Private Limited,Delhi NCR,750000.0,senior,analyst,2026-10-05
+5913461476,Senior Data Analyst,Albertsons Companies India,Bengaluru,,senior,analyst,2026-10-06
+5908397833,Data Analyst | Offshore,Photon Group,Unspecified,,mid,analyst,2026-10-02
+5910254997,Reference Data Analyst,Deutsche Bank,Jaipur,,mid,analyst,2026-10-03
+5834763905,Associate Data Analyst,GIA Services,Mumbai,,junior,analyst,2026-08-09
+5908338682,Advanced Data Analyst,Honeywell,Bengaluru,,mid,analyst,2026-10-02
+5909547661,Advanced Data Analyst,Honeywell Technologies,Bengaluru,,mid,analyst,2026-10-03
+5907833810,Senior Data Analyst,TEGNA,Chennai,,senior,analyst,2026-10-02
+5909254450,Data Analyst-I,Etraveli Group,Mumbai,,mid,analyst,2026-10-03
+5909548141,Senior Data Analyst,Insight Global,Pune,,senior,analyst,2026-10-03
+5910196739,Staff Data Analyst,GitLab,Bengaluru,,mid,analyst,2026-10-03
+5910223934,Senior Data Analyst,Kwalee,Bengaluru,,senior,analyst,2026-10-03
+5909550041,Senior Data Analyst,UnitedHealth Group,Delhi NCR,,senior,analyst,2026-10-03
+5909232119,Data Analyst II,Schneider Electric,Hyderabad,,mid,analyst,2026-10-03
+5909808054,Senior Data Analyst,Bybit,Unspecified,,senior,analyst,2026-10-03
+5911187231,Data Analyst with SAS & SQL,Citigroup,Bengaluru,,mid,analyst,2026-10-04
+5819875080,Senior Data Analyst - AVP,Barclays,Unspecified,,senior,analyst,2026-07-29
+5910196732,"Reference Data Analyst, NCT",Deutsche Bank,Unspecified,,mid,analyst,2026-10-03
+5911187207,Data Analyst with SAS and SQL,Citigroup,Bengaluru,,mid,analyst,2026-10-04
+5887944296,Data Analyst - Power Transformer,Hitachi,Vadodara,,mid,analyst,2026-09-17
+5908320974,"Reference Data Analyst, NCT",Deutsche Bank,Jaipur,,mid,analyst,2026-10-02
+5909547153,Senior Engineer - Data Analyst,Eaton Corporation,Pune,,senior,analyst,2026-10-03
+5908978170,"Reference Data Analyst, NCT",Deutsche Bank,Bengaluru,,mid,analyst,2026-10-03
+5909548159,Remote Tableau Data Analyst,Insight Global,Hyderabad,,mid,analyst,2026-10-03
+5727281189,Python Data Analyst (Delhi ),Mantras2Success,Delhi NCR,600000.0,mid,analyst,2026-05-13
+5911679089,"Data Analyst, Marketing Analytics",Zoom,Unspecified,,mid,analyst,2026-10-04
+5912660336,Senior Data Analyst ( Data Governance & Data quality),EXL,Unspecified,,senior,analyst,2026-10-05
+5910245751,Data Analyst – Analytics Engineering & AI,Thermo Fisher Scientific,Unspecified,,mid,data_science,2026-10-03
+5911188255,Data Analyst - Analytics Engineering & AI,ThermoFisher Scientific,Bengaluru,,mid,data_science,2026-10-04
+5910208900,Financial Data Analyst (Advanced Powerbi),Gartner,Unspecified,,mid,analyst,2026-10-03
+5897957722,Data Analyst/Business Analyst (SAP BW),Unison Group,Unspecified,,mid,analyst,2026-09-25
+5912582876,Reference Data Analyst - Night shift - SMSTR96,Smartstream Limited,Unspecified,,mid,analyst,2026-10-05
+5908409068,Senior Data Analyst & AI - Product Delivery,Johnson Controls,Unspecified,,senior,data_science,2026-10-02
+5727248050,Hiring for leading companies - Sales Data Analyst,Acura Solution,Mumbai,,mid,analyst,2026-05-13
+5910250074,Senior Data Analyst – Analytics Engineering & AI,Thermo Fisher Scientific,Unspecified,,senior,data_science,2026-10-03
+5911188254,Senior Data Analyst - Analytics Engineering & AI,ThermoFisher Scientific,Bengaluru,,senior,data_science,2026-10-04
+5727253629,Hiring Data Analyst for Engineering Solutions Firm,Post A Resume,Vadodara,,mid,analyst,2026-05-13
+5900708371,Lead Product Data Analyst - AI Products,HighLevel,Unspecified,,senior,data_science,2026-09-27
+5727081359,Hiring for Leading companies - Data analyst (Credit Risk),Acura Solution,Bengaluru,,mid,analyst,2026-05-13
+5907834264,GAIN- Central Finance- Senior Finance Data Analyst,This is Gain Ltd,Mumbai,,senior,analyst,2026-10-02
+5727280904,Amazing Opportunity working as Business/Data Analyst with a leading consulting,Acura Solution,Bengaluru,,mid,analyst,2026-05-13
+5910244745,"Data Analyst/Developer (VBA, Power Query, Power BI, Python)",Qnity Electronics,Unspecified,,mid,analyst,2026-10-03
+5911187891,"Data Analyst/Developer (VBA, Power Query, Power BI, Python)",Qnity,Hyderabad,,mid,analyst,2026-10-04
+5910241659,Associate Data Privacy Analyst,Jobgether,Unspecified,,junior,analyst,2026-10-03
+5727282623,Master Data & Reporting Analyst,Mantras2Success,Bengaluru,775000.0,mid,analyst,2026-05-13
+5879929502,MIS Business Finance - Data Analyst - Hitachi Payment Services Pvt. Ltd.,Hitachi,Mumbai,,mid,analyst,2026-09-11
+5869212096,IDMC Master Data Management Analyst,GSK,Unspecified,,mid,analyst,2026-09-03
+5879368543,Analyst-Data Analytics,American Express,Unspecified,,mid,analyst,2026-09-11
+5907469663,Analyst-Data Science,American Express,Unspecified,,mid,data_science,2026-10-02
+5859754586,Analyst - Data Governance,Wesco,Bengaluru,,mid,analyst,2026-08-28
+5908335245,Analyst-Data Science,American Express,Unspecified,,mid,data_science,2026-10-02
+5907469648,Analyst-Data Analytics,American Express,Unspecified,,mid,analyst,2026-10-02
+5907469661,Analyst-Data Analytics,American Express,Unspecified,,mid,analyst,2026-10-02
+5909549467,Analyst-Data Science,American Express,Unspecified,,mid,data_science,2026-10-03
+5909549498,Analyst-Data Science,American Express,Bengaluru,,mid,data_science,2026-10-03
+5909548817,"Analyst, Data Engineering",Cardinal Health,Unspecified,,mid,data_engineering,2026-10-03
+5882276991,ANALYST DATA & INSIGHTS,TE Connectivity,Bengaluru,,mid,analyst,2026-09-13
+5909549472,Analyst-Data Analytics,American Express,Unspecified,,mid,analyst,2026-10-03
+5910231937,Analyst-Data Analytics,American Express,Unspecified,,mid,analyst,2026-10-03
+5910244053,Analyst-Data Science,American Express,Unspecified,,mid,data_science,2026-10-03
+5911678832,"Master Data, Technical Analyst (Evolve/Precisely)",e.l.f. Beauty,Unspecified,,mid,analyst,2026-10-04
+5909549505,Analyst Data Governance & Management,American Express,Unspecified,,mid,analyst,2026-10-03
+5894842130,ANALYST DATA & INSIGHTS II,TE Connectivity,Bengaluru,,mid,analyst,2026-09-23
+5910225424,Analyst Data Governance & Management,American Express,Unspecified,,mid,analyst,2026-10-03
+5908394709,Analyst - Data Engineering 5A,Genpact,Unspecified,,mid,data_engineering,2026-10-02
+5907469654,Business Analyst-Data Analytics,American Express,Unspecified,,mid,analyst,2026-10-02
+5907469651,Analyst-Data Science & Strategy,American Express,Unspecified,,mid,data_science,2026-10-02
+5909548826,"Senior Analyst, Data Engineering",Cardinal Health,Unspecified,,senior,data_engineering,2026-10-03
+5909549494,Senior Analyst-Data Science,American Express,Unspecified,,senior,data_science,2026-10-03
+5910233748,Senior Analyst-Data Science,American Express,Unspecified,,senior,data_science,2026-10-03
+5912846899,AI Data Science Developer & Analyst,Match Point Solutions,Bengaluru,1700000.0,mid,data_science,2026-10-05
+5861224255,Senior Analyst (Data Strategy & Acquisition),Roche,Unspecified,,senior,analyst,2026-08-29
+5860806668,Senior Analyst (Data Strategy & Acquisition),Roche,Hyderabad,,senior,analyst,2026-08-29
+5860806666,Senior Analyst (Data Strategy & Acquisition),Roche,Chennai,,senior,analyst,2026-08-29
+5804447390,Analyst - Data Scientist Machine Learning,United Airlines,Unspecified,,mid,data_science,2026-07-17
+5852130863,Data Engineering Lead Analyst - HIH - Evernorth,The Cigna Group,Hyderabad,,senior,data_engineering,2026-08-22
+5909285980,IT&DATA Sr. Product Analyst I2P,Infosys Limited,Hyderabad,,senior,analyst,2026-10-03
+5909285990,IT&DATA Sr. Product Analyst FP&A,Infosys Limited,Hyderabad,,senior,analyst,2026-10-03
+5336689196,DA-DS TRAINER,EWU,Coimbatore,350000.0,mid,other,2025-08-04
+5856164948,Data Science Ml Internship,MAXGEN TECHNOLOGIES PRIVATE LIMITED,Unspecified,,junior,data_science,2026-08-26
+4686706089,Data Research Executive,,Chennai,,mid,other,2024-05-10
+5898467649,Sr Analyst III Data Engineering,DXC Technology,Unspecified,,senior,data_engineering,2026-09-25
+5811667062,ITExecutive,WebTech Software Solutions,Unspecified,,mid,other,2026-07-23
+5827639865,"Business Analyst, Global Solutions & Risk Compliance (GSRC)",ADCI - Karnataka - A66,Bengaluru,,mid,analyst,2026-08-04
+5009918376,SPARK Data Onboarding Engineer - Chennai,Photon Group,Unspecified,,mid,other,2025-01-14
+5880854083,Assistant Manager,EXL,Bengaluru,,senior,other,2026-09-12
+5904038393,QA Engineer,EXL,Bengaluru,,mid,other,2026-09-30
+5833603109,"Sr. D&T Analyst – Data Foundations, Supply Chain",Genl Mills India Priv,Unspecified,,senior,analyst,2026-08-08
+5885447127,Senior Campaign Data and Operations Analyst Immediate Joiner,Blend,Hyderabad,,senior,analyst,2026-09-16
+5859120202,Data Modeller,GSPANN,Hyderabad,,mid,other,2026-08-28
+5859120223,Data Modeller,GSPANN,Pune,,mid,other,2026-08-28
+5892384002,Associate Data Center Operations Analyst - Mainframe Operations,Ensono,Chennai,,junior,analyst,2026-09-21
+5905891390,FP&A O&G Data Modelling Senior Analyst,BP,Unspecified,,senior,analyst,2026-10-01
+5781967146,"Business Analyst-Data Insights, Translation Services Operations",Amazon Dev Center India - Hyderabad,Hyderabad,,mid,analyst,2026-06-30
+5891900916,Associate Data Center Operations Analyst - Mainframe Operations,Ensono,Chennai,,junior,analyst,2026-09-20
+5878687951,"Business Analyst-Data Insights, Translation Services Operations",Amazon,Unspecified,,mid,analyst,2026-09-10
+5784970689,"Business Analyst-Data Insights, Translation Services Operations",Amazon,Hyderabad,,mid,analyst,2026-07-02
+5906993807,IT&DATA Sr. Product Analyst Finance Accounting,Infosys Limited,Hyderabad,,senior,analyst,2026-10-02
+5906993813,IT&Data Sr. Product Analyst CERT Asia,Infosys Limited,Hyderabad,,senior,analyst,2026-10-02
+5909285942,IT&DATA Sr. Product Analyst Finance Accounting,Infosys Limited,Hyderabad,,senior,analyst,2026-10-03
+5898480841,Sr Analyst II Data Engineering,DXC Technology,Unspecified,,senior,data_engineering,2026-09-25
+5890788742,Lead Financial Data Associate,Clearwater Analytics,Delhi NCR,,senior,other,2026-09-19
+5507777560,3563126-Lead Assistant Manager,EXL,Unspecified,,senior,other,2025-11-21
+5833576912,Analyst - Business Data Services 5B,Genpact,Unspecified,,mid,analyst,2026-08-08
+5869826045,"Analyst II, Data Assurance , Finance",Heinz,Ahmedabad,,mid,analyst,2026-09-04
+5892382812,Financial Analyst I (Business Analyst),Amazon,Hyderabad,,mid,analyst,2026-09-21
+5891907952,Financial Analyst I (Business Analyst),Amazon,Unspecified,,mid,analyst,2026-09-20
+5899836881,Senior Analyst - Clinical Data Abstraction,MRO Careers,Pune,,senior,analyst,2026-09-26
+5833602421,D&T Analyst II - Data Stewardship,Genl Mills India Priv,Unspecified,,mid,analyst,2026-08-08
+5868123507,Data Protection & Responsible AI Analyst,Flutter International PLC,Hyderabad,,mid,data_science,2026-09-03
+5348733332,Analyst/Consultant - Data Engineer - Azure (INDM),Blue Altair,Unspecified,,mid,data_engineering,2025-08-12
+5894124255,Analyst Master Data Management(MDM),Tyson Foods,Bengaluru,,mid,analyst,2026-09-22
+5894126718,Analyst Master Data Management(MDM),Tyson IT solutions India,Bengaluru,,mid,analyst,2026-09-22
+5913467903,"Analyst, Big Data Analytics & Engineering",Mastercard,Pune,,mid,data_engineering,2026-10-06
+5852579541,Lead Analyst - Credit Data Solutions,First Citizens India,Unspecified,,senior,analyst,2026-08-22
+5840392238,Sr Analyst II Data Science,DXC Technology,Unspecified,,senior,data_science,2026-08-13
+5892969055,Operation Analyst - Master Data Management,Functional Support,Pune,,mid,analyst,2026-09-21
+5814995617,Lead Analyst - Electronic Data Interchange,Eaton Corporation,Pune,,senior,analyst,2026-07-25
+5847837302,Data Storage & Warehousing Senior Analyst,Inspire Brands Hyderabad Support Center,Hyderabad,,senior,analyst,2026-08-19
+5815228056,Senior Data Engineer,Goalkeep,Unspecified,1050000.0,senior,data_engineering,2026-07-25
+5594330477,Offshore Delivery Lead,EXL,Unspecified,,senior,other,2026-01-22
+5652195596,Google Cloud Data Engineer,Müller`s Solutions,Unspecified,,mid,data_engineering,2026-03-03
+3166190694,GCP Developer,Quess Corp Limited,Delhi NCR,800000.0,mid,other,2022-05-25
+5857743591,Mis Executive,Bigbasket,Ahmedabad,,mid,other,2026-08-27
+5912846915,Business Analyst,Acme Services Private Limited,Unspecified,2450000.0,mid,analyst,2026-10-05
+5909807248,Business Analyst,Gravity Engineering Services Pvt Ltd,Delhi NCR,1200000.0,mid,analyst,2026-10-03
+5728328959,Business Analyst,Acura Solution,Mumbai,,mid,analyst,2026-05-14
+5910255176,Business Analyst,OneMagnify,Chennai,,mid,analyst,2026-10-03
+5908395736,Business Analyst,MarketStar,Unspecified,,mid,analyst,2026-10-02
+5899856192,Business Analyst,Opalforce,Unspecified,,mid,analyst,2026-09-26
+5727098564,Business Analyst,Acura Solution,Mumbai,,mid,analyst,2026-05-13
+5727095874,Business Analyst,Pplanet HR Services,Mumbai,600000.0,mid,analyst,2026-05-13
+5728339319,Business Analyst,MM Staffing & Career Consultants,Bengaluru,,mid,analyst,2026-05-14
+5729733840,Business Analyst,Right Advisors,Bengaluru,600000.0,mid,analyst,2026-05-15
+5911651301,Business Analyst,Quality Engineering,Unspecified,,mid,analyst,2026-10-04
+5900714118,Business Analyst,Bajaj Finance,Unspecified,,mid,analyst,2026-09-27
+5909414455,Senior Business Analyst,SGS,Unspecified,,senior,analyst,2026-10-03
+5912846916,Senior Business Analyst,Acme Services Private Limited,Delhi NCR,2150000.0,senior,analyst,2026-10-05
+5912848836,ServiceNow Business Analyst,CGI,Unspecified,,mid,analyst,2026-10-06
+5910253029,Business Analyst 2,JLL,Unspecified,,mid,analyst,2026-10-03
+5910222649,Senior Business Analyst,SS&C,Unspecified,,senior,analyst,2026-10-03
+5728284180,Senior Business Analyst,Mantras2Success,Mumbai,600000.0,senior,analyst,2026-05-14
+5908406822,Senior Business Analyst,Elsevier,Unspecified,,senior,analyst,2026-10-02
+5909548718,Senior Business Analyst,RELX INC,Chennai,,senior,analyst,2026-10-03
+5881117657,Senior Business Analyst,Ameriprise,Unspecified,,senior,analyst,2026-09-12
+5910238045,Business Analyst - I,Jobgether,Unspecified,,mid,analyst,2026-10-03
+5912643359,Associate - Business Analyst,EXL,Pune,,junior,analyst,2026-10-05
+5907470583,Business Analyst Consultant,UnitedHealth Group,Delhi NCR,,mid,analyst,2026-10-02
+5910224321,Business Analyst - I,Pinnacle Group,Unspecified,,mid,analyst,2026-10-03
+5899841062,Business Analyst (Fintech),Mantras2Success,Pune,700000.0,mid,analyst,2026-09-26
+5910239388,Business Analyst| Thane,CSB Bank,Mumbai,,mid,analyst,2026-10-03
+5910924699,Associate Business Analyst,Infosys Limited,Bengaluru,,junior,analyst,2026-10-04
+5910924693,Associate Business Analyst,Infosys Limited,Bengaluru,,junior,analyst,2026-10-04
+5910924700,Associate Business Analyst,Infosys Limited,Bengaluru,,junior,analyst,2026-10-04
+5910924561,Associate Business Analyst,Infosys Limited,Bengaluru,,junior,analyst,2026-10-04
+5910924564,Associate Business Analyst,Infosys Limited,Bengaluru,,junior,analyst,2026-10-04
+5910924707,Associate Business Analyst,Infosys Limited,Bengaluru,,junior,analyst,2026-10-04
+5910924580,Associate Business Analyst,Infosys Limited,Hyderabad,,junior,analyst,2026-10-04
+5910924703,Associate Business Analyst,Infosys Limited,Bengaluru,,junior,analyst,2026-10-04
+5835727008,Senior Business Analyst,Bajaj Finance,Unspecified,,senior,analyst,2026-08-10
+5913113702,business analyst manager,Happiest Resume,Delhi NCR,750000.0,senior,analyst,2026-10-06
+5848434525,Senior Business Analyst,Bajaj Finance,Unspecified,,senior,analyst,2026-08-19
+5727268691,Specialist - Business Analyst,Pplanet HR Services,Unspecified,600000.0,mid,analyst,2026-05-13
+5912848961,BUSINESS ANALYST L4,Wipro,Hyderabad,,mid,analyst,2026-10-06
+5912219054,Senior Business Analyst,UnitedHealth Group,Unspecified,,senior,analyst,2026-10-05
+5912219063,Senior Business Analyst,UnitedHealth Group,Chennai,,senior,analyst,2026-10-05
+5899856575,Associate - Enterprise Business Analyst,Bread Financial,Bengaluru,,junior,analyst,2026-09-26
+5911685263,"Business Analyst - Interfaces, Officer",State Street,Hyderabad,,mid,analyst,2026-10-04
+5912655227,Lead Business Analyst 2,Accenture,Unspecified,,senior,analyst,2026-10-05
+5910226741,Business Analyst Senior Advisor,Zebra Technologies,Unspecified,,senior,analyst,2026-10-03
+5850380760,Market Research/ Business Analyst,Hrd House,Mumbai,,mid,analyst,2026-08-21
+5854877531,Business Analyst - E Invoicing,Protiviti Consulting Private Limited,Delhi NCR,,mid,analyst,2026-08-25
+5856197140,Regulatory and Clinical Business Analyst,Infosys Limited,Hyderabad,,mid,analyst,2026-08-26
+5836575901,"Business Analyst - Hyderabad, Pune",NAM Info Pvt Ltd,Hyderabad,,mid,analyst,2026-08-11
+5850377036,"Business Analyst - CRE , CMBS",Vichara Technologies,Pune,,mid,analyst,2026-08-21
+5850377048,"Business Analyst - CRE , CMBS",Vichara Technologies,Mumbai,,mid,analyst,2026-08-21
+5864858399,Assistant Manager - Business Analyst,EXL,Chennai,,senior,analyst,2026-09-01
+5872937081,Business Analyst - Process & Automation,Weekday AI,Mumbai,,mid,analyst,2026-09-06
+5879141122,Success Rate - Business Analyst,Razorpay,Bengaluru,,mid,analyst,2026-09-11
+5879138670,SAP BRIM Business Analyst,Numeric Technologies Incorporation,Hyderabad,,mid,analyst,2026-09-11
+5849681669,"Senior Business Analyst, FinOps",Amazon,Unspecified,,senior,analyst,2026-08-20
+5881110349,Business Analyst (TPP)| Mumbai,CSB Bank,Mumbai,,mid,analyst,2026-09-12
+5771989281,Business analyst - credit operations,Unacademy,Bengaluru,,mid,analyst,2026-06-22
+5833579111,Sr Business Analyst - Chennai,Photon Group,Unspecified,,senior,analyst,2026-08-08
+5901494494,"Business Analyst I, CMT",ADCI - Karnataka,Bengaluru,,mid,analyst,2026-09-28
+5902920357,"Business Analyst I, CMT",Amazon,Unspecified,,mid,analyst,2026-09-29
+5870738093,IT Senior Business Analyst,AstraZeneca,Chennai,,senior,analyst,2026-09-04
+5850613314,"Senior Business Analyst, FinOps",Amazon,Bengaluru,,senior,analyst,2026-08-21
+5904981681,Senior Business Analyst Consultant,UnitedHealth Group,Hyderabad,,senior,analyst,2026-10-01
+5904981671,Senior Business Analyst Consultant,UnitedHealth Group,Hyderabad,,senior,analyst,2026-10-01
+5904981687,Senior Business Analyst Consultant,UnitedHealth Group,Unspecified,,senior,analyst,2026-10-01
+5904981646,Senior Business Analyst Consultant,UnitedHealth Group,Unspecified,,senior,analyst,2026-10-01
+5903537160,"Business Analyst I, CMT",Amazon,Bengaluru,,mid,analyst,2026-09-30
+5906893172,"Lead, ERP Business Analyst",Schneider Electric,Bengaluru,,senior,analyst,2026-10-02
+5849326926,Integrated Logistics Business Analyst,Kuehne+Nagel,Delhi NCR,,mid,analyst,2026-08-20
+5910860562,"Expert, ERP Business Analyst",Schneider Electric,Bengaluru,,mid,analyst,2026-10-04
+5835717103,Business Analyst - CF - Bangalore,Financial Services,Unspecified,600000.0,mid,analyst,2026-08-10
+5912034319,"Lead, ERP Business Analyst",Schneider Electric,Bengaluru,,senior,analyst,2026-10-05
+5890807216,Deputy Manager - Business Analyst,Adani,Unspecified,,senior,analyst,2026-09-19
+5741881074,Business Analyst -Scrum Master,People First Consultants,Bengaluru,,mid,analyst,2026-05-27
+5912846905,Transformation Business Analyst – UK Business Banking,Acme Services Private Limited,Unspecified,2050000.0,mid,analyst,2026-10-05
+5834749934,"Senior Business Analyst, Technical Business Solutions",Cencora,Unspecified,,senior,analyst,2026-08-09
+5898568167,WINDCHILL FUNCTIONAL CONSULTANT / BUSINESS ANALYST,Vrinda International,Unspecified,2400000.0,mid,analyst,2026-09-25
+5687660791,Temenos Transact FX Business Analyst,Capgemini,Unspecified,,mid,analyst,2026-04-03
+5899029103,Business Analyst — (Talent & Performance Management),Papigen,Unspecified,1250000.0,mid,analyst,2026-09-26
+5800534198,Business Analyst (Immediate Joiners preferred),Time Hack Consulting,Bengaluru,1350000.0,mid,analyst,2026-07-15
+5663613714,"Business Analyst - IT - Goregaon, Mumbai",Rentokil Initial,Unspecified,,mid,analyst,2026-03-13
+5894413510,FBS Business Analyst II- Guidewire,Capgemini,Unspecified,,mid,analyst,2026-09-23
+5876455133,QA Analyst cum Business Analyst,Victrix Systems & Labs,Mumbai,1000000.0,mid,analyst,2026-09-09
+5902535516,Lead - Business Analyst (Marketing Analytics),Freshworks,Chennai,,senior,analyst,2026-09-29
+5773554675,FBS Product Owner/Business Analyst,Capgemini,Unspecified,,mid,analyst,2026-06-23
+5849770517,Senior Business Analyst Technology Officers,Egon Zehnder,Unspecified,,senior,analyst,2026-08-20
+5886085547,Senior Business Analyst/ Associate LAS,Egon Zehnder,Unspecified,,senior,analyst,2026-09-16
+5503353459,Associate - Business Analyst-Business Analytics-Risk Analytics,EXL,Unspecified,,junior,analyst,2025-11-19
+5890510094,Financial Analyst I (Business Analyst),ADCI HYD 13 SEZ - H84,Hyderabad,,mid,analyst,2026-09-19
+5871280587,Business Analyst - Banking Domain-BNPR,Infosys Limited,Bengaluru,,mid,analyst,2026-09-05
+2946429999,Business Analyst / Scrum Master Role,Virtusa,Hyderabad,1750000.0,mid,analyst,2022-03-05
+5882108562,Business Analyst/BSA/Process Analyst,ascendion,Bengaluru,,mid,analyst,2026-09-13
+5856197194,Business Analyst - Banking Domain-PBNK,Infosys Limited,Bengaluru,,mid,analyst,2026-08-26
+5873196893,Senior Business Analyst – Cybersecurity & DevSecOps,Thermo Fisher Scientific,Unspecified,,senior,analyst,2026-09-06
+5877295123,Business Analyst - Payments and Digital Journeys,Capco,Unspecified,,mid,analyst,2026-09-09
+5588939107,Senior Business Analyst - Pre Sales,Codemonk,Bengaluru,1250000.0,senior,analyst,2026-01-17
+5872787517,Senior Business Analyst - Cybersecurity & DevSecOps,ThermoFisher Scientific,Bengaluru,,senior,analyst,2026-09-06
+5912470443,"Business Analyst I, TSE Analytics",ADCI HYD 20 SEZ - H94,Hyderabad,,mid,analyst,2026-10-05
+5850370911,Dy Manager Business Analyst Salesforce,Yash Technologies Private Limited,Bengaluru,,senior,analyst,2026-08-21
+2162707534,Business Analyst ( Health care domain),Onia,Chennai,650000.0,mid,analyst,2021-05-05
+5878632916,"Team Leader, IT Business Analyst",MUFG Pension & Market Services,Unspecified,,mid,analyst,2026-09-10
+5795102606,nCino Product Owner/Business Analyst,People First Consultants,Unspecified,,mid,analyst,2026-07-10
+5899871469,"Business Analyst I, TSE Analytics",Amazon,Unspecified,,mid,analyst,2026-09-26
+5859124407,Business Analyst - Success Acceleration Services,SailPoint Technologies,Pune,,mid,analyst,2026-08-28
+5904052313,Salesforce Business Analyst - Service Cloud,Jade Global,Pune,,mid,analyst,2026-09-30
+2890608826,Fresher Business Analyst (InternshipJob Opportunity),Fragma Data Systems,Bengaluru,350000.0,junior,analyst,2022-02-12
+5758205774,Guidewire InsuranceNow Technical Business Analyst,vikgol,Unspecified,1700000.0,mid,analyst,2026-06-10
+5901762440,Senior IT Business Analyst – Oracle,Enerpac Tool Group,Bengaluru,,senior,analyst,2026-09-28
+5902577663,Salesforce Lead Engineer - Business Analyst,Waters,Bengaluru,,senior,analyst,2026-09-29
+5885969873,Business Analyst Intern (Summer 2027),Robinhood,Unspecified,,junior,analyst,2026-09-16
+5841934501,Business Analyst - Technology Advisory 4B,Genpact,Unspecified,,mid,analyst,2026-08-14
+5897049672,Senior Business Analyst - Senior Manager,State Street,Bengaluru,,senior,analyst,2026-09-24
+3266739292,Business Analyst Property and Casualty Insurance,PM AM Corporation,Mumbai,1650000.0,mid,analyst,2022-06-28
+5780525949,Senior Business Analyst(Capital Market),Genesis Global,Unspecified,,senior,analyst,2026-06-29
+5893831510,Senior Business Analyst(Capital Market),Genesis Global,Bengaluru,,senior,analyst,2026-09-22
+3546813196,Business Analyst - Construction Tech Startup,Merito,Kolkata,2250000.0,mid,analyst,2022-10-02
+5728286189,Industry Sector Classification Business Analyst,MM Staffing & Career Consultants,Bengaluru,,mid,analyst,2026-05-14
+5720857180,"Business Analyst, Cyber and Data Resilience",Kroll,Bengaluru,,mid,analyst,2026-05-07
+5861220417,Manager - Business Analyst - Trade Finance,Mitsubishi UFJ Financial Group,Unspecified,,senior,analyst,2026-08-29
+5744825059,Access and Identity Management - Business Analyst,Point72,Bengaluru,,mid,analyst,2026-05-30
+5689134332,IFC - Lead Business Analyst-VP,Barclays,Unspecified,,senior,analyst,2026-04-04
+5851153918,Business Analyst – Analytics - (BFSI)[Shephali],Central Business Solutions,Unspecified,,mid,analyst,2026-08-21
+5859121328,Business Analyst-Retail banking Risk,Mastermind Network,Bengaluru,,mid,analyst,2026-08-28
+5861792876,Business Analyst and Process Engineer Lead,Hitachi Digital Services,Bengaluru,,senior,analyst,2026-08-30
+5861792868,Business Analyst and Process Engineer Lead,Hitachi Digital Services,Kolkata,,senior,analyst,2026-08-30
+5861792871,Business Analyst and Process Engineer Lead,Hitachi Digital Services,Pune,,senior,analyst,2026-08-30
+5872132303,Senior Information Security Business Analyst,NXP Semiconductors,Bengaluru,,senior,analyst,2026-09-05
+5882754943,Business Analyst - Associate - Online-GUT,Paytm Payments Services,Delhi NCR,,junior,analyst,2026-09-13
+4638749499,Business Analyst | Blockchain Experience required,Teblox Labs,Delhi NCR,1500000.0,mid,analyst,2024-04-06
+5728442696,Grant Thornton/Business Analyst/ Ahmedabad,Acura Solution,Ahmedabad,550000.0,mid,analyst,2026-05-14
+5850339824,Business Analyst Fresher Part Time,Varthak Technologies,Bengaluru,,junior,analyst,2026-08-21
+5864819312,Business Analyst — Avaloq Banking Transformation,Synpulse,Pune,,mid,analyst,2026-09-01
+5885997594,"Business Analyst I, GTS Field",ADCI HYD 13 SEZ,Hyderabad,,mid,analyst,2026-09-16
+5763803768,Business Analyst – Mortgage Loan Origination,JazzX AI,Bengaluru,,mid,analyst,2026-06-15
+5910215039,Assistant Manager,EXL,Delhi NCR,,senior,other,2026-10-03
+5913413631,Senior RPG Developer,People First Consultants,Chennai,,senior,other,2026-10-06
+5727103961,Programme Analyist -Ii,Actide International,Vadodara,350000.0,mid,other,2026-05-13
+5908405040,"Analytics Lead - Data, Measurement & Impact",Karya,Bengaluru,,senior,analyst,2026-10-02
+5910224266,Senior Manager,Bank of America,Unspecified,,senior,other,2026-10-03
+5908609896,Senior / Lead Product Manager,Kwalee,Bengaluru,,senior,other,2026-10-03
+5910236336,Senior Product Manager,Kwalee,Bengaluru,,senior,other,2026-10-03
+5912685113,"Manager, Revenue Operations Analytics / Revops (Hybrid- Bangalore)",Smartsheet,Bengaluru,,senior,analyst,2026-10-05
+5911187090,Senior Manager,Bank of America,Unspecified,,senior,other,2026-10-04
+5913213898,Tableau Developer -Power BI,Zorba Consulting India,Bengaluru,1400000.0,mid,bi,2026-10-06
+5910229335,Power BI Architect - Manager,PricewaterhouseCoopers,Unspecified,,senior,bi,2026-10-03
+5728265680,Urgent Job Opening For Power BI Developer,Prajakta Jobs,Pune,300000.0,mid,bi,2026-05-14
+5912785370,"Data Architect – SQL Server, Power BI & NetSuite",Vrinda International,Unspecified,1650000.0,senior,bi,2026-10-05
+5908392489,IN_Senior Associate_Power BI with SQL_GCC_Advisory_Gurgaon,PricewaterhouseCoopers,Unspecified,,mid,bi,2026-10-02
+5912582852,Power Platform & Copilot Developer (Saudi Arabia),Eram Talent,Unspecified,,mid,other,2026-10-05
+5908391207,Lead Assistant Manager,EXL,Bengaluru,,senior,other,2026-10-02
+5912975342,"Full Stack BI Engineer - PowerBI, Tableau and REST API",Blend360,Unspecified,,mid,bi,2026-10-06
+5912689148,Cluster Manager - Wheels - COE,Bajaj Finance,Unspecified,,senior,other,2026-10-05
+5909547003,IT architect PowerBI,ContiTech,Bengaluru,,senior,bi,2026-10-03
+5835719748,Cluster Manager - Debt Management Services - The Wheels - 2W/3W,Bajaj Finance,Unspecified,,senior,other,2026-08-10
+5910228580,BI Developer,EXL,Bengaluru,,mid,bi,2026-10-03
+5912386010,CISNGE - Full Stack Engineer/ServiceNow HRSD,Infosys,Hyderabad,,mid,other,2026-10-05
+5907833831,Power Platform with Copilot Studio Developer,Cognizant,Unspecified,,mid,other,2026-10-02
+5890794679,Reporting Application Developer,Black Box,Bengaluru,,mid,analyst,2026-09-19
+5908349129,Software Engineering Senior Associate,DTCC,Hyderabad,,senior,other,2026-10-02
+5907846880,Data Engineer,Cloud Sara Technologies,Unspecified,650000.0,mid,data_engineering,2026-10-02
+5909825955,Lead Software Engineer - PowerBI/Data Expert,Societe Generale Global Solution Centre,Chennai,,senior,bi,2026-10-03
+5912785419,Executive Analyst,Telradsol,Bengaluru,,mid,analyst,2026-10-05
+5909414392,AI / ML and Generative AI research assistant,Bosch Group,Coimbatore,,mid,data_science,2026-10-03
+5728269505,"Officer Mis For Steel Fabricator - Raipur , Chhattisgarh",Vinayak Outsourcing Works,Other,3960000.0,mid,other,2026-05-14
+5912848897,Data Visualization Platform Engineer,Opella,Hyderabad,,mid,other,2026-10-06
+5909846531,Data Engineer,Cloud Sara Technologies,Unspecified,650000.0,mid,data_engineering,2026-10-03
+5911773566,Senior BI Analyst,Nextpower,Hyderabad,,senior,analyst,2026-10-05
+5908389998,Assistant Vice President,EXL,Unspecified,,mid,other,2026-10-02
+5908407924,Senior Data Engineer,Allica Bank,Delhi NCR,,senior,data_engineering,2026-10-02
+5910244085,Senior Supply Chain Data Scientist,MKS Instruments,Unspecified,,senior,data_science,2026-10-03
+5912847529,Data Analytics,Trigent Software Private Limited,Bengaluru,1350000.0,mid,analyst,2026-10-05
+5727193493,MIS Executive,Mantras2Success,Delhi NCR,390000.0,mid,other,2026-05-13
+5908358178,Senior Assistant,3M,Unspecified,,senior,other,2026-10-02
+5910252245,Associate Analyst - Cyber Defence Center,Fresenius Medical Care,Unspecified,,junior,analyst,2026-10-03
+5911187389,Associate Analyst - Cyber Defence Center,Fresenius Medical Care,Bengaluru,,junior,analyst,2026-10-04
+5800335107,IDMC Jr. Developer,DC Consultants,Unspecified,,junior,other,2026-07-15
+5889506248,BI QA Analyst,SOTI Kochi,Kochi,,mid,analyst,2026-09-18
+5908607884,AI & Automation Engineer,Digital Links Inc,Unspecified,,mid,data_science,2026-10-03
+5854439684,Senior BI & AI Engineer,Thomson Reuters,Hyderabad,,senior,data_science,2026-08-24
+5911187304,IT engineer Data & Analytics DevOps,ContiTech,Bengaluru,,mid,analyst,2026-10-04
+5889535953,General Manager,APAR DGM and Above,Mumbai,,senior,other,2026-09-18
+5861793711,Developer,Prgx India,Pune,,mid,other,2026-08-30
+5869814814,EXL is hiring IPDRG - Assistant Manager,EXL,Bengaluru,,senior,other,2026-09-04
+5869814806,.Net developer,EXL,Delhi NCR,,mid,other,2026-09-04
+5727219518,Hiring for Leading Companies / MIS Analyst / Manager,Acura Solution,Mumbai,,senior,analyst,2026-05-13
+5905918653,AI Central - Measurement and Reporting Engineer,Zensar Technologies,Unspecified,,mid,data_science,2026-10-01
+5465850096,"India Senior Analyst, Process",WM,Indore,,senior,analyst,2025-10-27
+5890240676,Financial Planning Lead Analyst,Eaton Corporation,Pune,,senior,analyst,2026-09-19
+5727184658,CREM-Space Management-Mumbai,Acura Solution,Mumbai,600000.0,mid,other,2026-05-13
+5727266444,MIS Executive,Quality HR India,Other,650000.0,mid,other,2026-05-13
+5910240743,Lead Assistant Manager - Analytics,EXL,Delhi NCR,,senior,analyst,2026-10-03
+5720805066,MIS - AM Clarity Pay,EXL,Unspecified,,mid,other,2026-05-07
+5503312923,3846068-Senior Executive,EXL,Delhi NCR,,senior,other,2025-11-19
+5901473006,People Analytics Manager,Gravity Engineering Services Pvt Ltd,Delhi NCR,1800000.0,senior,analyst,2026-09-28
+5771060742,MIS Analyst / QA Engineer,Evoke HR Solutions,Bengaluru,550000.0,mid,analyst,2026-06-21
+5869187492,Risk Technology Analyst- Senior Associate,PricewaterhouseCoopers,Unspecified,,senior,analyst,2026-09-03
+5908397648,GTCO Non-Labor Optimization_JL13_Analyst I,DXC Technology,Unspecified,,mid,analyst,2026-10-02
+5904434730,"MANAGER, FINANCE",Walmart Global Tech,Chennai,,senior,other,2026-10-01
+5854846750,Generative Ai Ml Internship,MAXGEN TECHNOLOGIES PRIVATE LIMITED,Unspecified,,junior,data_science,2026-08-25
+5851146986,Deputy Manager - Litigation & TP Claims,HDFC ERGO General Insurance,Unspecified,522500.0,senior,other,2026-08-21
+5727134450,Dotnet Developer,MM Staffing & Career Consultants,Bengaluru,600000.0,mid,other,2026-05-13
+5909826121,Sr Developer,Cognizant,Chennai,,senior,other,2026-10-03
+5574379318,Manager-Digital Marketing-Marketing Analytics,EXL,Unspecified,,senior,analyst,2026-01-09
+5819689420,BI Developer,Inteliment Technologies,Mumbai,450000.0,mid,bi,2026-07-29
+5850377151,Product Analyst,"SolutionInn, US",Ludhiana,,mid,analyst,2026-08-21
+5850377097,Product Analyst,"SolutionInn, US",Other,,mid,analyst,2026-08-21
+5879144580,Data Science Manager job opening at GlobalData,GlobalData Publications Inc,Hyderabad,,senior,data_science,2026-09-11
+5880854588,Financial Planning & Reporting Analyst,OneMagnify,Chennai,,mid,analyst,2026-09-12
+5899853208,Ms Dynamics 365 Business Central Developer,Zensar Technologies,Unspecified,,mid,other,2026-09-26
+5877279210,IT/OT AI Engineer,Adani,Unspecified,,mid,data_science,2026-09-09
+5752272200,Data Science Engineer,Mantras2Success,Ahmedabad,750000.0,mid,data_science,2026-06-05
+5814514701,Unit Manager - DDF Wheels/Senior Unit Manager - DDF Wheels,Bajaj Finance,Unspecified,,senior,other,2026-07-25
+5700993444,Senior Executive - Logistics Analytics,People First Consultants,Chennai,,senior,analyst,2026-04-16
+5863831845,Executive - Logistics (Chennai),People First Consultants,Chennai,,mid,other,2026-09-01
+5482747784,Data Governance Developer,Kanerika Software,Hyderabad,2000000.0,mid,other,2025-11-06
+5771951829,Manager – Deal Advisory – Deals Tech & Data Solutions (DTDS),PricewaterhouseCoopers,Unspecified,,senior,other,2026-06-22
+5856197126,Qlik Admin,Infosys Limited,Hyderabad,,mid,other,2026-08-26
+5859770715,LINK Go BA Client Implementation D&A - Consultant,BSR & Co,Bengaluru,,mid,other,2026-08-28
+5879917003,Senior Analyst - GBS Commercial,AB InBev India,Unspecified,,senior,analyst,2026-09-11
+5885447640,Operations Analyst Intern,Persistent Systems,Chennai,,junior,analyst,2026-09-16
+5886374098,Sr Pricing Analyst,Honeywell,Unspecified,,senior,analyst,2026-09-16
+5854443577,Accounts receivable Executive,Yokogawa,Unspecified,,mid,other,2026-08-24
+5727690640,Senior BI Developer,Enviri Corporation,Hyderabad,,senior,bi,2026-05-13
+5728442417,"Sales MIS and Dashboard professional on Third party payroll, BKC, Mumbai",Talent Leads Consultants,Mumbai,800000.0,mid,other,2026-05-14
+5829193214,"Associate, Global Procurement Operations",Ares Operations,Mumbai,,junior,other,2026-08-05
+5889592007,Executive - Footlocker - General Management,Metro Brands Limited,Unspecified,,mid,other,2026-09-18
+5880471185,Senior Associate Finance Transformation,ascendion,Vadodara,,senior,other,2026-09-12
+5897335753,Senior Sage X3 Techno-Functional Consultant,Believe,Mumbai,,senior,other,2026-09-25
+5876478748,Senior Consultant – Power Platform,Arun Thiyagarajan ,Bengaluru,,senior,other,2026-09-09
+5312887794,Sr. Databricks Developer,Topcoder,Delhi NCR,,senior,other,2025-07-20
+5453640889,4399604-Manager,EXL,Bengaluru,,senior,other,2025-10-18
+5872112958,Analyst - IPCoE,Adani,Ahmedabad,,mid,analyst,2026-09-05
+5876482384,Database Architect/ Developer,The Digital Group Infotech,Pune,,senior,other,2026-09-09
+5897176662,Data/ETL Engineer,Ascendion,Bengaluru,,mid,data_engineering,2026-09-24
+5857010955,MIS and Back Office Coordination - New Delhi(Okhla),DC Consultants,Delhi NCR,3840000.0,mid,other,2026-08-26
+5799159832,Sr. Executive Service Support,Acumen360 Consulting & HR Solutions,Vadodara,400000.0,senior,other,2026-07-14
+4801602072,Senior Developer -Microsoft Power Platform - Chennai,Photon Group,Chennai,,senior,other,2024-07-31
+5900356011,QA Engineer,"NTT America, Inc.",Bengaluru,,mid,other,2026-09-27
+5897946195,Senior Data Engineer,CIBC India,Hyderabad,,senior,data_engineering,2026-09-25
+5500980715,Marketing Automation & CRM Operations Manager,Regent College London,Unspecified,,senior,other,2025-11-18
+3770056552,Technical BC/NAV Consultant,Preludesys India Pvt Ltd,Unspecified,1300000.0,mid,other,2022-12-13
+5723327743,Assistant Manager- Finance & Accounts,Adani,Unspecified,,senior,other,2026-05-09
+5889532867,Assistant Manager,Metro Brands Limited,Unspecified,,senior,other,2026-09-18
+5890789493,Senior Executive,EXL,Bengaluru,,senior,other,2026-09-19
+5719082216,Sourcing Professional 963,We Search,Bengaluru,1900000.0,mid,other,2026-05-05
+4386562931,Senior Executive - Analytics (Marketing Mix Model),Merito,Bengaluru,1700000.0,senior,analyst,2023-10-22
+5453619364,3562849-Assistant Vice President,EXL,Unspecified,,mid,other,2025-10-18
+5853198519,GCP BigQuery Developer,Infosys Limited,Bengaluru,,mid,other,2026-08-23
+5854880216,Manager - Digital Marketing,Oliver Wyman,Bengaluru,,senior,other,2026-08-25
+5857751017,Customer Operation Executive-1,Hindustan Unilever Hul,Mumbai,,mid,other,2026-08-27
+5859124149,Senior Research Analyst,Claight Corporation Expert Market Research,Delhi NCR,,senior,analyst,2026-08-28
+5808698978,MBA Hiring Manager Health Claims Claims MIS and Operations Analyst Uttar,TATA AIG General Insurance Company,Unspecified,,senior,analyst,2026-07-21
+5860541889,Senior SOC Controller,Pinkerton,Mumbai,,senior,other,2026-08-29
+5868115131,Manager/Senior Manager - Financial Planning & Analysis,GeBBS Healthcare Solutions,Mumbai,,senior,other,2026-09-03
+5877845476,Senior Technical Lead,Trianz,Hyderabad,,senior,other,2026-09-10
+5894112652,Associate Process Manager,eClerx,Pune,,senior,other,2026-09-22
+5896658305,Senior Associate - SDR operations,GEP Worldwide,Mumbai,,senior,other,2026-09-24
+5896030169,Assistant Manager - FP&A,Coats,Other,,senior,other,2026-09-24
+5727158063,Database Administrator (DBA),Highrise Solutions LLP,Pune,,mid,other,2026-05-13
+5803790557,Senior,BSR & Co,Bengaluru,,senior,other,2026-07-17
+5841945210,Associate Market Intelligence,Baker Tilly,Unspecified,,junior,other,2026-08-14
+5840394974,"Vice President, Business Modelling, Valuation Services",Kroll,Delhi NCR,,mid,other,2026-08-13
+5840392889,Associate - Project Planning,WSP,Delhi NCR,,junior,other,2026-08-13
+5861230917,Analyst - R&D Support,Elanco,Unspecified,,mid,analyst,2026-08-29
+5905911648,Team Leader - Project Planning,WSP,Delhi NCR,,mid,other,2026-10-01
+5907458339,Senior Assistant,3M,Bengaluru,,senior,other,2026-10-02
+5895354404,"Senior Consultant, Decision Intelligence (Financial Modelling)",Kroll,Delhi NCR,,senior,other,2026-09-23
+5902920213,Lead Analyst - Global Procurement Analytics and Performance,Circle K Stores,Unspecified,,senior,analyst,2026-09-29
+5798543641,BI Engineer (1743),We Search,Mumbai,120000.0,mid,bi,2026-07-13
+5910213057,Senior UI/UX Developer - CP&O,Hitachi,Unspecified,,senior,other,2026-10-03
+5887887156,"Manager, Finance",WM Global Technology Services India,Unspecified,,senior,other,2026-09-17
+5850627606,Lead Full Stack Data Engineer,ConvaTec,Unspecified,,senior,data_engineering,2026-08-21
+2478113652,Business Analyst(Telecom)- For Career break Candidates,HerSecondInnings,Bengaluru,1300000.0,mid,analyst,2021-09-22
+5322590725,Manual Tester ( ETL),Deqode,Bengaluru,1150000.0,mid,data_engineering,2025-07-26
+5841126289,Technical Architect (Dot Net),Expleo Solutions Limited,Chennai,,senior,other,2026-08-14
+5889552744,Campaign Management (CRM),Metro Brands Limited,Unspecified,,mid,other,2026-09-18
+5840396013,Easybuy-Supply Chain Management-Corporate Office Easy Buy- Transport Operations,Landmark Group,Unspecified,,mid,other,2026-08-13
+5907462937,Senior Analyst - Tax Technology,Eaton Corporation,Pune,,senior,analyst,2026-10-02
+5902068203,Salesforce AI Engineer,GeekSoft Consulting,Bengaluru,,mid,data_science,2026-09-29
+2182368311,PowerBI developer,Carbynetech,Hyderabad,800000.0,mid,bi,2021-05-13
+4449017698,Power Apps Technical Consultant,Tekfortune Inc,Bengaluru,1150000.0,mid,other,2023-11-23
+5152573647,Senior Business Analyst (Product Analytics),Talent Pro,Bengaluru,4500000.0,senior,analyst,2025-04-19
+5845820621,Senior Software Engineer1 2 Data Engineering Bengaluru,Embitel Technologies,Bengaluru,,senior,data_engineering,2026-08-18
+5877280878,Engineer - Business Excellence,Enpro,Pune,,mid,other,2026-09-09
+5879926257,Associate consultant - Restructuring,BSR & Co,Delhi NCR,,junior,other,2026-09-11
+5868421161,Business Analyst - Manufacturing and Supply Chain,Cargill,Bengaluru,,mid,analyst,2026-09-03
+5905463298,Senior Power Apps Developer,Byteridge,Unspecified,1750000.0,senior,other,2026-10-01
+5906945787,SLA-IC Co-Ordinator,BNP Paribas,Chennai,,mid,other,2026-10-02
+5908399717,MIS Support,Dalmia Bharat Group,Nagpur,,mid,other,2026-10-02
+5910924606,GCP BigQuery Developer,Infosys Limited,Hyderabad,,mid,other,2026-10-04
+5745820992,Workday Specialist,Russell Investments,Mumbai,,mid,other,2026-05-31
+5896367169,Application Architect-Microsoft Business Applications,IBM,Bengaluru,,senior,other,2026-09-24
+5899871617,Lead Development Associate,Arrow,Unspecified,,senior,other,2026-09-26
+5870776973,Finance Analyst,Agilent Technologies,Delhi NCR,,mid,analyst,2026-09-04
+5870780342,Finance Analyst,Agilent Technologies,Delhi NCR,,mid,analyst,2026-09-04
+5897946271,Sr Manager Data Engineering,CIBC India,Hyderabad,,senior,data_engineering,2026-09-25
+5686922942,Tech Lead,HyrHub,Bengaluru,2100000.0,senior,other,2026-04-02
+5861795971,Head of Business Intelligence,Vantageiq Technologies Opc,Mumbai,,senior,bi,2026-08-30
+5850301625,Excel Specialist,WBC,Unspecified,,mid,other,2026-08-21
+5503838346,Junior Software Developer (Fresher) Internship,Cognic Systems Pvt Ltd,Unspecified,,junior,other,2025-11-20
+5727111065,Sr account executive,MM Staffing & Career Consultants,Ahmedabad,,senior,other,2026-05-13
+5898469139,Group Head - Int Finance CoE,Novartis,Unspecified,,senior,other,2026-09-25
+5851148551,Global Facilities Engineer,Micron,Unspecified,,mid,other,2026-08-21
+5894097797,AI & Analytics Specialist,Sandvik,Pune,,mid,data_science,2026-09-22
+5827930673,Managed Services - Fintech - Associate 2,PricewaterhouseCoopers,Unspecified,,junior,other,2026-08-04
+5869269213,Operational Buyer,AGCO,Pune,,mid,other,2026-09-03
+5900751272,Unit Manager - Risk/Senior Unit Manager - Risk,Bajaj Finance,Unspecified,,senior,other,2026-09-27
+5889561962,Lead Analytics Consultant (Alteryx/Knime),phData,Bengaluru,,senior,analyst,2026-09-18
+5891405085,Staff Data Engineer - Data COE,Pearson,Bengaluru,,mid,data_engineering,2026-09-20
+5903545661,"Finance Analyst-Techno-Functional Financial Analyst - Finance, AI & Advanced Analytics - 6yrs exp",Cisco,Bengaluru,,mid,data_science,2026-09-30
+5904043181,"Finance Analyst-Techno-Functional Financial Analyst – Finance, AI & Advanced Analytics - 6yrs exp",Cisco,Bengaluru,,mid,data_science,2026-09-30
+5326536420,Sr. Data Engineer,Topcoder,Delhi NCR,,senior,data_engineering,2025-07-29
+5453611772,3855828-Senior Manager,EXL,Unspecified,,senior,other,2025-10-18
+5861793793,Senior Executive Resource Management,Happiest Minds Technologies,Bengaluru,,senior,other,2026-08-30
+5453637687,1985057-Assistant Manager,EXL,Unspecified,,senior,other,2025-10-18
+5681591091,Financial Planning & Analysis Manager,Digital Twin,Pune,,senior,other,2026-03-29
+5730749525,DE&A - Core - Advanced Visualization & Cloud Reporting - Azure Analysis Services,Zensar Technologies,Bengaluru,,mid,analyst,2026-05-16
+5886389226,Senior Executive,EXL,Delhi NCR,,senior,other,2026-09-16
+5890074034,Senior Data Engineer,Aditi Tech Consulting Private Limited,Pune,,senior,data_engineering,2026-09-19
+5887942710,Senior Executive,EXL,Delhi NCR,,senior,other,2026-09-17
+5895065562,Visualization Engineer,Retail Insights,Bengaluru,,mid,other,2026-09-23
+5894125221,"Vice President, Data Management & Quantitative Analysis",BNY Mellon,Unspecified,,mid,other,2026-09-22
+5901481034,Associate Manager - Finance,PepsiCo,Hyderabad,,senior,other,2026-09-28
+5903326182,Senior Specialist - Software Engineering,LTM,Pune,,senior,other,2026-09-30
+5904030311,Staff - Renewal Operations,GE Vernova,Unspecified,,mid,other,2026-09-30
+5907834271,FP&A Analyst,Control Risks,Delhi NCR,,mid,analyst,2026-10-02
+5908339923,Analyst - Commercial Analytics,Wesco,Pune,,mid,analyst,2026-10-02
+5830644943,Sr. Executive/Associate Manager - HR and Admin,Ami Polymer,Unspecified,,senior,other,2026-08-06
+5863000829,Senior BIM Specialist,LT-Larsen & Toubro,Unspecified,600000.0,senior,other,2026-08-31
+5912067865,Sustainability Consultant,Infosys Limited,Bengaluru,,mid,other,2026-10-05
+5727093077,Data Engineer,RECEX,Bengaluru,600000.0,mid,data_engineering,2026-05-13
+5868707143,QA & Data Validation Engineer,Nexaxis Technology Solutions,Delhi NCR,1100000.0,mid,other,2026-09-03
+5911187268,Sr Developer,Cognizant,Chennai,,senior,other,2026-10-04
+5899326225,Lead Development Associate,Arrow Electronics,Unspecified,,senior,other,2026-09-26
+2661558689,Hiring for Dot Net,Drivn Solutions,Unspecified,1200000.0,mid,other,2021-11-20
+5322591116,Senior Functional consultant,Ekloud INC,Unspecified,1900000.0,senior,other,2025-07-26
+5911674609,Senior Analyst - MDM,First Citizens India,Unspecified,,senior,analyst,2026-10-04
+5912785394,DATA SCIENTIST,Vrinda International,Mumbai,1750000.0,mid,data_science,2026-10-05
+5912389047,Data Scientist,Gravity Engineering Services Pvt Ltd,Delhi NCR,2050000.0,mid,data_science,2026-10-05
+5912391278,Data Scientist,Ford Motor Company,Chennai,,mid,data_science,2026-10-05
+5727102998,Data Scientist,Actide International,Vadodara,600000.0,mid,data_science,2026-05-13
+5907833754,Data Scientist,TEGNA,Chennai,,mid,data_science,2026-10-02
+5908372638,Data Scientist,ShyftLabs,Delhi NCR,,mid,data_science,2026-10-02
+5909826390,Data Scientist,ScienceLogic,Hyderabad,,mid,data_science,2026-10-03
+5911187282,Data Scientist,Cognizant,Bengaluru,,mid,data_science,2026-10-04
+5849682402,Data Scientist,eBay,Bengaluru,,mid,data_science,2026-08-20
+5913461417,Data Scientist,SAP,Bengaluru,,mid,data_science,2026-10-06
+5913213908,Associate Data Scientist,HyrEzy Talent Solutions,Mumbai,1750000.0,junior,data_science,2026-10-06
+5912785305,Associate Data Scientist,DigitalCube Consultancy,Delhi NCR,,junior,data_science,2026-10-05
+5912785354,Senior Data Scientist,BI3 Technologies,Chennai,,senior,data_science,2026-10-05
+5911675614,Advanced Data Scientist,Honeywell,Bengaluru,,mid,data_science,2026-10-04
+5862295004,Senior - Data Scientist,Bread Financial,Bengaluru,,senior,data_science,2026-08-30
+5911383048,Senior Data Scientist,Mastercard,Mumbai,,senior,data_science,2026-10-04
+5909548298,Lead Data Scientist,Mastercard,Pune,,senior,data_science,2026-10-03
+5899850957,Data Scientist - R01571772,Brillio,Bengaluru,,mid,data_science,2026-09-26
+5911188286,Associate - Data Scientist,United Airlines,Unspecified,,junior,data_science,2026-10-04
+5912034299,Principal Data Scientist,Johnson and Johnson,Bengaluru,,senior,data_science,2026-10-05
+5911665734,Senior Data Scientist,AB InBev India,Unspecified,,senior,data_science,2026-10-04
+5894831680,Principal Data Scientist,Microsoft Corporation,Hyderabad,,senior,data_science,2026-09-23
+5897062599,Principal Data Scientist,Microsoft,Unspecified,,senior,data_science,2026-09-24
+5818439605,Senior Data Scientist,Kyara Consulting,Unspecified,600000.0,senior,data_science,2026-07-28
+5894831448,Data Scientist II,Mastercard,Unspecified,,mid,data_science,2026-09-23
+5912386332,Manager Data Science,Publicis Sapient,Bengaluru,,senior,data_science,2026-10-05
+5814997124,Data Scientist III,S&P Global,Hyderabad,,mid,data_science,2026-07-25
+5911646186,Sr Data Scientist,Moody's,Bengaluru,,senior,data_science,2026-10-04
+5640153466,Data Scientist - Forecasting,Lingaro,Unspecified,,mid,data_science,2026-02-22
+5896110903,Principal Data Scientist,Elanco,Bengaluru,,senior,data_science,2026-09-24
+5911673488,BI - Data Scientist,Cooper-Standard Automotive,Unspecified,,mid,data_science,2026-10-04
+5907836019,Principal Data Scientist,Fractal,Bengaluru,,senior,data_science,2026-10-02
+5907835929,Data Science / ML,Capgemini Engineering,Bengaluru,,mid,data_science,2026-10-02
+5909546463,Data Scientist - Data Modeling/analytics,Amgen,Hyderabad,,mid,data_science,2026-10-03
+5913214004,Data Scientist-AI/ML,Softview Infotech,Chennai,3000000.0,mid,data_science,2026-10-06
+5834425911,Data Scientist - AI Evaluation,Mercor,Mumbai,,mid,data_science,2026-08-09
+5888179468,"Director, Data Science & AI",Trusted Media Brands,Unspecified,,senior,data_science,2026-09-18
+5869803282,Data Scientist – AI/ML,At Dawn Technologies,Unspecified,550000.0,mid,data_science,2026-09-04
+5893746533,Senior Data Scientist I,The Nielsen Company,Bengaluru,,senior,data_science,2026-09-22
+5869814297,Product Owner - Data Science,Sagility India Private limited,Bengaluru,,mid,data_science,2026-09-04
+5845820518,Delivery Head Data Science,Jobnoc,Unspecified,,senior,data_science,2026-08-18
+5898178700,Data Science Senior Manager,Tredence Inc.,Hyderabad,,senior,data_science,2026-09-25
+5854846447,AI and Data Science Instructor,KalKey,Other,,mid,data_science,2026-08-25
+5808699288,Sr Advanced Data Scientist,Aerospace,Hyderabad,,senior,data_science,2026-07-21
+5895065832,Head of Data Science Delivery,M2P Fintech,Chennai,,senior,data_science,2026-09-23
+5730051664,"Senior Director, Data Science",Albertsons Companies India,Bengaluru,,senior,data_science,2026-05-15
+5294955050,Associate Director - Data Science,Tiger Analytics,Chennai,3250000.0,senior,data_science,2025-07-10
+5877264946,Data Science Lead - R01570348,Brillio,Bengaluru,,senior,data_science,2026-09-09
+5907464507,Sr Advanced Data Scientist,Honeywell Technologies,Bengaluru,,senior,data_science,2026-10-02
+5845820351,AI and Data Science Mentor,Technex Cloud Network Pvt Ltd,Hyderabad,,mid,data_science,2026-08-18
+5525875287,Data Sciences Sr Mgr,Amgen,Hyderabad,,senior,data_science,2025-12-03
+5526832746,Data Sciences Sr Mgr,Amgen,Hyderabad,,senior,data_science,2025-12-04
+5895353095,Data Scientist (Patient Finding),Amgen,Hyderabad,,mid,data_science,2026-09-23
+5897949150,Data Scientist (Patient Finding),Amgen,Hyderabad,,mid,data_science,2026-09-25
+5855470422,D&T Data Scientist II,Genl Mills India Priv,Unspecified,,mid,data_science,2026-08-25
+5146517135,Data Scientist-Speridian Technologies,Speridian Technologies,Bengaluru,,mid,data_science,2025-04-16
+5808699375,Software Engineer Data Scientist,Johnson Controls International,Pune,,mid,data_science,2026-07-21
+5614314254,Senior Data Science - R01560392,Brillio,Bengaluru,,senior,data_science,2026-02-05
+4228188388,Data Science Engineer (ZS070),EnterpriseMinds,Bengaluru,,mid,data_science,2023-07-28
+5897040554,"Data Scientist II, Hyderabad",Warner Bros. Discovery,Unspecified,,mid,data_science,2026-09-24
+5897954988,"Data Scientist II, Hyderabad",Warner Bros. Discovery,Hyderabad,,mid,data_science,2026-09-25
+5797358859,Senior Data Scientist – Builder,Puma Energy,Unspecified,,senior,data_science,2026-07-12
+5897036231,Data Scientist - Senior Associate,PricewaterhouseCoopers,Unspecified,,senior,data_science,2026-09-24
+5811407869,WFM Data Science Lead,In Touch,Hyderabad,,senior,data_science,2026-07-23
+5811421598,WFM Data Science Lead,In Touch,Bengaluru,,senior,data_science,2026-07-23
+5878284868,Senior Data Scientist: 978,C5i,Hyderabad,,senior,data_science,2026-09-10
+5856957163,D&T Data Scientist I,Genl Mills India Priv,Unspecified,,mid,data_science,2026-08-26
+5892689724,Senior Data Scientist - Ads,JioHotstar,Bengaluru,,senior,data_science,2026-09-21
+5907462148,Manager - Python/Data Science,Cognizant,Chennai,,senior,data_science,2026-10-02
+5778189830,"Senior Data Scientist, 1",People Inc,Unspecified,,senior,data_science,2026-06-27
+5889564789,Associate Lead Data Scientist,Sigmoid,Bengaluru,,senior,data_science,2026-09-18
+5845820416,Data Science Instructor Bahadurguda,upGrad,Hyderabad,,mid,data_science,2026-08-18
+5867225780,Clinical Data Science Programmer,IRE,Chennai,,mid,data_science,2026-09-02
+5872122056,Clinical Data Science Programmer,IRE,Thiruvananthapuram,,mid,data_science,2026-09-05
+5845820429,Data Science Vice President,Wenger and Watson,Bengaluru,,mid,data_science,2026-08-18
+5816829734,Lead Data Scientist 4D,Genpact,Unspecified,,senior,data_science,2026-07-27
+5851811912,Data Scientist Agentic Ai,Srivango Technolgy,Hyderabad,,mid,data_science,2026-08-22
+5259134038,Data Scientist- GEN AI,Intellikart Ventures LLP,Bengaluru,2250000.0,mid,data_science,2025-06-20
+5876949281,"Lead Scientist, Data Science",XPO,Unspecified,,senior,data_science,2026-09-09
+5776799809,Principal/Lead Data Scientist,Fractal,Bengaluru,,senior,data_science,2026-06-26
+5727171618,Senior NLP Data Scientist,Right Advisors,Bengaluru,600000.0,senior,data_science,2026-05-13
+5881161465,Gen AI Data Scientist,Fractal,Bengaluru,,mid,data_science,2026-09-12
+5861232176,"Manager, Clinical Data Scientist",2028 Takeda Innovations India,Unspecified,,senior,data_science,2026-08-29
+5768593203,Senior Manager - Data Science,dentsu,Unspecified,,senior,data_science,2026-06-19
+5819864350,Sr Advanced Data Scientist,Honeywell,Bengaluru,,senior,data_science,2026-07-29
+5731645393,"Data Science Manager, Risk",Stripe,Bengaluru,,senior,data_science,2026-05-17
+5644114233,Data Science Lead - R01561319,Brillio,Bengaluru,,senior,data_science,2026-02-25
+5878705191,[India] Senior Data Scientist,ProcDNA,Unspecified,,senior,data_science,2026-09-10
+5830635948,SC Data Science Leader,Garrett Advancing Motion,Other,,mid,data_science,2026-08-06
+5808699294,Lead ML Data Scientist,The HEINEKEN Company,Hyderabad,,senior,data_science,2026-07-21
+5844331544,"Data Scientist, Equity Research",CFRA Research,Unspecified,,mid,data_science,2026-08-16
+5808699358,Manager Clinical Data Scientist,1G5 Pfizer Healthcare India Private Limited,Chennai,,senior,data_science,2026-07-21
+5838479645,Data Scientist/Software Developer,Xylem,Bengaluru,,mid,data_science,2026-08-12
+5859122229,Associate Principal - Data Scientist,Tiger Analytics,Bengaluru,,senior,data_science,2026-08-28
+5859122221,Associate Principal - Data Scientist,Tiger Analytics,Hyderabad,,senior,data_science,2026-08-28
+5859122234,Associate Principal - Data Scientist,Tiger Analytics,Chennai,,senior,data_science,2026-08-28
+5858359898,Senior Manager - Data Science,dentsu,Unspecified,,senior,data_science,2026-08-27
+5871278877,Senior Data Scientist - AgenticAI,Securonix Consultancy,Bengaluru,,senior,data_science,2026-09-05
+5883719417,Senior Data Scientist - R01570780,Brillio,Bengaluru,,senior,data_science,2026-09-14
+5904052827,"(Ind) Staff, Data Scientist",WM Global Technology Services India,Unspecified,,mid,data_science,2026-09-30
+5892941664,Data Scientist - GBS Commercial,AB InBev India,Unspecified,,mid,data_science,2026-09-21
+5841917703,Staff Data Scientist (TLM),Quince,Bengaluru,,mid,data_science,2026-08-14
+5871532297,Data Science Engineer-III,UKG,Delhi NCR,,mid,data_science,2026-09-05
+5889546009,Senior Executive - Data Science,Social Worth Technologies Limited,Pune,,senior,data_science,2026-09-18
+5898480318,Lead Data Scientist 4C,Genpact,Unspecified,,senior,data_science,2026-09-25
+5858383548,Data Science Lead - R01570347,Brillio,Bengaluru,,senior,data_science,2026-08-27
+5861961849,Clinical Data Science Programmer,ICON Clinical Research,Chennai,,mid,data_science,2026-08-30
+5891909003,Data Scientist-II-MMM,MathCo India,Bengaluru,600000.0,mid,data_science,2026-09-20
+5871278931,Senior Data Scientist - AgenticAI,Securonix Consultancy,Pune,,senior,data_science,2026-09-05
+5871278940,Senior Data Scientist - AgenticAI,Securonix Consultancy,Bengaluru,,senior,data_science,2026-09-05
+5889514963,Senior Lead Data Scientist,Sigmoid,Bengaluru,,senior,data_science,2026-09-18
+5850376441,Staff Data Scientist I,Inmobi,Bengaluru,,mid,data_science,2026-08-21
+5727111584,Data Scientist/AI / ML,MM Staffing & Career Consultants,Bengaluru,600000.0,mid,data_science,2026-05-13
+5889524588,AI / Data Science Lead,Pontoonglobal,Bengaluru,600000.0,senior,data_science,2026-09-18
+5871531058,Clinical Data Science Programmer,ICON Clinical Research,Bengaluru,,mid,data_science,2026-09-05
+5839597754,Data Scientist/Software Developer,Xylem,Bengaluru,,mid,data_science,2026-08-13
+5889605310,Senior Associate - Data Scientist,TIAA,Mumbai,,senior,data_science,2026-09-18
+5853710937,Data Scientist - Senior Associate,PricewaterhouseCoopers,Unspecified,,senior,data_science,2026-08-23
+5890817664,Senior Principal Data Scientist,AtkinsRéalis,Unspecified,,senior,data_science,2026-09-19
+5820792437,Sr Advanced Data Scientist,Honeywell Technologies,Bengaluru,,senior,data_science,2026-07-30
+5859430497,Sr Advanced Data Scientist,Honeywell Technologies,Pune,,senior,data_science,2026-08-28
+5820792429,Sr Advanced Data Scientist,Honeywell Technologies,Delhi NCR,,senior,data_science,2026-07-30
+5857027092,Sr. Data Scientist 4B,Genpact,Unspecified,,senior,data_science,2026-08-26
+5897048096,Senior Data Scientist– Pricing,HP,Unspecified,,senior,data_science,2026-09-24
+5842760747,Sr Associate-Data Science,Cognizant,Chennai,,senior,data_science,2026-08-15
+5727212431,AI Resident - Data Scientist,Synamol,Bengaluru,,mid,data_science,2026-05-13
+4171469361,Principal Engineer - Data Science,LogiNext,Mumbai,2550000.0,senior,data_science,2023-06-26
+5887924055,Data Scientist Senior Associate,JPMorganChase,Bengaluru,,senior,data_science,2026-09-17
+5897037285,Senior Lead Data Scientist,4flow,Bengaluru,,senior,data_science,2026-09-24
+5806452716,Lead Data Scientist- Marketing,Bluevine,Bengaluru,,senior,data_science,2026-07-19
+5897025263,"Vice President, Data Scientist",BNY Mellon,Unspecified,,mid,data_science,2026-09-24
+5909548093,Data Scientist - INTL - India,Insight Global,Hyderabad,,mid,data_science,2026-10-03
+5472360501,Principal Data Scientist - R01556906,Brillio,Bengaluru,,senior,data_science,2025-10-31
+5910194824,Data Engineer / Data Scientist,Concentrix,Unspecified,,mid,data_science,2026-10-03
+5765962498,Sr Principal Data Scientist,Smartsheet,Bengaluru,,senior,data_science,2026-06-17
+5897176854,Senior Data Scientist– Pricing,HP,Bengaluru,,senior,data_science,2026-09-24
+5890800007,"Senior Advisor, Data Science",Dell Technologies,Bengaluru,,senior,data_science,2026-09-19
+5905907403,Lead Data Scientist - AI,London Stock Exchange Group,Unspecified,,senior,data_science,2026-10-01
+5905885562,"(Ind) Senior, Data Scientist",WM Global Technology Services India,Unspecified,,senior,data_science,2026-10-01
+5888774765,Senior Associate - Data Scientist,TIAA,Mumbai,,senior,data_science,2026-09-18
+5888774763,Senior Associate - Data Scientist,TIAA,Pune,,senior,data_science,2026-09-18
+5912582891,Machine Learning SME,Weekday AI,Unspecified,,mid,data_science,2026-10-05
+5909807241,Machine Learning Engineer,Gravity Engineering Services Pvt Ltd,Delhi NCR,1800000.0,mid,data_science,2026-10-03
+5912385902,Machine Learning Engineer,Coinbase,Bengaluru,,mid,data_science,2026-10-05
+5910505950,Architect - Machine Learning - GenAI,Quantiphi,Bengaluru,,senior,data_science,2026-10-04
+5910244499,Senior Machine Learning Researcher,Arkose Labs,Pune,,senior,data_science,2026-10-03
+5910218521,"Data Scientist, Machine Learning",Trinity Life Sciences,Delhi NCR,,mid,data_science,2026-10-03
+5853710609,Senior Machine Learning Engineer,AB InBev India,Unspecified,,senior,data_science,2026-08-23
+5910222815,"Software Engineer 2 , Machine Learning",Jobgether,Unspecified,,mid,data_science,2026-10-03
+5910238877,"Software Engineer 2 , Machine Learning",Interview Kickstart,Unspecified,,mid,data_science,2026-10-03
+5907461706,Machine Learning Engineer - Python and SQL,Citigroup,Pune,,mid,data_science,2026-10-02
+5908407611,Senior Staff Machine Learning Engineer,Netradyne,Bengaluru,,senior,data_science,2026-10-02
+5908368640,Sr. Associate - Machine Learning Engineer,Amgen,Hyderabad,,senior,data_science,2026-10-02
+5909546481,Sr. Associate - Machine Learning Engineer,Amgen,Hyderabad,,senior,data_science,2026-10-03
+5911773533,Senior Member of Technical Staff- Machine Learning,athenahealth,Bengaluru,,senior,data_science,2026-10-05
+5908340993,DE&A - AIML - Machine Learning - Statistical Modeling,Zensar Technologies,Unspecified,,mid,data_science,2026-10-02
+5912690408,Sr. D&T Machine Learning Engineer (Agentic Ai),Genl Mills India Priv,Unspecified,,senior,data_science,2026-10-05
+5909826236,Machine Learning-Lead AI and Data Solutions Engineer II,Deloitte,Hyderabad,,senior,data_science,2026-10-03
+5909548120,Machine Learning Engineer Level IV Standard (INDIA)- INTL India,Insight Global,Hyderabad,,mid,data_science,2026-10-03
+5730627836,"SOFTWARE TRAINER - FULL STACK SQL, PHP l MACHINE LEARNING WITH PYTHON",Green Apple HR Solutions,Coimbatore,2100000.0,mid,data_science,2026-05-16
+5910195683,"Senior Data Scientist(6 years with Machine Learning, NLP, Applied AI, or AI Product Development)",Wolters Kluwer,Unspecified,,senior,data_science,2026-10-03
+5910252577,Data Engineer / Data Scientist,Jobgether,Unspecified,,mid,data_science,2026-10-03
+5907867497,"Applied Scientist II, Buyer Risk Prevention (BRP)",ADCI - BLR 14 SEZ,Bengaluru,,mid,other,2026-10-02
+5909546379,"Applied Scientist I, Buyer Risk Prevention (BRP)",Amazon,Bengaluru,,mid,other,2026-10-03
+5727272477,"Ai Expert For Logistics - Raipur , Chhattisgarh",Vinayak Outsourcing Works,Other,480000.0,mid,data_science,2026-05-13
+5909550244,India Scientist III & Senior Data Scientist - Gurgaon,WM,Delhi NCR,,senior,data_science,2026-10-03
+5913213907,Associate Lead Data Scientist – Operations Research & Optimization,Zorba Consulting India,Unspecified,1750000.0,senior,data_science,2026-10-06
+5908609922,AI / ML Engineer,WhiteCrow Research,Mumbai,,mid,data_science,2026-10-03
+5904040252,AI Solutions Lead,Johnson & Johnson,Unspecified,,senior,data_science,2026-09-30
+5728406253,Sr. AI/ML Engineer / Data Scientist,Acura Solution,Unspecified,,senior,data_science,2026-05-14
+5648989211,Senior Manager,EXL,Unspecified,,senior,other,2026-03-01
+5751728768,"Associate Lead - Data Scientist ( Python, AL/ML),",Staffnixcom,Pune,3350000.0,senior,data_science,2026-06-04
+4514376984,Search Engineer,Qrata,Bengaluru,1800000.0,mid,other,2024-01-07
+4052661167,Lead - MIS and Analytics,Angel One,Unspecified,1500000.0,senior,analyst,2023-04-21
+4619760454,Data Scientist with Apache Pyspark,Kanerika Software,Unspecified,1250000.0,mid,data_science,2024-03-22
+5877845347,AI/ML Development - AI Tech Lead,Nihilent,Pune,,senior,data_science,2026-09-10
+5877845345,AI/Ml programmer,Nihilent,Pune,,mid,data_science,2026-09-10
+5219560264,Senior Software Engineer - AI/ML,Bristol Myers Squibb,Hyderabad,,senior,data_science,2025-05-28
+5840373859,"Senior Manager, Applied Science",Tekion,Unspecified,,senior,other,2026-08-13
+5900355686,Package Consultant-Oracle EPM Cloud,IBM,Bengaluru,,mid,other,2026-09-27
+5067536911,"Data Scientist III, Predictive Scientific Engagement",Bristol Myers Squibb,Hyderabad,,mid,data_science,2025-03-01
+4703221852,"Predictive Scientific Engagement, Data Scientist III [ Python & SQL]",Bristol Myers Squibb,Hyderabad,,mid,data_science,2024-05-22
+5657939277,Process Manager,eClerx,Pune,,senior,other,2026-03-08
+5859121454,Artificial Intelligence Architect,IQVIA,Bengaluru,,senior,other,2026-08-28
+5859121444,Senior AI/ML Manager,IQVIA,Pune,,senior,data_science,2026-08-28
+5833603571,"Staff ML - GenAI Engineer, Voice & Speech",Weave,Unspecified,,mid,data_science,2026-08-08
+2311962125,MERN Stack Developer,ValueDot,Unspecified,900000.0,mid,other,2021-07-11
+5808699384,Data Scientist Risk and Fraud Modeling 35 Years Hands on Coding Mumbai,datavruti,Mumbai,,mid,data_science,2026-07-21
+5808699374,Senior Data Scientist 8 to 11 Years Chennai,Fractal,Chennai,,senior,data_science,2026-07-21
+5824123249,"Applied Scientist II, IN SPS Tech",Amazon,Unspecified,,mid,other,2026-08-01
+5889505016,Custom Application Architect,Accenture,Unspecified,,senior,other,2026-09-18
+5904033749,"Sr Data Scientist, RBS Tech",Amazon,Unspecified,,senior,data_science,2026-09-30
+5825361114,"Applied Scientist II, IN SPS Tech",Amazon,Bengaluru,,mid,other,2026-08-02
+5906173592,"Applied Scientist II, IN SPS Tech",Amazon,Bengaluru,,mid,other,2026-10-02
+5734339082,"Senior Associate, Agents/Chatbots IC",Amgen,Hyderabad,,senior,other,2026-05-20
+5912216178,"Senior Associate, Agents/Chatbots IC",Amgen,Hyderabad,,senior,other,2026-10-05
+4770319152,Software Engineer,MLSecured,Unspecified,800000.0,mid,other,2024-07-08
+5885447776,Marketing Analytics,EXL,Ahmedabad,,mid,analyst,2026-09-16
+3262155124,Data Scientist-Mumbai/Pune,TSG Global Services Private Limited,Unspecified,1250000.0,mid,data_science,2022-06-26
+1256390406,Eunimart is Hiring CTO,Eunimart Multichannel Pvt Ltd,Hyderabad,2500000.0,mid,other,2019-09-07
+1348032241,Project Manager - Operations,Azine Technologies,Ahmedabad,900000.0,senior,other,2019-11-22
+5861951542,"Data Scientist, Alexa AI",Amazon,Bengaluru,,mid,data_science,2026-08-30
+5908609931,"Applied Scientist II, Buyer Risk Prevention (BRP)",Amazon Business,Bengaluru,,mid,other,2026-10-03
+5849679450,Software Engineer/Senior Software Engineer- DataScience,BOLD,Delhi NCR,,senior,other,2026-08-20
+5910217619,"Applied Scientist II, Buyer Risk Prevention (BRP)",Amazon,Unspecified,,mid,other,2026-10-03
+5911186962,"Applied Scientist II, Buyer Risk Prevention (BRP)",Amazon,Bengaluru,,mid,other,2026-10-04
+5895402426,"Specialist, Data Science & Artificial Intelligence",Novartis,Unspecified,,mid,data_science,2026-09-23
+5862294560,"Data Scientist, Alexa AI",Amazon,Unspecified,,mid,data_science,2026-08-30
+5759725193,Sr. AI/ML Engineer,ideas to impacts innovation pvt ltd,Pune,1400000.0,senior,data_science,2026-06-11
+5912632683,Senior AI ML Engineer,Solventum,Unspecified,,senior,data_science,2026-10-05
+3479609972,Python Automation,Getinz,Chennai,1150000.0,mid,other,2022-09-12
+5879146291,Staff Software Engineer-AI/ML,Renesas,Hyderabad,,mid,data_science,2026-09-11
+1171506710,Full Stack Developer,Quantiphi Inc.,Mumbai,800000.0,mid,other,2019-06-05
+5801030571,AI/ML Engineer,Quanteon Solutions,Hyderabad,1500000.0,mid,data_science,2026-07-15
+5827640273,"Research Scientist II, Last Mile Science",ADCI - Karnataka,Bengaluru,,mid,other,2026-08-04
+5438278422,"Lead Analyst, AI Engineer(Data Science)",Peak Hire Solutions,Chennai,3400000.0,senior,data_science,2025-10-09
+5882502649,"Associate Lead - AI/ML Engineer ( Python, AL/ML) - tier 1 college onl",Staffnixcom,Pune,2950000.0,senior,data_science,2026-09-13
+5748897553,GEN AI Developer,Workcubcle pvt Ltd,Hyderabad,2000000.0,mid,data_science,2026-06-02
+5879935009,"Senior Applied Scientist, Amazon Music - Search Science, Amazon Music – Search Science",Amazon Music,Unspecified,,senior,other,2026-09-11
+5879362888,"Senior Applied Scientist, Amazon Music - Search Science, Amazon Music - Search Science",Amazon,Bengaluru,,senior,other,2026-09-11
+5908609986,"Senior Applied Scientist, Amazon Music - Search Science, Amazon Music – Search Science",Amazon Music,Bengaluru,,senior,other,2026-10-03
+5899073240,AI/ML Architect,Tekskills India Private Limited,Hyderabad,,senior,data_science,2026-09-26
+5607807838,Lead Assistant Manager,EXL,Delhi NCR,,senior,other,2026-02-01
+5690032454,Senior Manager,EXL,Unspecified,,senior,other,2026-04-05
+5453642581,240228-Manager,EXL,Delhi NCR,,senior,other,2025-10-18
+5453620095,3710878-Lead Assistant Manager,EXL,Delhi NCR,,senior,other,2025-10-18
+5861794383,Immediate hiring For AI Engineer,Genzeon Corporation,Pune,,mid,data_science,2026-08-30
+5869814828,Senior Data Scientist Lead - Work from office,EXL,Chennai,,senior,data_science,2026-09-04
+4903624441,Generative AI Engineer Specialist in Deep Learning,Rayvat Outsourcing,Other,175000.0,mid,data_science,2024-10-16
+5743808914,AI / ML Engineer,Accenture,Unspecified,,mid,data_science,2026-05-29
+5861228081,"Senior Applied Scientist, Search Relevance International",Amazon,Unspecified,,senior,other,2026-08-29
+5897783788,Gen AI Senior Lead,Infosys Limited,Bengaluru,,senior,data_science,2026-09-25
+5861951600,"Senior Applied Scientist, Search Relevance International",Amazon,Bengaluru,,senior,other,2026-08-30
+5908309144,"Principal Software Engineer, ITC",Nike,Unspecified,,senior,other,2026-10-02
+1155089523,Tech Co Founder/CTO,Adroint,Mumbai,2250000.0,mid,other,2019-05-17
+2686604285,Chief Engineer: Deep Learning Compiler Expert,Mindstech Recruitments,Bengaluru,4500000.0,mid,other,2021-11-28
+5889533104,Senior AI/ML Engineer - R01570503,Brillio,Bengaluru,,senior,data_science,2026-09-18
+2042125530,Deep Learning Engineering,Unnati,Delhi NCR,2250000.0,mid,other,2021-03-10
+5897029092,Senior Staff Data Scientist I,JioStar,Unspecified,,senior,data_science,2026-09-24
+5905433824,"Sr Data Scientist, RBS Tech",Amazon,Bengaluru,,senior,data_science,2026-10-01
+5900180987,Ai ML Engineer,Bhattacharjee Group,Kolkata,540000.0,mid,data_science,2026-09-27
+5822283426,"Associate Lead - AI/ML Engineer Tier 1 college ( Python, AL/ML)",Staffnixcom,Pune,2950000.0,senior,data_science,2026-07-31
+5822283407,Data scientist Tier 1 college only,Staffnixcom,Pune,2950000.0,mid,data_science,2026-07-31
+5899029008,Industry Mentor – AI/ML | Odia | Part-Time,Masai,Unspecified,900000.0,mid,data_science,2026-09-26
+1155088422,Data Annotator (Automotive),Teamlease Services Limited,Bengaluru,250000.0,mid,other,2019-05-17
+5892383933,Returnship - AIML Datascience,Cognizant,Bengaluru,,mid,other,2026-09-21
+5856197661,"MLE/MLOps, OOPs Python, Databricks, Azure",Infosys Limited,Bengaluru,,mid,other,2026-08-26
+5687858851,Senior Associate -Applied AI ML -Digital,JPMorganChase,Bengaluru,,senior,data_science,2026-04-03
+5754720548,Senior AI Engineer,All Generation Tech,Hyderabad,,senior,data_science,2026-06-07
+5859124974,Lead AI Engineer,Capital One,Bengaluru,,senior,data_science,2026-08-28
+5850380200,AI Developer,Silent Infotech,Ahmedabad,,mid,data_science,2026-08-21
+5805992319,Lead Engineer (with AI/ML),Vowels of the People Association,Pune,1300000.0,senior,data_science,2026-07-18
+5453607457,3562842-Senior Assistant Vice President,EXL,Unspecified,,senior,other,2025-10-18
+5890815551,"Sr. Applied Scientist, Last Mile Science",Amazon,Unspecified,,senior,other,2026-09-19
+5691044656,Sr. Product Specialist (T),Cognizant,Bengaluru,,senior,other,2026-04-06
+5891403726,"Sr. Applied Scientist, Last Mile Science",Amazon,Bengaluru,,senior,other,2026-09-20
+5887944507,AI Engineer_ MLOPs_ 3 to 5yrs,Fractal,Bengaluru,,mid,data_science,2026-09-17
+1155089525,Natural Language Processing Engineer,Niki.ai,Bengaluru,2000000.0,mid,other,2019-05-17
+4862236978,AI Researcher,Thirumoolar Software Pvt Ltd,Unspecified,450000.0,mid,data_science,2024-09-13
+1277646122,dotNet Developer,RevClerx,Chandigarh,850000.0,mid,other,2019-09-27
+2638892639,Computer Vision Engineer,Leena AI,Unspecified,1750000.0,mid,other,2021-11-13
+5322590820,AI/ML engineer,People Impact,Hyderabad,2500000.0,mid,data_science,2025-07-26
+5120359843,Engineering Intern - Chrome Extension Development (ChatGPT Integration),Beyondcc,Bengaluru,,junior,other,2025-04-01
+5856196301,Gen AI Engineer,Cognizant Technology Solutions India Pvt Ltd,Coimbatore,,mid,data_science,2026-08-26
+5818239864,Computer Vision Engineer - Pune,Intellipro,Unspecified,,mid,other,2026-07-28
+5843162188,"Sr. Applied Scientist, Seller Fee Science",Amazon,Unspecified,,senior,other,2026-08-15
+5879551627,Tech S and T-AI Engineer-ISR-Senior-GDSF02,EY,Kolkata,,senior,data_science,2026-09-11
+5889536012,Principal LLM Application Engineer (India),System Two Security,Unspecified,,senior,other,2026-09-18
+5901709161,"Software Engineering Manager, AI/ML Infrastructure and Performance Engineering",Google,Bengaluru,,senior,data_science,2026-09-28
+5912846934,Data Engineer,VDart Software Services Pvt. Ltd.,Bengaluru,,mid,data_engineering,2026-10-05
+5908365645,Data Engineer,dentsu,Unspecified,,mid,data_engineering,2026-10-02
+5908407499,Data Engineer,Natwest Group,Unspecified,,mid,data_engineering,2026-10-02
+5727189224,Data Engineer,Acura Solution,Mumbai,,mid,data_engineering,2026-05-13
+5908341337,Data Engineer,Malomatia,Unspecified,,mid,data_engineering,2026-10-02
+5907431686,Data Engineer,JK Moving Services,Bengaluru,,mid,data_engineering,2026-10-02
+5911414885,Data Engineer,VY SYSTEMS PRIVATE LIMITED,Bengaluru,1200000.0,mid,data_engineering,2026-10-04
+5861217675,Data Engineer,NewVison,Unspecified,600000.0,mid,data_engineering,2026-08-29
+5912724334,Data Engineer,Corning,Pune,,mid,data_engineering,2026-10-05
+5872785627,Data Engineer,Cisco,Bengaluru,,mid,data_engineering,2026-09-06
+5893619206,Data Engineer,Cisco,Bengaluru,,mid,data_engineering,2026-09-22
+5908397564,Data Engineer,NK Securities Research,Unspecified,,mid,data_engineering,2026-10-02
+5910254998,Data Engineer,Solventum,Unspecified,,mid,data_engineering,2026-10-03
+5908299629,Data Engineer,Zoetis,Hyderabad,,mid,data_engineering,2026-10-02
+5907430693,Data Engineer,Orange Business,Delhi NCR,,mid,data_engineering,2026-10-02
+5909546367,"Data Engineer II, SPIV Data Engineering",Amazon,Bengaluru,,mid,data_engineering,2026-10-03
+5908366599,"Data Engineer, Conversational Shopping Data Engineering",Amazon,Unspecified,,mid,data_engineering,2026-10-02
+5911186939,"Data Engineer, Conversational Shopping Data Engineering",Amazon,Bengaluru,,mid,data_engineering,2026-10-04
+5912846864,GCP Data Engineer,TalentOla,Chennai,,mid,data_engineering,2026-10-05
+5909226085,Senior Data Engineer,Atharv Consultings,Unspecified,1200000.0,senior,data_engineering,2026-10-03
+5913213909,Data Engineer_Rz,Iassess Consultants,Unspecified,4500000.0,mid,data_engineering,2026-10-06
+5908381485,"Senior Data Engineer, Data & AI Engineering",Pretium Enterprise Services,Bengaluru,,senior,data_science,2026-10-02
+5908390765,Senior Data Engineer / Data Engineering Technical Lead,Jobgether,Unspecified,,senior,data_engineering,2026-10-02
+5910226284,Senior Data Engineer,Lloyds Bank,Unspecified,,senior,data_engineering,2026-10-03
+5727240333,Senior Data Engineer,Acura Solution,Unspecified,,senior,data_engineering,2026-05-13
+5909807233,Databricks Data Engineer,Gravity Engineering Services Pvt Ltd,Bengaluru,2050000.0,mid,data_engineering,2026-10-03
+5907833635,Senior Data Engineer,JioStar,Mumbai,,senior,data_engineering,2026-10-02
+5907821004,Big Data Engineer,Gravity Engineering Services Pvt Ltd,Delhi NCR,2050000.0,mid,data_engineering,2026-10-02
+5442283692,Senior Data Engineer,Wissen Technology,Bengaluru,2250000.0,senior,data_engineering,2025-10-11
+5876949065,AWS Data Engineer,EXL,Unspecified,,mid,data_engineering,2026-09-09
+5146689730,Azure Data Engineer,Method Hub,Unspecified,2000000.0,mid,data_engineering,2025-04-16
+4146601123,Cloud Data Engineer,Intuitive Technology Partners,Unspecified,,mid,data_engineering,2023-06-11
+5553961601,Lead Data Engineer,Novotree minds consulting firm,Unspecified,2150000.0,senior,data_engineering,2025-12-24
+5577459017,Azure Data Engineer,Deqode,Pune,850000.0,mid,data_engineering,2026-01-10
+5787154483,Snowflake Data Engineer,Topcoder,Delhi NCR,,mid,data_engineering,2026-07-04
+5850375372,GCP Data Engineer!,TechnoGen,Hyderabad,,mid,data_engineering,2026-08-21
+5825095271,Sr. Data Engineer,Numerator,Unspecified,,senior,data_engineering,2026-08-02
+3029274175,Senior Data Engineer,CoStrategix Technologies,Bengaluru,1900000.0,senior,data_engineering,2022-04-06
+5365281422,Sr. Data Engineer,A Full Service Digital Commerce Agency,Ahmedabad,,senior,data_engineering,2025-08-23
+5879546527,GCP Data Engineer,infomaticscorp,Unspecified,2150000.0,mid,data_engineering,2026-09-11
+3812502540,Big Data Engineer,SOT-Science of talent Acquisition consulting services Pvt Ltd,Hyderabad,1850000.0,mid,data_engineering,2023-01-01
+5902720831,AWS Data Engineer,Gravity Engineering Services Pvt Ltd,Bengaluru,2050000.0,mid,data_engineering,2026-09-29
+5903325787,AWS Data Engineer,Infosys Limited,Bengaluru,,mid,data_engineering,2026-09-30
+5366084438,Lead Data Engineer,r3 Consultant,Jaipur,4250000.0,senior,data_engineering,2025-08-24
+5859754451,Data Engineer - Manager,PricewaterhouseCoopers,Unspecified,,senior,data_engineering,2026-08-28
+5885975286,"Data Engineer, Senior",Blackbaud India,Hyderabad,,senior,data_engineering,2026-09-16
+5498359804,Azure Data Engineer,Deqode,Pune,1400000.0,mid,data_engineering,2025-11-16
+5902358456,Senior Data Engineer,Kairos Technologies Private Limited,Pune,,senior,data_engineering,2026-09-29
+5856961150,Salesforce Data Engineer,First Advantage,Unspecified,,mid,data_engineering,2026-08-26
+5784274517,Data Engineer with Salesforce,First Advantage,Unspecified,,mid,data_engineering,2026-07-02
+5859124453,Senior Data Engineer,SailPoint Technologies,Pune,,senior,data_engineering,2026-08-28
+5866126673,Senior Data Engineer,MP Dominic & Co,Thiruvananthapuram,,senior,data_engineering,2026-09-02
+5902916186,Senior Data Engineer,Okta,Bengaluru,,senior,data_engineering,2026-09-29
+5239552753,Python Data Engineer,NeoGenCode Technologies Pvt Ltd,Bengaluru,1700000.0,mid,data_engineering,2025-06-08
+5519841643,Azure Data Engineer,Deqode,Unspecified,1750000.0,mid,data_engineering,2025-11-30
+5084449366,Senior Data Engineer,Talent Pro,Bengaluru,2250000.0,senior,data_engineering,2025-03-10
+5677793295,Azure Data Engineer,Deqode,Pune,700000.0,mid,data_engineering,2026-03-25
+5713869966,Senior Data Engineer,Konrad,Delhi NCR,,senior,data_engineering,2026-04-30
+5890812759,GCP Data Engineer,Capco,Pune,,mid,data_engineering,2026-09-19
+5663141533,Senior Data Engineer,ThermoFisher Scientific,Hyderabad,,senior,data_engineering,2026-03-13
+5467028059,Lead Data Engineer,Hunarstreet Technologies Pvt Ltd,Unspecified,3250000.0,senior,data_engineering,2025-10-28
+5174837200,Lead Data Engineer,Innominds,Hyderabad,2800000.0,senior,data_engineering,2025-05-02
+5745898627,Azure Data Engineer,EXL,Unspecified,,mid,data_engineering,2026-05-31
+5832085034,Azure Data Engineer,EXL,Pune,,mid,data_engineering,2026-08-07
+5903325968,AI Data Engineer,Infosys Limited,Bengaluru,,mid,data_science,2026-09-30
+5903325741,Azure Data Engineer,Artech Infosystems Private Limited,Delhi NCR,,mid,data_engineering,2026-09-30
+5889522356,Data Engineer ( Contract),statsby.ai,Pune,,mid,data_engineering,2026-09-18
+5769755811,Senior Data Engineer,Avathon,Bengaluru,,senior,data_engineering,2026-06-20
+5899549566,Senior Data Engineer,Statistics & Data Corporation ,Hyderabad,,senior,data_engineering,2026-09-26
+5899555690,Senior Data Engineer,QuaXigma IT solutions Private Limited,Unspecified,,senior,data_engineering,2026-09-26
+5895065864,Cloud Data Engineer,Radial Inc.,Chennai,,mid,data_engineering,2026-09-23
+5708033017,AI Data Engineer,Bell Techlogix,Hyderabad,1750000.0,mid,data_science,2026-04-23
+3980808041,AWS Data Engineer,Mactores Cognition Private Limited,Unspecified,2300000.0,mid,data_engineering,2023-03-16
+5907466540,Director Data Engineering,Mastercard,Hyderabad,,senior,data_engineering,2026-10-02
+5744382103,AWS Data Engineer,TalentWeave,Pune,1300000.0,mid,data_engineering,2026-05-29
+5854877550,Azure Data Engineer,Protiviti Consulting Private Limited,Bengaluru,,mid,data_engineering,2026-08-25
+5818242162,GCP Data Engineer,NAM Info Pvt Ltd,Bengaluru,400000.0,mid,data_engineering,2026-07-28
+5861795998,Senior Data Engineer,Vantageiq Technologies Opc,Bengaluru,,senior,data_engineering,2026-08-30
+5884512168,Sr. Data Engineer,Numerator,Vadodara,,senior,data_engineering,2026-09-15
+5911377560,Azure Data Engineer,EXL,Hyderabad,,mid,data_engineering,2026-10-04
+5211779080,Python Data Engineer,Wissen Technology,Mumbai,,mid,data_engineering,2025-05-23
+5889556504,Data Engineering Manager,Novartis,Unspecified,,senior,data_engineering,2026-09-18
+5891924439,Senior Data Engineer,MathCo India,Bengaluru,,senior,data_engineering,2026-09-20
+5784961032,Lead Data Engineer,Inspire Brands Hyderabad Support Center,Hyderabad,,senior,data_engineering,2026-07-02
+5824131072,Senior Data Engineer,Azira,Bengaluru,,senior,data_engineering,2026-08-01
+5872126619,Senior Data Engineer,OEC,Chennai,,senior,data_engineering,2026-09-05
+5866584405,Senior Data Engineer,ADM,Bengaluru,,senior,data_engineering,2026-09-02
+5881105838,Data Engineer - Senior,Cummins,Pune,,senior,data_engineering,2026-09-12
+5882275027,Data Engineer - Senior,Cummins Inc.,Pune,,senior,data_engineering,2026-09-13
+5075849748,Sr. Data Engineer,Koantek,Unspecified,2000000.0,senior,data_engineering,2025-03-05
+2393665276,Sr Data Engineer,Technogen India PvtLtd,Bengaluru,1750000.0,senior,data_engineering,2021-08-19
+5777486817,Senior Data Engineer,Recro,Bengaluru,2500000.0,senior,data_engineering,2026-06-26
+5898470113,Staff - Data Engineer,Bread Financial,Bengaluru,,mid,data_engineering,2026-09-25
+5294954265,GCP Data Engineer,Egen Solutions,Hyderabad,1850000.0,mid,data_engineering,2025-07-10
+2890608960,Azure Data Engineer,Fragma Data Systems,Bengaluru,2200000.0,mid,data_engineering,2022-02-12
+5890222681,Snowflake Data Engineer,Boolean Staffing Recruitment Solutions Pvt Ltd,Unspecified,2750000.0,mid,data_engineering,2026-09-19
+5266516626,Senior Data Engineer,Wissen Technology,Bengaluru,,senior,data_engineering,2025-06-25
+5895389448,Lead Data Engineer,Chubb,Unspecified,,senior,data_engineering,2026-09-23
+5910240400,Azure Data Engineer,CGI,Unspecified,,mid,data_engineering,2026-10-03
+5904052250,Staff Data Engineer,Warner Bros. Discovery,Unspecified,,mid,data_engineering,2026-09-30
+5907470436,Staff Data Engineer,Warner Bros. Discovery,Bengaluru,,mid,data_engineering,2026-10-02
+5202607067,AWS Data Engineer,Deqode,Pune,1000000.0,mid,data_engineering,2025-05-17
+5850890446,Senior Data Engineering,ProofofSkill,Hyderabad,1750000.0,senior,data_engineering,2026-08-21
+5863636311,Azure Data Engineer,INTELLICS GLOBAL SERVICES PRIVATE LIMITED,Pune,,mid,data_engineering,2026-09-01
+5870737024,Lead Data Engineer,Bristlecone,Delhi NCR,,senior,data_engineering,2026-09-04
+5878636056,Senior Data Engineer,NewVison,Unspecified,600000.0,senior,data_engineering,2026-09-10
+5890222683,Databricks Data Engineer,Boolean Staffing Recruitment Solutions Pvt Ltd,Unspecified,2750000.0,mid,data_engineering,2026-09-19
+5868110001,Azure Data Engineer,Gallagher Service Center LLP,Mumbai,,mid,data_engineering,2026-09-03
+5833589637,Data Engineering Manager,Collinson Loyalty & Benefits,Mumbai,,senior,data_engineering,2026-08-08
+5855469120,Data Engineer - Manager,PricewaterhouseCoopers,Unspecified,,senior,data_engineering,2026-08-25
+5837806080,SR. DATA ENGINEER,TE Connectivity,Bengaluru,,senior,data_engineering,2026-08-12
+5905964093,Data Engineer II,NPS Prism,Delhi NCR,,mid,data_engineering,2026-10-01
+5314053960,Azure Data Engineer,Deqode,Bengaluru,1750000.0,mid,data_engineering,2025-07-21
+4267640073,Sr. Data Engineer,NutaNXT Technologies,Pune,2150000.0,senior,data_engineering,2023-08-19
+5853722653,Senior Data Engineer,Wells Fargo Bank,Unspecified,,senior,data_engineering,2026-08-23
+5908392975,"SQL Developer, AS",Deutsche Bank,Unspecified,,mid,other,2026-10-02
+5912357585,Oracle SQL developer,Bosch Group,Bengaluru,,mid,other,2026-10-05
+5909807232,PL/SQL Developer,Gravity Engineering Services Pvt Ltd,Delhi NCR,1500000.0,mid,other,2026-10-03
+5834750873,PL/SQL Developer,Ipd Placements,Other,420000.0,mid,other,2026-08-09
+5909548075,SQL Developer - INTL India,Insight Global,Unspecified,,mid,other,2026-10-03
+5908335993,SQL Database Developer - Remote,Med Metrix,Chennai,,mid,other,2026-10-02
+5912846940,INVENT_DFRC_DATASUB_230926,Horigine Consulting Pvt. Ltd,Unspecified,,mid,other,2026-10-05
+5899844241,"HCM Extracts, HDL and Reporting - Associate",PricewaterhouseCoopers,Unspecified,,junior,analyst,2026-09-26
+5912623357,Lead Data Engineer,Accenture,Unspecified,,senior,data_engineering,2026-10-05
+5904051407,Data Engineer - AI & Analytics,Southwest Airlines,Unspecified,,mid,data_science,2026-09-30
+5909414393,Data Lead,IFS,Kolkata,,senior,other,2026-10-03
+5912386737,Test Automation Engineer (Playwright),Infosys,Nagpur,,mid,other,2026-10-05
+5727197400,Bench Sales Recruiter,Kaapro Management Solutions,Ahmedabad,300000.0,mid,other,2026-05-13
+5912848889,Dot Net Developer,MYCLOUDPULSE TECHNOLOGY PVT LTD,Jaipur,,mid,other,2026-10-06
+5911380194,Senior Full Stack Developer,Save,Hyderabad,3750000.0,senior,other,2026-10-04
+5907833628,Senior C#.Net & Python Developer,Caxton Associates,Bengaluru,,senior,other,2026-10-02
+5789402935,"Technical Consultant INT-BY WMS,Java,SQL",Blue Yonder,Bengaluru,,mid,other,2026-07-06
+5912051749,Test Automation Engineer (Playwright),Infosys Limited,Nagpur,,mid,other,2026-10-05
+5910924646,Snowflake Developer,Infosys Limited,Delhi NCR,,mid,other,2026-10-04
+5912848913,Python Backend Developer,Wissen Technology,Unspecified,,mid,other,2026-10-06
+5852583370,Custom Software Engineering Lead,Accenture,Unspecified,,senior,other,2026-08-22
+5912385909,"Principal Engineer, Digital Innovation",Celanese,Hyderabad,,senior,other,2026-10-05
+5797317006,"Sr Technical Architect- Java, PLSQL, WMS",Blue Yonder,Unspecified,,senior,other,2026-07-12
+5911187273,Azure databricks  Pyspark,Cognizant,Pune,,mid,other,2026-10-04
+5909548081,Senior .NET Engineer - Angular/Azure,Insight Global,Hyderabad,,senior,other,2026-10-03
+5908388389,Expert Database Administrator,EquiLend,Bengaluru,,mid,other,2026-10-02
+5908372063,Expert Database Administrator,EquiLend,Chandigarh,,mid,other,2026-10-02
+5907821022,Tableau Developer,Gravity Engineering Services Pvt Ltd,Delhi NCR,1300000.0,mid,bi,2026-10-02
+5907846931,Gen AI Engineer,VY SYSTEMS PRIVATE LIMITED,Hyderabad,1150000.0,mid,data_science,2026-10-02
+5911685228,Assistant Manager,EXL,Bengaluru,,senior,other,2026-10-04
+5913461481,Senior Engineer Software,Albertsons Companies India,Bengaluru,,senior,other,2026-10-06
+5908324103,Test Automation Engineer- Networking background is a must,Jobgether,Unspecified,,mid,other,2026-10-02
+5909548531,"Java, Spring boot, Rest API, Multithreading, AWS, Jenkins, Docker, Kubernetes, GIT/Stash, SQL - Deve","NTT America, Inc.",Chennai,,mid,other,2026-10-03
+5911674277,Research Associate / Senior Research Associate (Weather Initiative),Precision Development,Delhi NCR,,senior,other,2026-10-04
+5913249090,Data Analytics - Manager,Spaulding Ridge,Bengaluru,,senior,analyst,2026-10-06
+5909226044,Backend Developer — JOB-1003,Medico Workforce,Unspecified,228000.0,mid,other,2026-10-03
+5202607069,ETL Developer,Deqode,Pune,750000.0,mid,data_engineering,2025-05-17
+2406632815,Angular Developer,Wallero technologies,Hyderabad,2000000.0,mid,other,2021-08-25
+5909548537,Snowflake Data Engineer,"NTT America, Inc.",Bengaluru,,mid,data_engineering,2026-10-03
+5910223290,"Senior Manager, Data Engineering & DataOps",Kraft Heinz,Unspecified,,senior,data_engineering,2026-10-03
+5911665772,Software Engineer II - Java Full Stack,First Citizens India,Unspecified,,mid,other,2026-10-04
+5909548108,INTL - Full Stack .Net Developer,Insight Global,Bengaluru,,mid,other,2026-10-03
+1155089940,SQL Server Database Architect â Location Mumbai â,Extrapreneurs India,Mumbai,950000.0,senior,other,2019-05-17
+4947453098,Senior .Net Developer,Nichebit Softech Pvt Ltd,Chennai,900000.0,senior,other,2024-11-22
+5897699412,Backdoor@Software@Hyderabad,MAK,Hyderabad,,mid,other,2026-09-25
+2162707524,dotNet Developer,CareerBabu,Unspecified,350000.0,mid,other,2021-05-05
+5850375387,Appian Developer,TechnoGen,Hyderabad,,mid,other,2026-08-21
+5907846972,MicroStrategy Developer,Cloud Sara Technologies,Bengaluru,1200000.0,mid,other,2026-10-02
+5688346556,SDE2 (Fullstack),Snabbit,Bengaluru,3500000.0,mid,other,2026-04-03
+4321223513,Senior Dotnet Developer (freelance),Staffbee Solutions INC,Unspecified,125000.0,senior,other,2023-09-19
+5588286070,Sr Developer - Java API  Spring - Chennai,Photon Group,Unspecified,,senior,other,2026-01-17
+5861794303,Senior Java Developer,WeblineIndia,Ahmedabad,,senior,other,2026-08-30
+5871274968,Sr Product Developer,Epicor,Bengaluru,,senior,other,2026-09-05
+5120359949,Sr Developer - Java API - Chennai,Photon Group,Unspecified,,senior,other,2025-04-01
+5850371213,Senior INFA Integration Consultant,Apps Associates  Private Limited,Hyderabad,,senior,other,2026-08-21
+5899555547,.Net Developer,VY SYSTEMS PRIVATE LIMITED,Bengaluru,600000.0,mid,other,2026-09-26
+2965122024,Java Developer,Altimetrik,Bengaluru,1650000.0,mid,other,2022-03-12
+2320381171,Java Developer,Dashmesh Group,Unspecified,1500000.0,mid,other,2021-07-15
+5876798305,.NET Software Developer (3 to 5 years),Systel Inc,Mumbai,,mid,other,2026-09-09
+5893831465,Associate - Technical Consultant,Embee Software,Kolkata,,junior,other,2026-09-22
+4808460546,Dot Net Developer,Bloom Consulting Services,Nagpur,350000.0,mid,other,2024-08-03
+2809248180,dotNet Developer,Myna Solutions,Hyderabad,1500000.0,mid,other,2022-01-13
+5788471594,Databricks Developer,EXL,Unspecified,,mid,other,2026-07-05
+5784934131,Oracle ERP Report Developer Consultant,r3 Consultant,Pune,250000.0,mid,other,2026-07-02
+3081711018,Spotfire Developer,Response Informatics,Bengaluru,2000000.0,mid,other,2022-04-27
+1171506589,Android Developer,Duplex Technologies Services,Unspecified,300000.0,mid,other,2019-06-05
+2782428335,Sr. Database Engineer,Jobdost,Unspecified,1500000.0,senior,other,2022-01-02
+4344578115,Sr. Data Base Engineer,Jobdost,Pune,1500000.0,senior,other,2023-10-02
+2605402098,Java Backend Developer,Buaut Tech,Pune,1300000.0,mid,other,2021-11-03
+5691814226,UI Developer,YuktaMedia,Pune,900000.0,mid,other,2026-04-07
+5624582709,Tech Lead - Java API - Chennai,Photon Group,Unspecified,,senior,other,2026-02-12
+5649491277,Azure API Management,CloudAngle,Hyderabad,2500000.0,mid,other,2026-03-01
+4010807048,Project Manager - Engineering Development,Praveza Consultancy Private Limited,Mumbai,,senior,other,2023-03-31
+5879144637,Dot Net Programmers,Geosys IT Solutions,Thiruvananthapuram,,mid,other,2026-09-11
+2677620303,Java Developer,Mobile Programming LLC,Bengaluru,1200000.0,mid,other,2021-11-25
+5453280874,Mean stack with AWS,TRINITY,Chennai,1850000.0,mid,other,2025-10-18
+4538237231,Dot Net developer,Code Vyasa,Unspecified,1000000.0,mid,other,2024-01-23
+5786645827,Java Full Stack Developer,Cglia Solutions LLP,Hyderabad,550000.0,mid,other,2026-07-03
+5850376583,Senior Full Stack Developer,iLink Digital,Chennai,,senior,other,2026-08-21
+4801578565,Java Developer - Chennai,Photon Group,Chennai,,mid,other,2024-07-31
+4344577955,Java Developer,Jobdost,Bengaluru,1100000.0,mid,other,2023-10-02
+1633527989,Backend Engineer,Xpheno,Hyderabad,1700000.0,mid,other,2020-08-08
+2605401345,Siebel Developer,Buaut Tech,Mumbai,1200000.0,mid,other,2021-11-03
+5847672055,.net Full Stack Developer (4-5 years),Orion India Systems Private Limited,Unspecified,,mid,other,2026-08-19
+5850338817,Databricks Lead Mangalore,Mresult Technologies,Other,,senior,other,2026-08-21
+5451110381,Informatica Cloud Developer / Migration Specialist,NeoGenCode Technologies Pvt Ltd,Unspecified,1150000.0,mid,other,2025-10-17
+3277686277,Technical Consultant,Flamboyant Technologies,Delhi NCR,550000.0,mid,other,2022-07-01
+1308683809,Product Analyst,Collegedunia.com,Delhi NCR,650000.0,mid,analyst,2019-10-23
+5827200337,Software Engineering Qa Tamil Nadu,Kyndryl,Unspecified,,mid,other,2026-08-04
+5850371339,Java Full stack Developer,Stacknexus Technologies Private Limited,Chennai,,mid,other,2026-08-21
+5859124990,Principal Associate - Senior Software Engineer,Capital One,Bengaluru,,senior,other,2026-08-28
+5909550142,Data Analytics,U.S. Bank,Chennai,,mid,analyst,2026-10-03
+5908409061,Data Analytics Engineer,Applied Information Sciences,Unspecified,,mid,analyst,2026-10-02
+5768524249,Data Analytics Trainees,Squirrel Softech Services,Ahmedabad,,mid,analyst,2026-06-19
+5910860635,Data Analytics Intern,Greif Packaging LLC,Chennai,,junior,analyst,2026-10-04
+5911676632,Data Analytics Intern,Greif,Unspecified,,junior,analyst,2026-10-04
+5909285863,Data Analytics Engineer,Aditi Tech Consulting Private Limited,Bengaluru,,mid,analyst,2026-10-03
+5912219052,Manager Data Analytics,UnitedHealth Group,Hyderabad,,senior,analyst,2026-10-05
+5885697052,Associate Data Analytics,Amgen,Hyderabad,,junior,analyst,2026-09-16
+5911844172,Head Corporate Data & Analytics,Syngenta Group,Pune,,senior,analyst,2026-10-05
+5912386391,Head Corporate Data & Analytics,Syngenta Group,Pune,,senior,analyst,2026-10-05
+5895401508,Senior Data Analytics Engineer,Commvault,Bengaluru,,senior,analyst,2026-09-23
+5894829195,Senior Data Analytics Engineer,Commvault,Bengaluru,,senior,analyst,2026-09-23
+5910223047,Data Analytics Engineer III,Experity India,Bengaluru,,mid,analyst,2026-10-03
+5908360648,Senior Data Analytics Engineer,MariaDB,Unspecified,,senior,analyst,2026-10-02
+5911683153,Lead Data Analytics Engineer,Collinson Loyalty & Benefits,Mumbai,,senior,analyst,2026-10-04
+5908324371,Business Graduate Associate (Data & Analytics),London Stock Exchange Group,Unspecified,,junior,analyst,2026-10-02
+5910216018,Finance Dir - Reporting & Data Analytics,Hewlett Packard Enterprise,Unspecified,529000.0,mid,analyst,2026-10-03
+5910505904,Intern - Data Analytics - Radar and Flight,Red Balloon Aerospace,Other,,junior,analyst,2026-10-04
+5904040967,"Data Analytics Sales Specialist Manager, Google Cloud",Google,Mumbai,,senior,analyst,2026-09-30
+5911187441,"Agentic Data Analytics Sales Specialist, Google Cloud",Google,Bengaluru,,mid,analyst,2026-10-04
+5910198698,"Agentic Data Analytics Sales Specialist, Google Cloud",Google,Bengaluru,,mid,analyst,2026-10-03
+5912848942,Data and Analytics Lead,Opella,Hyderabad,,senior,analyst,2026-10-06
+5908315799,"DWS AFC & Compliance Team (Data Analytics & Monitoring), AVP",Deutsche Bank,Unspecified,,mid,analyst,2026-10-02
+5907448031,"Senior Consultant in Data Analytics, Datasphere & AI Domain - Bangalore/Gurgaon",SAP,Delhi NCR,,senior,data_science,2026-10-02
+5909254423,Deputy Director - BISO Information Security - Data Analytics & Artificial Intelligence,PepsiCo,Hyderabad,,senior,analyst,2026-10-03
+5908340320,Data Science II-SUPPORT SERVICES-Data & Analytics - In House Engineering,Kotak Mahindra Bank,Bengaluru,,mid,data_science,2026-10-02
+5908609990,"Assistant Director,Data and Analytics",HSBC,Kolkata,,senior,analyst,2026-10-03
+5912848939,"Associate Director, Data and Analytics",HSBC,Hyderabad,,senior,analyst,2026-10-06
+5911675953,Process Manager - Enterprise Data and Analytics,First Citizens India,Unspecified,,senior,analyst,2026-10-04
+5911647997,"Data Engineer, People Analytics",Zoom,Unspecified,,mid,data_engineering,2026-10-04
+5882272374,"Data Engineer, Flex Analytics",Amazon,Hyderabad,,mid,data_engineering,2026-09-13
+5881163647,"Data Engineer, Flex Analytics",Amazon,Unspecified,,mid,data_engineering,2026-09-12
+5908331483,"Data Scientist II, Marketplace Analytics",Expedia,Bengaluru,,mid,data_science,2026-10-02
+5908396656,Data Scientist I - Supply chain Analytics,Caterpillar,Bengaluru,,mid,data_science,2026-10-02
+5913213926,Palantir Engineer_2 years,Zorba Consulting India,Unspecified,1250000.0,mid,other,2026-10-06
+5910197286,Scrum Master,Synechron,Unspecified,,mid,other,2026-10-03
+5909414404,Senior AI developer and Data Visualization exper,Bosch Group,Coimbatore,,senior,data_science,2026-10-03
+5859121432,Project Manager - Government Projects,Mastermind Network,Other,,senior,other,2026-08-28
+5850375354,Data Engineer Mastery,TechnoGen,Hyderabad,,mid,data_engineering,2026-08-21
+4821459970,Senior Manager,PricewaterhouseCoopers,Unspecified,,senior,other,2024-08-12
+5776769448,Software Engineering Advisor - HIH - Evernorth,Cigna Group,Hyderabad,,mid,other,2026-06-26
+5887877041,Software Engineering Advisor - HIH - Evernorth,Cigna Group,Hyderabad,,mid,other,2026-09-17
+5758205764,BCA/MCA Internship,TechCiti Software Consulting Pvt Ltd,Unspecified,,junior,other,2026-06-10
+5758205763,BE/BTech Internship,TechCiti Software Consulting Pvt Ltd,Unspecified,,junior,other,2026-06-10
+2724976620,Data Platform Operations,Talent folks,Unspecified,900000.0,mid,other,2021-12-10
+5902168642,Data Engineer-Master Data Management,IBM,Hyderabad,,mid,data_engineering,2026-09-29
+5488123337,Senior Manager,EXL,Delhi NCR,,senior,other,2025-11-09
+2160609545,Growth Marketing Manager,ConsultBae,Delhi NCR,1400000.0,senior,other,2021-05-04
+5746690519,SHE Manager I,Ecolab,Unspecified,,senior,other,2026-06-01
+5894073018,Principal Operational Excellence Analyst,Clarivate,Chennai,,senior,analyst,2026-09-22
+5899073093,GCP Solution Architect role,LTM,Bengaluru,,senior,other,2026-09-26
+5905881438,Solution Analyst III,JPMorganChase,Bengaluru,,mid,analyst,2026-10-01
+1155088983,Big Data/Java Programming,Dailyhunt,Bengaluru,600000.0,mid,data_engineering,2019-05-17
+5773362749,Data Engineer â Databricks,NeoGenCode Technologies Pvt Ltd,Delhi NCR,900000.0,mid,data_engineering,2026-06-23
+5850370971,Project Manager\/Lead,Trigyn Technologies Limited,Delhi NCR,,senior,other,2026-08-21
+5786030310,Account Manager - Business Development (Consumer & Retail),Lattice Technologies,Mumbai,,senior,other,2026-07-03
+3053605379,IBM MDM,Milestone Hr Consultancy,Bengaluru,1700000.0,mid,other,2022-04-15
+3281983828,Backtesting pro,RITES,Pune,425000.0,mid,other,2022-07-02
+5868123352,Financial Analyst Investor Relations,Gallagher Service Center LLP,Delhi NCR,,mid,analyst,2026-09-03
+5453611725,3563492-Lead Assistant Manager,EXL,Unspecified,,senior,other,2025-10-18
+5910924648,Data Modeler,Infosys Limited,Bengaluru,,mid,other,2026-10-04
+5904965738,Data Engineer-Master Data Management,IBM,Hyderabad,,mid,data_engineering,2026-10-01
+4821459607,Associate,PricewaterhouseCoopers,Unspecified,,junior,other,2024-08-12
+5912848806,Controls Automation & Analytics Specialist,Opella,Hyderabad,,mid,analyst,2026-10-06
+5850374907,Site Manager,Tata Consumer Products,Kochi,,senior,other,2026-08-21
+5890241570,Talent Analytics & Insights Business Partner,"NTT America, Inc.",Bengaluru,,mid,analyst,2026-09-19
+5872131800,Data Platform & Governance Manager (Individual Contributor),TJX,Unspecified,,senior,other,2026-09-05
+5830607006,"Director Data Products, Platform Innovation & Adoption",Novartis,Unspecified,,senior,other,2026-08-06
+5864813422,Wholesale Credit Risk Forecasting Associate,JPMorganChase,Mumbai,,junior,other,2026-09-01
+5908610152,Informatics/IICS_Developer,Infosys,Hyderabad,,mid,other,2026-10-03
+5730765296,Supply Chain Analyst,Cummins,Pune,,mid,analyst,2026-05-16
+5902912193,IN_Associate_– Data Engineer _GCC_Advisory_Hyderabad,PricewaterhouseCoopers,Unspecified,,mid,data_engineering,2026-09-29
+5906993733,IT&Data Chapter Manager Data Engineering,Infosys Limited,Hyderabad,,senior,data_engineering,2026-10-02
+5858359626,Team Lead - Surprise Gold Loan Audit,Financial Services,Unspecified,,senior,other,2026-08-27
+5858383293,Team Lead - Offsite Gold Loan Audit,Financial Services,Unspecified,,senior,other,2026-08-27
+5719725284,"Director, Full Stack Software Engineering & AI",Clarivate,Unspecified,,senior,data_science,2026-05-06
+5882729169,Senior Consultant - Asset Management (Data Consultant),WSP,Bengaluru,,senior,other,2026-09-13
+5675800764,"Lead - UX Research / Analytics (Customer Experience,App/Web To",Talent Pro,Pune,3750000.0,senior,analyst,2026-03-23
+5904539541,Kafka,Infosys Limited,Hyderabad,,mid,other,2026-10-01
+2427499970,Sr Product Analyst,Unnati,Mumbai,1100000.0,senior,analyst,2021-09-03
+5821217082,Head of Delivery,Billigence,Bengaluru,,senior,other,2026-07-30
+5872119667,"Senior Economist, Management Consultancy",WSP,Delhi NCR,,senior,other,2026-09-05
+5895402708,Cost Management Engineer,Caterpillar,Chennai,,mid,other,2026-09-23
+5856501438,Analytics Leader - Fully Remote,Mercor,Mumbai,,mid,analyst,2026-08-26
+5847894175,Senior Data Scientist - F500 Expert,Mercor,Mumbai,,senior,data_science,2026-08-19
+5633150834,"Manager / Associate Director, MDM- Remote (India)","KMK Consulting, Inc.",Vadodara,,senior,other,2026-02-17
+5857743278,Business Controller,Domnic Lewis Private Limited,Bengaluru,,mid,other,2026-08-27
+5848391437,Snowflake  DBT GCP - Senior Associate,PricewaterhouseCoopers,Unspecified,,senior,other,2026-08-19
+5885446935,Inside Sales Manager Full Time,Hoora,Nagpur,,senior,other,2026-09-16
+5856197361,Sustainability Consulting,Infosys Limited,Bengaluru,,mid,other,2026-08-26
+5869826055,Sr Auditor,Heinz,Ahmedabad,,senior,other,2026-09-04
+5727277932,Product Manager - CA Digital Initiatives - Mumbai,Acura Solution,Mumbai,600000.0,senior,other,2026-05-13
+5691816333,mysql developer,YuktaMedia,Pune,350000.0,mid,other,2026-04-07
+1294092280,Product Manager,Ifchange.inc,Unspecified,3000000.0,senior,other,2019-10-11
+5634591577,"Senior Associate, Incentive Compensation","KMK Consulting, Inc.",Vadodara,,senior,other,2026-02-18
+5834425897,Data Engineering Specialist - Fully Remote,Mercor,Mumbai,,mid,data_engineering,2026-08-09
+5839871092,Data Engineer - AI Model Evaluation,Mercor,Mumbai,,mid,data_science,2026-08-13
+5871641936,Data Engineer - Fully Remote,Mercor,Mumbai,,mid,data_engineering,2026-09-05
+5898468408,Product Owner - Data Assets Platform,Amgen,Hyderabad,,mid,other,2026-09-25
+5900354495,Product Owner - Data Assets Platform,Amgen,Hyderabad,,mid,other,2026-09-27
+5912419026,SAP BI / Datasphere / SAP BDC Developer,Ampleopp Solutions,Hyderabad,1500000.0,mid,bi,2026-10-05
+4686705222,Trainer,,Bengaluru,,mid,other,2024-05-10
+5869814820,Data Governance Consultant - Collibra,EXL,Bengaluru,,mid,other,2026-09-04
+5872591288,Enterprise Architect,Infosys Limited,Bengaluru,,senior,other,2026-09-06
+5879139684,DevOps Engineer (SnowflakeAWS),GlobalData Publications Inc,Hyderabad,,mid,other,2026-09-11
+5896122743,Devops Engineer,Infosys Limited,Bengaluru,,mid,other,2026-09-24
+5885446826,Director Full Stack Software Engineering and AI,Clarivate,Bengaluru,,senior,data_science,2026-09-16
+5849527288,"Manager, Business Intelligence, FTV - Experience",ADCI - Karnataka,Bengaluru,,senior,bi,2026-08-20
+1171508716,D3.js Trainer,Saaragh Technologies Pte Ltd,Bengaluru,1500000.0,mid,other,2019-06-05
+5553911542,Product analyst,HT Media,Unspecified,1000000.0,mid,analyst,2025-12-24
+5503338403,"Analyst, Operational Excellence, India",ReSource Pro,Unspecified,,mid,analyst,2025-11-19
+1171509497,Sales Executive,Insight Heroes,Pune,450000.0,mid,other,2019-06-05
+5761806282,Lead - AI,Adani,Ahmedabad,,senior,data_science,2026-06-13
+4514376624,Manager - Analytics,Qrata,Ahmedabad,2000000.0,senior,analyst,2024-01-07
+5912975186,Marketing Director,Experian,Mumbai,,senior,other,2026-10-06
+5877845348,Mobile Lead,Nihilent,Mumbai,,senior,other,2026-09-10
+5083277795,Senior product manager,Talent Pro,Delhi NCR,2500000.0,senior,other,2025-03-09
+3129682591,AVP Analytics,liquiloans,Mumbai,2250000.0,mid,analyst,2022-05-13
+2867261813,Sr. Database Developer,Venaatics Consulting,Unspecified,,senior,other,2022-02-04
+5707523075,Campaigns & Analytics Manager| Mumbai,CSB Bank,Mumbai,,senior,analyst,2026-04-23
+5850377780,Transport Modeller Strategic Modelling,Systra,Chennai,,mid,other,2026-08-21
+5857744685,"Senior Analyst, SOX Compliance",Altisource,Unspecified,,senior,analyst,2026-08-27
+5903558836,Systems Integration Senior Specialist,"NTT America, Inc.",Hyderabad,,senior,other,2026-09-30
+5727118182,Full stack Developer - Wipro,INK IT Solutions and Consulting,Bengaluru,,mid,other,2026-05-13
+4801575471,Senior Associate,PricewaterhouseCoopers,Unspecified,,senior,other,2024-07-31
+5876949286,Unit Manager-Turbo Cross Sell,IDFC FIRST Bank,Kolkata,,senior,other,2026-09-09
+5842760736,Presales - Bid Management,Cognizant,Delhi NCR,,mid,other,2026-08-15
+5860799642,Presales - Bid Management,Cognizant,Delhi NCR,,mid,other,2026-08-29
+5860799616,Presales - Bid Management,Cognizant,Chennai,,mid,other,2026-08-29
+5842760731,Presales - Bid Management,Cognizant,Bengaluru,,mid,other,2026-08-15
+5732147041,Supply Chain Analyst,Cummins Inc.,Pune,,mid,analyst,2026-05-17
+5782538166,Custom Software Engineer,Accenture,Unspecified,,mid,other,2026-07-01
+5899841502,IN_Senior Associate_QA Automation _GCC_ Advisory_Bangalore,PricewaterhouseCoopers,Unspecified,,mid,other,2026-09-26
+4821476209,Senior Associate,PricewaterhouseCoopers,Unspecified,,senior,other,2024-08-12
+5861217661,"Vice President - Professional Practices, Internal Audit",Mitsubishi UFJ Financial Group,Unspecified,,mid,other,2026-08-29
+5880667276,"AVP - Professional Practices, Internal Audit",MUFG Global Service ,Bengaluru,,mid,other,2026-09-12
+1171507690,Growth Hacker,Affairal,Bengaluru,3100000.0,mid,other,2019-06-05
+4686700601,Digital Marketing Executive,,Indore,,mid,other,2024-05-10
+5904046847,Senior Data Engineer,Coeo,Hyderabad,,senior,data_engineering,2026-09-30
+5901919573,Senior Business Intelligence Developer,Matrix Global,Hyderabad,,senior,bi,2026-09-29
+1155089050,Associate Product Manager,Truebil.com,Mumbai,1500000.0,senior,other,2019-05-17
+5870740255,CX Optimization Lead,EXL,Bengaluru,,senior,other,2026-09-04
+5842826148,Data Science Expert - Fully Remote,Mercor,Mumbai,,mid,data_science,2026-08-15
+5884873804,AI Experts,Mactech Engineers Pvt Ltd,Chennai,387500.0,mid,data_science,2026-09-15
+5833588236,IOT Fleet Monitoring,embIND Embitel Technologies,Unspecified,,mid,other,2026-08-08
+2890608724,Senior Data Engineer,Reed & Willow Talent Advisory Group,Bengaluru,3000000.0,senior,data_engineering,2022-02-12
+4686703485,Digital Marketing Executive,,Delhi NCR,,mid,other,2024-05-10
+5839220100,MIS Analyst,KPMG Assurance and Consulting Services LLP,Delhi NCR,,mid,analyst,2026-08-13
+5900741894,IN-Associate_ Data Science  Gen AI_ GCC_ Advisory_Bangalore,PricewaterhouseCoopers,Unspecified,,mid,data_science,2026-09-27
+5416720070,"Snowflake, DBT",Risk Resources LLP hyd,Other,1550000.0,mid,other,2025-09-27
+5845820406,Remote Data Scientist Quantitative Analysis and Marketing Analytics Specialist,remote zest jobs,Unspecified,,mid,data_science,2026-08-18
+5864601279,Senior Manager - Performance Marketing,Weekday AI,Unspecified,,senior,other,2026-09-01
+5909548126,Azure Platform Architect,Insight Global,Hyderabad,,senior,other,2026-10-03
+4801619212,Associate,PricewaterhouseCoopers,Unspecified,,junior,other,2024-07-31
+5465906147,Reporting and Analytics Manager,Amgen,Hyderabad,,senior,analyst,2025-10-27
+5899842593,IN_Senior Associate_Azure Fabric Engineer_GCC_Advisory_Bangalore,PricewaterhouseCoopers,Unspecified,,mid,other,2026-09-26
+5905881107,IN-Manager_ Apigee Developer_GCC_ Advisory_ Hyderabad,PricewaterhouseCoopers,Unspecified,,mid,other,2026-10-01
+5901252983,IT engineer Data Lakehouse - Tech Lead,ContiTech,Bengaluru,,senior,other,2026-09-28
+3129682567,Android App Developer,Sensight Technologies,Bengaluru,650000.0,mid,other,2022-05-13
+5438416186,Customer Success Management,AnalyticsLiv,Ahmedabad,400000.0,mid,other,2025-10-09
+5857743294,General Manager Industry 4.0,Domnic Lewis Private Limited,Mumbai,,senior,other,2026-08-27
+5842589912,Principle Engineer - Data & AI,Anblicks Solutions,Ahmedabad,,mid,data_science,2026-08-15
+5862272042,Data Migration Lead,Accenture,Unspecified,,senior,other,2026-08-30
+5796107735,Packaged/SaaS App Engineering Lead,Accenture,Unspecified,,senior,other,2026-07-11
+5818418543,Custom Software Engineer,Accenture,Unspecified,,mid,other,2026-07-28
+5376232691,Senior Manager - Patient Data Management,Amgen,Hyderabad,,senior,other,2025-08-31
+5618647619,Telecaller,,Delhi NCR,,mid,other,2026-02-07
+5856970482,Deputy Unit Manager - Compliance,Bajaj Finance,Unspecified,,senior,other,2026-08-26
+5913213969,AWS Data Engineer Lead,Softview Infotech,Chennai,3250000.0,senior,data_engineering,2026-10-06
+5850370903,Software Engineer - SnowFlake(Pool Hire),Yash Technologies Private Limited,Bengaluru,,mid,other,2026-08-21
+5567614925,Business Development Representative,Othor AI,Unspecified,900000.0,mid,other,2026-01-05
+5860533323,Employee Experience Partner,Highradius Technologies Private Limited,Hyderabad,,mid,other,2026-08-29
+5897040453,Senior Analyst,BSR & Co,Delhi NCR,,senior,analyst,2026-09-24
+5908387672,Warranty Analyst,Ford Motor,Unspecified,,mid,analyst,2026-10-02
+5800410743,AI Solution Architect,Johnson Electric Group,Unspecified,,senior,data_science,2026-07-15
+1171509491,Backend Developer,Insight Heroes,Pune,500000.0,mid,other,2019-06-05
+5870449014,Account Executive â Startups & Digital Native Business,comprinno,Bengaluru,1750000.0,mid,other,2026-09-04
+4686702000,Marketing Executive,,Bengaluru,,mid,other,2024-05-10
+5712964135,Aveva PI Software Engineer,Müller`s Solutions,Unspecified,,mid,other,2026-04-29
+5859117412,Looking For Head of Data Governance,Evalueserve.com Private Limited,Delhi NCR,,senior,other,2026-08-28
+5878666844,Specialist IS Business system analyst,Amgen,Hyderabad,,mid,analyst,2026-09-10
+5600694857,Artificial Intelligence and Machine Language Data Science - Remote,Springer Capital,Unspecified,,mid,data_science,2026-01-26
+5771986451,Agentic AI Developer - Manager,PricewaterhouseCoopers,Unspecified,,senior,data_science,2026-06-22
+5861221312,IN-Manager_ SAP BW_ SAP Analytics _Advisory _Hyderabad,PricewaterhouseCoopers,Unspecified,,mid,analyst,2026-08-29
+5636067068,Capital Strategy Analyst - Business Development,Arena Investors I Quaestor Advisors,Unspecified,,mid,analyst,2026-02-19
+5887921858,IN_Senior Associate_ML Ops Lead_GCC_Advisory_Bangalore,PricewaterhouseCoopers,Unspecified,,mid,other,2026-09-17
+5841781549,Staff Cloud FinOps,Weekday AI,Unspecified,,mid,other,2026-08-14
+5880943004,Performance Marketing Manager,Weekday AI,Unspecified,,senior,other,2026-09-12
+5868097426,Business Development,Pibythree,Mumbai,1100000.0,mid,other,2026-09-03
+5823130052,Agile Technical Delivery Lead/ Technical Project Manager,Blumetra,Hyderabad,2250000.0,senior,other,2026-08-01
+5868111791,Lead - Service Delivery,TimesPro,Mumbai,,senior,other,2026-09-03
+5752281057,SAP BODS - Senior Associate,PricewaterhouseCoopers,Unspecified,,senior,other,2026-06-05
+5587468928,Test Data Engineer,Peak Hire Solutions,Delhi NCR,1300000.0,mid,data_engineering,2026-01-16
+5805393403,Lead - Internal Audit,Universal Sompo General Insurance,Unspecified,,senior,other,2026-07-18
+5901703316,OPS - Manager - Claims,PNB MetLife,Unspecified,,senior,other,2026-09-28
+1171509610,Java Developer,Gainsight,Hyderabad,750000.0,mid,other,2019-06-05
+5840369993,IN_Senior Associate_Data Engineering__GCC_ Advisory _Bangalore,PricewaterhouseCoopers,Unspecified,,mid,data_engineering,2026-08-13
+5589719933,Manager,EXL,Unspecified,,senior,other,2026-01-18
+4992020278,Ad Operations Executive,Elixir Holding Inc,Unspecified,700000.0,mid,other,2024-12-30
+5877847641,Program Manager - Cross Sell,Tvs Credit Services Ltd,Chennai,,senior,other,2026-09-10
+4763580810,fresher,emudhra technologies,Bengaluru,300000.0,junior,other,2024-07-03
+3129682575,iOS Mobile App Developer,Sensight Technologies,Bengaluru,800000.0,mid,other,2022-05-13
+4112038958,Technical Project Manager,Neewee,Bengaluru,1650000.0,senior,other,2023-05-22
+3710148602,ASP.NET Developer,Aptita Consulting Partners,Hyderabad,350000.0,mid,other,2022-11-22
+5850377694,Transport Modeller Micro-simulation,Systra,Chennai,,mid,other,2026-08-21
+5861795910,Learning Manager,upGrad,Ahmedabad,,senior,other,2026-08-30
+5879146428,SAP S/4HANA FI,Finprov Business Services,Bengaluru,,mid,other,2026-09-11
+5727272674,Hiring for Leading companies / AL/ML -Senior Developer,Acura Solution,Hyderabad,,senior,data_science,2026-05-13
+5728298636,Lead Risk & Sr Risk Manager-Home Loan-Mumbai-BKC,Acura Solution,Mumbai,600000.0,senior,other,2026-05-14
+2234827727,Big Data Engineer,netmedscom,Chennai,2500000.0,mid,data_engineering,2021-06-07
+5905902241,Application Developer,Accenture,Unspecified,,mid,other,2026-10-01
+5827923360,Azure Databricks - Banking - Senior Manager,PricewaterhouseCoopers,Unspecified,,senior,other,2026-08-04
+5474678545,IN-Senior Associate_ML Engineer_Advisory Corporate_Advisory_Bangalore,PricewaterhouseCoopers,Unspecified,,senior,other,2025-11-01
+5801027870,"Snr Business Analytics Manager, SWOTS [VRMO]",ADCI - BLR 14 SEZ - F07,Bengaluru,,senior,analyst,2026-07-15
+5727280472,EA To Director,RECEX,Kolkata,600000.0,senior,other,2026-05-13
+5861219689,Head Business Excellence / Strategy,RECEX,Kolkata,600000.0,senior,other,2026-08-29
+5908312026,Director IM Digital Technology Lead (Finance),Johnson & Johnson,Unspecified,,senior,other,2026-10-02
+5907469605,Director IM Digital Technology Lead (Finance),J&J Family of Companies,Unspecified,,senior,other,2026-10-02
+5908404670,Sr Engineer Data Management,Johnson & Johnson,Bengaluru,,senior,other,2026-10-02
+5911188154,Sr Engineer Data Management,J&J Family of Companies,Bengaluru,,senior,other,2026-10-04
+5910860490,Sr Engineer Data Management,Johnson and Johnson,Bengaluru,,senior,other,2026-10-04
+5690843825,Associate_Internal Audit Services_Internal Audit_Advisory_Gurgaon,PricewaterhouseCoopers,Unspecified,,mid,other,2026-04-06
+5901704753,Senior Business Systems Analyst (AI / Data Products),Fresenius Medical Care,Unspecified,,senior,data_science,2026-09-28
+5901762218,Senior Business Systems Analyst (AI / Data Products),Fresenius Medical Care,Bengaluru,,senior,data_science,2026-09-28
+5502670037,Human Resource - Intern,Alpha Design Technologies,Bengaluru,258000.0,junior,other,2025-11-19
+5860534636,"Director, Engineering",Meta Platform,Bengaluru,,senior,other,2026-08-29
+5811283258,Principal Solution Architect,Amgen,Hyderabad,,senior,other,2026-07-23
+5662846114,IN-Senior Associate_Azure Data Enginer_Advisory Corporate_Advisory_Gurgaon,PricewaterhouseCoopers,Unspecified,,senior,other,2026-03-13
+5912357559,Software Developer,Bosch Group,Unspecified,,mid,other,2026-10-05
+5727177698,Software Developer,Real Placements,Ahmedabad,530000.0,mid,other,2026-05-13
+5727279757,Embedded Software Developer,Real Placements,Ahmedabad,500000.0,mid,other,2026-05-13
+5907834062,"Director, Software Development",OneSpan,Unspecified,,senior,other,2026-10-02
+5907833808,Software Development Manager,Amazon,Unspecified,,senior,other,2026-10-02
+5908389254,"Mgr, Software Development",Baxter,Unspecified,,mid,other,2026-10-02
+5911188134,"Manager, Software Development",Fiserv,Pune,,senior,other,2026-10-04
+5910249784,"Manager, Software Development",Fiserv,Unspecified,,senior,other,2026-10-03
+5909546495,Software Development Manager,Autodesk,Bengaluru,,senior,other,2026-10-03
+5908406281,Software Development Manager,Autodesk,Unspecified,,senior,other,2026-10-02
+5910235167,Lead Software Developer,Jobgether,Unspecified,,senior,other,2026-10-03
+5872136679,Software Development Specialist,Nokia Global,Unspecified,,mid,other,2026-09-05
+5913461501,"Manager,Software Development",TMUS Global Solutions,Hyderabad,,senior,other,2026-10-06
+5890241562,Software Development Specialist,"NTT America, Inc.",Bengaluru,,mid,other,2026-09-19
+5910237618,Senior Software Developer,Expedia,Delhi NCR,,senior,other,2026-10-03
+5910205007,Senior Software Developer,Sandvik,Pune,,senior,other,2026-10-03
+5907834174,"Director, Software Development",Blackbaud India,Unspecified,,senior,other,2026-10-02
+5910860496,Software Developer - C++,Siemens Healthineers,Bengaluru,,mid,other,2026-10-04
+5784286558,Senior Software Developer,HDFC ERGO General Insurance,Unspecified,600000.0,senior,other,2026-07-02
+5910203911,Senior Software Developer – Java,Vrinda International,Bengaluru,1700000.0,senior,other,2026-10-03
+5898469378,Software Development Engineer II,Amazon Lab126,Unspecified,,mid,other,2026-09-25
+5890803978,Software Development Engineer II,Amazon,Unspecified,,mid,other,2026-09-19
+5908371385,AI Software Development Engineer,Intel,Bengaluru,,mid,data_science,2026-10-02
+5907459621,Software Development Engineer 2,Amazon,Hyderabad,,mid,other,2026-10-02
+5892230044,Software Developer Hyderabad Freshers,MAK,Hyderabad,,mid,other,2026-09-21
+4917336646,Software Developer (LAMP Stack),Botman Networks Private Limited,Bengaluru,1000000.0,mid,other,2024-10-29
+5876480625,Principal Software Development Engineer,Fortinet Technologies,Pune,,senior,other,2026-09-09
+4951436984,Senior iOS Software Developer,Andesoft Consulting Pvt Ltd,Mumbai,700000.0,senior,other,2024-11-26
+5797363762,"Staff Software Developer, C#",Vena Solutions,Unspecified,600000.0,mid,other,2026-07-12
+5910505966,"Staff Software Developer, C#",Vena Solutions,Indore,,mid,other,2026-10-04
+5890784332,Senior Avionics Software Developer,Airbus,Unspecified,,senior,other,2026-09-19
+5653951620,Software Developer T05-T10,Pluxee,Mumbai,,mid,other,2026-03-05
+5326569248,Software Development Manager 1,SOTI,Kochi,,senior,other,2025-07-29
+5833014613,"Software Development Manager, Transact",Amazon,Bengaluru,,senior,other,2026-08-08
+5832077623,"Software Development Manager, Transact",Amazon,Unspecified,,senior,other,2026-08-07
+5885446733,Java Software Development Intern,RD and X Network,Unspecified,,junior,other,2026-09-16
+1520984783,Software Development Engineer -II,Success Pact,Unspecified,3600000.0,mid,other,2020-04-14
+4386563038,Software Developer - Full Stack,Merito,Bengaluru,750000.0,mid,other,2023-10-22
+5850374434,Salesforce Senior Software Developer,Capita,Pune,,senior,other,2026-08-21
+5892690020,"Manager, Software Development - 149",Infor,Hyderabad,,senior,other,2026-09-21
+5905433782,"Software Development Engineer, CAM",Amazon,Bengaluru,,mid,other,2026-10-01
+5907459662,"Software Development Engineer, CAM",Amazon,Bengaluru,,mid,other,2026-10-02
+5904037732,"Software Development Engineer, CAM",Amazon,Unspecified,,mid,other,2026-09-30
+5335620634,Senior Software Development Engineer,UPS,Chennai,,senior,other,2025-08-03
+5472370015,Senior Software Development Engineer,UPS,Unspecified,,senior,other,2025-10-31
+4992020295,Software Developer - .NET/C#,Codvoai,Unspecified,2500000.0,mid,other,2024-12-30
+2933962260,Software Development Engineer 2,Amazon India,Bengaluru,3750000.0,mid,other,2022-03-01
+5891910968,Software Development Engineer - II,Amazon,Unspecified,,mid,other,2026-09-20
+5846919579,Senior Fullstack Software Developer,OneSpan,Delhi NCR,,senior,other,2026-08-18
+5864811690,Software Developer Creature Performance,DNEG,Bengaluru,,mid,other,2026-09-01
+5693680516,Software Development Lead - R01562910,Brillio,Bengaluru,,senior,other,2026-04-09
+5904372828,Full Stack Software Developer,Happiest Resume,Chennai,1150000.0,mid,other,2026-10-01
+5879141268,Staff Software Development Engineer,Razorpay,Bengaluru,,mid,other,2026-09-11
+5861792896,"Sr Developer, Software Development",transunion,Bengaluru,,senior,other,2026-08-30
+5879551638,Software Development Engineer - II,Amazon,Hyderabad,,mid,other,2026-09-11
+5732146422,Software Development Engineer II,Amazon,Bengaluru,,mid,other,2026-05-17
+5875733484,Software Development Lead - R01570775,Brillio,Bengaluru,,senior,other,2026-09-08
+5878683843,Software Development Engineer II,Amazon,Unspecified,,mid,other,2026-09-10
+4990143401,Software Developer - React.js,Bridgei2i Analytics Solutions,Bengaluru,1150000.0,mid,other,2024-12-27
+2933962264,Software Development Engineer II,Amazon India,Unspecified,1000000.0,mid,other,2022-03-01
+2909912533,Software Development Engineer in Test,Dalet,Chennai,1000000.0,mid,other,2022-02-19
+2224092208,Software Developer (C++ Linux),Semperfi Solution,Bengaluru,1250000.0,mid,other,2021-06-02
+5808698602,Software Development Engineering Specialist,Finserv,Unspecified,,mid,other,2026-07-21
+4601571946,SDM (Software Developer- Manager),Occse professional services pvt ltd,Delhi NCR,1450000.0,senior,other,2024-03-10
+5910860498,Lead Software Developer - C++,Siemens Healthineers,Bengaluru,,senior,other,2026-10-04
+5890797590,Software Development Lead - R01567293,Brillio,Bengaluru,,senior,other,2026-09-19
+5898473994,Software Development Engineer 3,WEX,Bengaluru,,mid,other,2026-09-25
+2299283462,Software Development Engineer- II,Beiing,Bengaluru,1900000.0,mid,other,2021-07-04
+2224092272,Manager Software Development-Mobile,Target HR,Bengaluru,5000000.0,senior,other,2021-06-02
+5893825669,Backend Software Development Engineer,Gravity Engineering Services Pvt Ltd,Bengaluru,2750000.0,mid,other,2026-09-22
+5632801433,Team lead - Software development,VirtuesTech,Hyderabad,2000000.0,senior,other,2026-02-17
+2933962324,Software Development Engineer -1,Unnati,Bengaluru,1250000.0,mid,other,2022-03-01
+5836594048,Software Development Engineer II,ADCI - Karnataka,Bengaluru,,mid,other,2026-08-11
+5867253444,Software Development Lead - R01570192,Brillio,Bengaluru,,senior,other,2026-09-02
+5908363547,Cloud Software Development Engineer,Intel,Bengaluru,,mid,other,2026-10-02
+5335620815,Senior Software Development Engineer,UPS,Chennai,,senior,other,2025-08-03
+5861792883,"Sr Developer, Software Development",transunion,Chennai,,senior,other,2026-08-30
+2138170114,Software Development Engineer(2),The Human Priority,Bengaluru,3250000.0,mid,other,2021-04-24
+5795102688,Embedded Software Developer(Junior),Hirestar job Bank,Pune,1300000.0,junior,other,2026-07-10
+5864851989,Software Development Engineer II,F5 Networks,Unspecified,,mid,other,2026-09-01
+5483432599,Principal Software Development Engineer,Amgen,Hyderabad,,senior,other,2025-11-06
+5727246346,Engineering Manager - Software Development,MM Staffing & Career Consultants,Bengaluru,600000.0,senior,other,2026-05-13
+5878284604,Software Development Engineer II,Amazon,Bengaluru,,mid,other,2026-09-10
+5887905097,Senior Software Developer 1,SOTIIND SOTI India Private,Delhi NCR,,senior,other,2026-09-17
+5895078864,Software Development Engineer II,ADSIPL - Karnataka,Bengaluru,,mid,other,2026-09-23
+5895078867,Software Development Engineer II,ADSIPL - Karnataka,Bengaluru,,mid,other,2026-09-23
+5895078859,Software Development Engineer III,ADSIPL - Karnataka,Bengaluru,,mid,other,2026-09-23
+5903790622,Software Development Engineer-IV,AI Accountant,Bengaluru,,mid,other,2026-09-30
+5904045755,Full Stack Software Developer,Globalli,Unspecified,,mid,other,2026-09-30
+5905900081,Software Development Lead - R01572012,Brillio,Bengaluru,,senior,other,2026-10-01
+5329709510,Software Development Engineer - QA,Meyrahkee,Unspecified,,mid,other,2025-07-31
+5870750676,Software Development Lead - R01570191,Brillio,Bengaluru,,senior,other,2026-09-04
+5870764926,Software Development Engineer in Test,Clearwater Analytics,Mumbai,,mid,other,2026-09-04
+5870759409,Software Development Lead - R01570649,Brillio,Bengaluru,,senior,other,2026-09-04
+5809894596,Software Developer/Engineer 3,Hilti,Unspecified,,mid,other,2026-07-22
+5819873519,Software Development Engineer - 2,SatSure,Bengaluru,,mid,other,2026-07-29
+2195408280,Software Development Engineer in Test,Talent Solutions,Delhi NCR,1600000.0,mid,other,2021-05-19
+5845794189,Software Developer Fresher Hyderabad,MAK,Hyderabad,,junior,other,2026-08-18
+5895780427,Full Stack Software Developer,Happiest Resume,Delhi NCR,800000.0,mid,other,2026-09-24
+1548722689,Senior Software Developer - Fullstack,CutShort Team,Bengaluru,1500000.0,senior,other,2020-05-19
+5240585044,Software Development Engineer - 2,SCRUT Automation,Unspecified,3000000.0,mid,other,2025-06-09
+3187994443,Software Development Engineer (Luxembourg),Amazon,Kochi,,mid,other,2022-06-01
+3187994397,Software Development Engineer (Luxembourg),Amazon,Mumbai,,mid,other,2022-06-01
+3187994590,Software Development Engineer (Luxembourg),Amazon,Chennai,,mid,other,2022-06-01
+3187994387,Software Development Engineer (Luxembourg),Amazon,Bengaluru,,mid,other,2022-06-01
+3187994329,Software Development Engineer (Luxembourg),Amazon,Hyderabad,,mid,other,2022-06-01
+3187994318,Software Development Engineer (Luxembourg),Amazon,Delhi NCR,,mid,other,2022-06-01
+3187994394,Software Development Engineer (Luxembourg),Amazon,Nagpur,,mid,other,2022-06-01
+3187994312,Software Development Engineer (Luxembourg),Amazon,Pune,,mid,other,2022-06-01
+3187994306,Software Development Engineer (Luxembourg),Amazon,Kolkata,,mid,other,2022-06-01
+3187994633,Software Development Engineer (Luxembourg),Amazon,Jaipur,,mid,other,2022-06-01
+5869214599,Senior Principal Software Developer,AspenTech,Unspecified,,senior,other,2026-09-03
+5596019995,Software Development Developer I,Teleperformance,Unspecified,,mid,other,2026-01-23
+5769696029,Software Development Developer II,Teleperformance,Unspecified,,mid,other,2026-06-20
+4415397250,Software Development Engineer (SDE),Dyeus,Unspecified,1250000.0,mid,other,2023-11-05
+5887886418,Sr. Software Development Engineer,Clearwater Analytics,Delhi NCR,,senior,other,2026-09-17
+5908386551,Cloud Software Development Engineer,Intel,Bengaluru,,mid,other,2026-10-02
+2933962246,Software Developer Engineer 2,Amazon India,Bengaluru,900000.0,mid,other,2022-03-01
+2887277903,Senior Software Development Engineer,Mavin RPO Solutions Pvt. Ltd.,Delhi NCR,3400000.0,senior,other,2022-02-11
+2907262895,Software Developer-Ruby on Rails,Mintifi,Mumbai,1000000.0,mid,other,2022-02-18
+5876480590,Staff Software Development Engineer,Fortinet Technologies,Bengaluru,,mid,other,2026-09-09
+5876480583,Software Development Engineer - 3,Fortinet Technologies,Bengaluru,,mid,other,2026-09-09
+5885229641,Full Stack Software Developer,Happiest Resume,Delhi NCR,650000.0,mid,other,2026-09-16
+5893848930,Software Development Engineer II,Amazon Dev Center India - Hyderabad,Hyderabad,,mid,other,2026-09-22
+5823359298,"Software Development Engineer, FBA",Amazon,Bengaluru,,mid,other,2026-08-01
+5889574986,Senior Software Development Engineer,JioStar,Unspecified,,senior,other,2026-09-18
+5910504775,Python Developer,Acme Services Private Limited,Bengaluru,1750000.0,mid,other,2026-10-03
+5909254389,Python Developer,Route Mobile Limited,Unspecified,,mid,other,2026-10-03
+5907846968,Python Developer  GenAI,VY SYSTEMS PRIVATE LIMITED,Bengaluru,750000.0,mid,other,2026-10-02
+5728404027,Python Developer (AIML ),MM Staffing & Career Consultants,Unspecified,650000.0,mid,other,2026-05-14
+5727131563,Python Developers – IT Development,Highrise Solutions LLP,Pune,,mid,other,2026-05-13
+5909546700,Senior Python Developer Vice President,Citigroup,Chennai,,senior,other,2026-10-03
+5907846886,Python Developer and OOPS with Flask framework with AI,Envisioned Strategy and Consulting,Pune,1750000.0,mid,data_science,2026-10-02
+5912389088,Python Backend Developer,Gravity Engineering Services Pvt Ltd,Delhi NCR,1700000.0,mid,other,2026-10-05
+5911187279,Python Fullstack Developer,Cognizant,Hyderabad,,mid,other,2026-10-04
+5912386205,Senior Python Backend Developer,Wissen Technology,Bengaluru,,senior,other,2026-10-05
+5912848950,Graphics Compiler – Python Tool Development,Qualcomm,Unspecified,,mid,other,2026-10-06
+5913245498,Full Stack Developer ( Python),T & M Services Consulting Private Limited,Mumbai,,mid,other,2026-10-06
+5907461525,Python Big Data Developer,Citigroup,Pune,,mid,data_engineering,2026-10-02
+5909414469,EMT3_VM_Python_Gen_AI_Developer,Bosch Group,Unspecified,,mid,other,2026-10-03
+5908331528,IN_Senior Associate_Python AI Developer_GCC_Advisory_Bangalore,PricewaterhouseCoopers,Unspecified,,mid,data_science,2026-10-02
+5909826605,Freelance Full-Stack Developer - Python & JavaScript,Digital,Bengaluru,,mid,other,2026-10-03
+5803870024,Backend Developer (Python) – GenAI & LLM Applications,NavGurukul,Unspecified,,mid,other,2026-07-17
+5887229819,Data Back End Developer - Python with AI,Vontier,Bengaluru,,mid,data_science,2026-09-17
+2539490036,Backend Developer - Python and Django Rest Framework,nymbleUP,Mumbai,1000000.0,mid,other,2021-10-13
+1161626889,Backend Developer - Python/Java/Performance Tuning,Artivatic,Bengaluru,750000.0,mid,other,2019-05-24
+4335273703,Full stack developer(Python with react.js),Softobiz Technologies Private limited,Hyderabad,1200000.0,mid,other,2023-09-27
+5850370914,Python Full Stack Developer(Pool Hire),Yash Technologies Private Limited,Bengaluru,,mid,other,2026-08-21
+5800344603,"Senior Software Engineer, Backend Development (Python)",S&P Global,Unspecified,,senior,other,2026-07-15
+5799165215,"Software Engineering Manager, Backend Development (Python)",OSTTRA,Unspecified,,senior,other,2026-07-14
+5871274954,Principal Product Developer - Python OR Java,Epicor,Bengaluru,,senior,other,2026-09-05
+5907834026,"Gen AI Developer- Python, FAST API",Verisk,Hyderabad,,mid,data_science,2026-10-02
+5727285055,Full Stack Developer – Python/Django  React,Mantras2Success,Bengaluru,800000.0,mid,other,2026-05-13
+5905915379,"Gen AI Developer- Python, FAST API",Verisk Analytics,Hyderabad,,mid,data_science,2026-10-01
+5898466377,IN_Senior Associate_Python Web Developer__Digital Integration_Advisory_Kolkata,PricewaterhouseCoopers,Unspecified,,mid,other,2026-09-25
+5733816572,Freelance Python Team Lead & Developer (Hyderabad-based),PGSN Soft Tech,Hyderabad,1350000.0,senior,other,2026-05-19
+3277685787,Backend Developer-Python (AWS Services &ETL)-Mumbai,Aptita Consulting Partners,Mumbai,1100000.0,mid,data_engineering,2022-07-01
+5454707709,Backend Developer (Python/Django) - Fintech exp preferred,Smarthyrecom,Bengaluru,2500000.0,mid,other,2025-10-19
+3532568710,"Software Engineer III (Golang Development, Python, Java)",F5 Networks,Bengaluru,,mid,other,2022-09-29
+5595180019,Software Developer (Python tier 1 college only,Talent Pro,Unspecified,2850000.0,mid,other,2026-01-22
+5828957753,Senior Backend Developer (Python) - 3-6 years,Trendlyne Technologies,Bengaluru,,senior,other,2026-08-05
+5745370193,Python  Gen AI Developer â FinTech Domain,Wissen Technology,Mumbai,2350000.0,mid,data_science,2026-05-30
+5841415664,Senior Python GEN AI Development Vice President,Citigroup,Pune,,senior,data_science,2026-08-14
+5880669406,Quantitative Technology Developer - Python and C++ - Vice President,Citigroup,Pune,,mid,other,2026-09-12
+5905891377,Lead Software Engineer - Python Full stack developer,JPMorganChase,Hyderabad,,senior,other,2026-10-01
+5727263284,Hiring for Leading companies - Python full stack developer,Acura Solution,Delhi NCR,,mid,other,2026-05-13
+4987812577,Senior Software Development Engineer-Python,Nutrabay,Unspecified,1050000.0,senior,other,2024-12-24
+5905433992,"Developer with Python, Microservice & AWS in Bangalore",Quest Global,Bengaluru,,mid,other,2026-10-01
+5259134031,Java Backend Developer with Python Scripting,Wissen Technology,Mumbai,,mid,other,2025-06-20
+5902739366,java full stack developer with python,VY SYSTEMS PRIVATE LIMITED,Bengaluru,750000.0,mid,other,2026-09-29
+5856197634,AWS Bedrock Developer-Terraform-Python,Infosys Limited,Bengaluru,,mid,other,2026-08-26
+5823128146,Senior Software Developer Backend Python,The Nielsen Company,Kochi,,senior,other,2026-08-01
+5861856088,Python  React Full Stack Developer,Vrinda International,Bengaluru,,mid,other,2026-08-30
+5664858132,PYTHON FULL STACK/ REACTDJANGO DEVELOPER,Altos Technologies,Unspecified,150000.0,mid,other,2026-03-14
+5902720632,Backend Developer III (Python / Go),HyrHub,Bengaluru,1500000.0,mid,other,2026-09-29
+5902720727,Backend Developer I (Python / Go),HyrHub,Bengaluru,450000.0,mid,other,2026-09-29
+4149351967,Backend Developer Intern - Python/Django,JumpingMinds,Unspecified,350000.0,junior,other,2023-06-13
+4843488573,Python/React Full Stack Developer,Navtech,Hyderabad,1100000.0,mid,other,2024-08-29
+5827200202,Software Developer Intern Python Dgo,47cyber Intelligence Private Limited,Bhopal,,junior,other,2026-08-04
+5904031971,Software Developer IV ( Python  Openstack),Rackspace Technology,Unspecified,,mid,other,2026-09-30
