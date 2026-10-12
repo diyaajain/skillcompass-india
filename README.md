@@ -9,9 +9,9 @@ An end-to-end analysis of 10,000+ job postings: API data collection, SQL databas
 
 ## Key findings
 
-- **Python appears in 18% of the job postings.** [76]% of postings that ask for Python also ask for SQL.
+- **Python appears in 18% of the job postings.** 76% of postings that ask for Python also ask for SQL.
 - **Power BI and Tableau** appear in 6.3% and 2.7% of postings.
-- **The most common skill pair is [Python + SQL]**, appearing together in 732 postings.
+- **The most common skill pair is Python + SQL**, appearing together in 732 postings.
 - **Bengaluru leads with 2963 postings**, followed by Hyderabad and Pune.
 - **Salary:** the median advertised salary is ₹11.4L per year (based on 10,889 postings that state one).
 - **What to learn first:** Combination of Python and SQL.
